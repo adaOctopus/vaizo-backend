@@ -1,0 +1,177 @@
+[SOLID APPROACH ON HOW TO COMBINE MARKET INDICATORS IN PAIRS OF 2]
+
+Here are 10 solid combinations of crypto market indicators and how to interpret them for thorough investment research:
+
+MVRV and NUPL (Net Unrealized Profit/Loss)
+
+How to read: Use MVRV to identify market tops (>3.7) or bottoms (<1.0). Combine it with NUPL to determine overall profit or loss sentiment. High NUPL (>0.75) indicates market euphoria, while low values (<0.25) suggest capitulation phases【56】【60】.
+
+Puell Multiple and Miner Revenue
+
+How to read: The Puell Multiple evaluates miner profitability based on revenue trends. Combine it with miner revenue to gauge market phases where miners are incentivized to hold or sell, influencing supply dynamics【57】【59】.
+
+MVRV Z-Score and RHODL Ratio
+
+How to read: MVRV Z-Score indicates overvaluation or undervaluation, while RHODL tracks long-term holder behavior. Together, they pinpoint macro market cycles and potential inflection points【60】【61】.
+
+SOPR (Spent Output Profit Ratio) and Realized Price
+
+How to read: SOPR shows profitability of spent outputs (above 1 = profit, below 1 = loss). Combine with Realized Price to identify market entry or exit points based on average acquisition costs【57】【61】.
+
+Stablecoin Supply Ratio (SSR) and Market Cap
+
+How to read: SSR measures stablecoin supply relative to crypto market cap. High SSR indicates capital is moving into crypto, suggesting bullish sentiment. Combining with market cap reveals liquidity trends【56】【58】.
+
+Thermocap and NVT (Network Value to Transaction Ratio)
+
+How to read: Thermocap measures total investment in mining infrastructure. Combine with NVT to correlate mining investments with network activity and detect valuation extremes【57】【60】.
+
+Long-Term Holder Supply and Realized Cap HODL Waves
+
+How to read: Use Long-Term Holder Supply to track accumulation phases and Realized Cap HODL Waves to identify capitalization shifts across holding cohorts during distribution periods【56】【59】.
+
+MVRV and Funding Rates
+
+How to read: Combine MVRV to detect overbought or oversold conditions with funding rates to understand leveraged positions. High funding rates paired with high MVRV may signal short-term corrections【56】【58】.
+
+Puell Multiple and SOPR Ratio (LTH-SOPR/STH-SOPR)
+
+How to read: The Puell Multiple identifies miner profitability cycles, while SOPR ratios highlight the balance between long-term and short-term holders. Together, they reveal market sentiment shifts【58】【61】.
+
+RHODL Ratio and Exchange Whale Ratio
+
+How to read: RHODL identifies accumulation or distribution zones by long-term holders, while Exchange Whale Ratio tracks large holder activity. Combining these highlights whale-driven market shifts【59】【60】.
+
+These combinations allow for a multidimensional analysis of market trends, investor behavior, and valuation extremes, providing valuable insights for strategic investment decisions. Let me know if you'd like more details on any specific combination!
+
+
+To gain a more comprehensive understanding of whether the market is reaching its top when the MVRV Z-Score is at 6, you can combine it with several other key indicators that are commonly used to analyze market cycles. These indicators help to validate whether the market is overbought or if a potential correction or downturn is imminent.
+
+Here are some complementary indicators you can combine with the MVRV Z-Score to assess if the market cycle is nearing its peak:
+
+1. Relative Strength Index (RSI)
+What it is: RSI measures the magnitude of recent price changes to evaluate overbought or oversold conditions in an asset. The RSI scale ranges from 0 to 100.
+How to use it: An RSI above 70 typically indicates an overbought condition, which can signal that an asset is due for a pullback. If the MVRV Z-Score is high (like 6) and the RSI is also in the overbought region, it could strengthen the case that the market is nearing its top.
+Why it's useful: RSI is a momentum indicator, which can provide a more immediate sense of market exhaustion or exuberance in conjunction with the MVRV Z-Score.
+2. Bitcoin's "Realized Price"
+What it is: This is the price at which the last transaction of each Bitcoin occurred, and it gives a sense of the average price at which all holders are currently "in the money."
+How to use it: If Bitcoin's market price is significantly above the realized price (which the MVRV Z-Score already indicates), a sustained divergence between the two could further confirm that the market is overvalued.
+Why it's useful: A rising MVRV Z-Score paired with a sharp divergence from the realized price suggests a speculative bubble, which could be at risk of popping soon.
+3. Long-Term Holder (LTH) and Short-Term Holder (STH) Supply
+What it is: This metric shows the behavior of long-term versus short-term Bitcoin holders. Long-term holders (who have held for more than 155 days) are generally seen as strong market participants, while short-term holders are more likely to react to market fluctuations.
+How to use it: A large spike in short-term holder supply relative to long-term holder supply can indicate that speculative buying is driving the price, which often happens near market tops.
+Why it's useful: If short-term holders are selling and long-term holders are holding, it could indicate a market correction is on the way, especially when paired with a high MVRV Z-Score.
+4. Volume Profile & Trading Volume
+What it is: Trading volume reflects how much of the asset has been traded in a given period. The volume profile shows where the majority of trades have occurred at different price levels.
+How to use it: A sudden drop in volume during a price rally or high volume spikes near the top of the market can signal a "blow-off" top or market exhaustion. If the MVRV Z-Score is high and volume starts to decline or become erratic, it could signal a top.
+Why it's useful: Volume helps confirm price movements. A high MVRV Z-Score with low volume could indicate a fragile rally, while high volume with price stalls might be the sign of a top.
+5. Market Sentiment Indicators (e.g., Fear & Greed Index)
+What it is: The Crypto Fear & Greed Index tracks market sentiment on a scale from extreme fear to extreme greed, based on factors like volatility, social media activity, and market momentum.
+How to use it: If the Fear & Greed Index is in the "extreme greed" zone (typically 80+), it could indicate that the market is overly optimistic and at risk of a pullback. If combined with a high MVRV Z-Score, it suggests an overly bullish market that might be nearing its top.
+Why it's useful: Extreme greed often correlates with market tops, as it indicates widespread optimism and speculation, often preceding a downturn.
+6. Stock-to-Flow Model (for Bitcoin)
+What it is: The Stock-to-Flow (S2F) model predicts the price of Bitcoin based on its scarcity, using the ratio of current supply (stock) to annual new supply (flow).
+How to use it: If Bitcoin’s price deviates significantly above the predicted value from the S2F model, it could indicate overvaluation. A high MVRV Z-Score paired with a significant gap above the S2F prediction could signal a potential market top.
+Why it's useful: The S2F model provides a long-term perspective on Bitcoin’s valuation, helping to assess whether the market price has detached from long-term expectations.
+7. On-Chain Metrics (e.g., Active Addresses, Transaction Volume)
+What it is: On-chain data reflects the number of active addresses or the volume of transactions on the network.
+How to use it: A sudden spike in on-chain activity or a significant increase in the number of active addresses can suggest that new participants are entering the market. However, if this is combined with a high MVRV Z-Score, it could indicate that the influx of new users is speculative and that the market could be reaching a peak.
+Why it's useful: An increase in user activity can be a sign of growing interest, but when paired with high valuations (via MVRV Z-Score), it could indicate a "retail frenzy" that often precedes a market top.
+8. Volatility (e.g., Historical Volatility or Bollinger Bands)
+What it is: Historical volatility measures how much the price fluctuates over a period, while Bollinger Bands set a range for price movements based on standard deviations.
+How to use it: If volatility is extremely low, a sudden sharp increase in volatility often follows, potentially indicating the beginning of a large price move. A high MVRV Z-Score, coupled with low volatility and an impending breakout (via Bollinger Bands or volatility metrics), might indicate a bubble at the top.
+Why it's useful: Low volatility followed by a sharp price increase or decrease is often seen near market tops or bottoms. It provides an early warning signal when combined with other indicators like MVRV.
+Conclusion:
+If the MVRV Z-Score is at 6, combining it with indicators like the RSI, volume analysis, market sentiment, and on-chain data will provide a better picture of whether the market is truly reaching its top. A confluence of high MVRV Z-Score with overbought conditions in RSI, extreme sentiment in the Fear & Greed Index, a drop in trading volume, or speculative behavior in short-term holders would strengthen the case that the market could be near its peak.
+
+Each indicator adds a layer of confirmation, helping you to assess whether the market cycle is indeed at its top or if further price appreciation could occur before a correction.
+
+To define the state of the crypto cycle, it's useful to track a combination of market indicators that together provide insights into the current phase of the cycle (bullish, bearish, or neutral). Certain pairs of indicators are particularly effective when analyzed together, as they provide complementary information and can help identify potential turning points, overbought/oversold conditions, and underlying trends.
+
+Here are several pairs of crypto market indicators that work well together, along with guidance on how to read them:
+
+1. MVRV Z-Score + RSI (Relative Strength Index)
+MVRV Z-Score measures the difference between the market value and the realized value of Bitcoin, helping to determine whether the market is overvalued or undervalued.
+RSI measures the speed and change of price movements, helping to identify overbought or oversold conditions.
+How to read them together:
+
+Overbought/Overvalued: If MVRV Z-Score is high (e.g., above 6) and RSI is above 70, it suggests that the market is not only overbought in terms of price momentum but also overvalued, indicating a high likelihood of a top.
+Undervalued/Oversold: If MVRV Z-Score is low (e.g., below 1) and RSI is below 30, it suggests that the market is oversold and undervalued, which could be a buying opportunity.
+Combining these two indicators helps to identify potential market tops and bottoms, as well as areas of extreme optimism or pessimism.
+
+2. Volume + Price Action
+Volume measures the amount of an asset traded in a given time period.
+Price Action refers to the movement of the price of an asset over time, often analyzed through candlestick patterns and trends.
+How to read them together:
+
+Volume spikes with price increases: If price rises along with volume spikes, it indicates strong buying interest and the continuation of the trend. This is a healthy bull market signal.
+Price rises with low volume: If price rises, but volume is low, it may suggest a weak rally, potentially signaling a price reversal or a "dead cat bounce."
+Volume peaks with price drops: High volume during a price decline may indicate capitulation (a market bottom), while volume peaks during price increases can suggest greed or a market top.
+Analyzing volume in the context of price action helps identify the strength and sustainability of market trends.
+
+3. Bitcoin Dominance + Altcoin Performance (e.g., Altcoin Market Cap)
+Bitcoin Dominance refers to Bitcoin’s market cap as a percentage of the total cryptocurrency market.
+Altcoin Performance measures the overall performance of altcoins, often measured by the combined market cap of all altcoins.
+How to read them together:
+
+Rising Bitcoin Dominance with Altcoin Decline: If Bitcoin dominance is increasing and altcoins are underperforming, it suggests that Bitcoin is in a bullish phase, and altcoins are in a bearish or consolidation phase.
+Declining Bitcoin Dominance with Altcoin Outperformance: If Bitcoin dominance is decreasing and altcoins are rallying, it indicates a "altcoin season," where altcoins are outperforming Bitcoin, typically seen during periods of strong altcoin growth in a bull market.
+By pairing these two indicators, you can track whether Bitcoin is leading the market or whether altcoins are gaining strength, which provides insights into the cycle stage (Bitcoin dominance usually peaks during the early bull market and diminishes during the altcoin season).
+
+4. Fear & Greed Index + Market Sentiment (e.g., Social Media Sentiment)
+Fear & Greed Index measures market sentiment based on factors like volatility, market momentum, social media activity, and other factors.
+Social Media Sentiment measures the mood and activity on platforms like Twitter, Reddit, or Telegram, indicating the general sentiment of the community (positive, neutral, or negative).
+How to read them together:
+
+Extreme Greed with Positive Sentiment: If the Fear & Greed Index is in the "extreme greed" zone (80+) and social media sentiment is overwhelmingly positive, this could indicate that the market is in a euphoric phase and could be at risk of a sharp correction.
+Extreme Fear with Negative Sentiment: If the Fear & Greed Index is in the "extreme fear" zone (20 or below) and social media sentiment is also negative, it could signal a market bottom, where sentiment is overly pessimistic and an upward reversal might occur.
+Fear & Greed in balance with neutral social sentiment: A balanced Fear & Greed Index paired with a neutral social sentiment might indicate that the market is in a consolidation phase, where both buying and selling pressures are relatively equal.
+This pairing helps gauge the mood of the market, which is particularly useful in recognizing when a shift in sentiment might lead to a trend reversal.
+
+5. On-Chain Data (e.g., Active Addresses) + Transaction Volume
+Active Addresses represents the number of unique addresses interacting on the blockchain, which can be an indicator of user activity and network adoption.
+Transaction Volume is the total amount of value transferred on the blockchain in a given period.
+How to read them together:
+
+Rising Active Addresses with Transaction Volume: A rising number of active addresses combined with increasing transaction volume signals growing adoption and network activity, often seen during a strong bull market.
+Stagnant Active Addresses with High Transaction Volume: If transaction volume is high but active addresses are stagnant, it suggests that trading activity is high but not necessarily driven by new users, which might indicate speculative activity rather than organic growth.
+Pairing on-chain data with transaction volume helps track whether the market's growth is driven by real network activity or just speculative trading.
+
+6. Moving Averages (e.g., 50-day and 200-day) + MACD (Moving Average Convergence Divergence)
+50-day and 200-day Moving Averages are used to identify the short-term and long-term trends in the market.
+MACD is a momentum oscillator that measures the difference between two moving averages (typically 12-day and 26-day) and shows whether a trend is strengthening or weakening.
+How to read them together:
+
+Golden Cross (50-day crosses above 200-day) + MACD Bullish Cross: If the 50-day MA crosses above the 200-day MA (Golden Cross) and MACD shows a bullish crossover (12-day EMA crossing above the 26-day EMA), it suggests a strong bullish trend, indicating the beginning of an uptrend.
+Death Cross (50-day crosses below 200-day) + MACD Bearish Cross: If the 50-day MA crosses below the 200-day MA (Death Cross) and MACD shows a bearish crossover (12-day EMA crossing below the 26-day EMA), it indicates a potential downtrend or bear market.
+By pairing moving averages with MACD, you can confirm whether a trend is strengthening or weakening, helping you identify potential buy or sell signals.
+
+Conclusion:
+Tracking the right pair of indicators is crucial for understanding the state of the crypto cycle. Here's a quick guide to some of the best pairs to track:
+
+MVRV Z-Score + RSI: Identify overbought/oversold conditions.
+Volume + Price Action: Confirm trend strength.
+Bitcoin Dominance + Altcoin Performance: Understand if Bitcoin or altcoins are leading.
+Fear & Greed Index + Market Sentiment: Gauge market mood.
+On-Chain Data + Transaction Volume: Track adoption and speculative activity.
+Moving Averages + MACD: Confirm trend direction and strength.
+By interpreting these pairs together, you can create a comprehensive view of where the market stands in the cycle, helping to predict potential tops, bottoms, and trend changes. Always remember that no single indicator is foolproof—combining multiple indicators increases your chances of making more informed decisions.
+
+
+
+
+[ALTCOIN SEASON INDICATOR]
+
+It defines altcoin season as occurring when over 75% of the top 50 altcoins outperform Bitcoin over the past 90 days. Most recently, this index crossed the 75% mark on December 2nd and held for one week. The previous altcoin season kept this index above the threshold for nearly three months.
+
+Altcoin Index needs to be above 75% and be held there for a while to be defined as Altcoin Season. Needs to stay there at least a month.
+
+As of December 2024, the Altcoin Season Index suggests that we are currently not in an "Altcoin Season." The index is at a level where Bitcoin is still leading the market, as only 67% of the top 50 altcoins have outperformed Bitcoin in the last 90 days​
+BLOCKCHAIN CENTER
+. This indicates that Bitcoin remains dominant in the market, and altcoins are underperforming in comparison.
+
+While altcoins have seen some movement in the market, the broader performance has been lackluster. Many altcoins are facing challenges, particularly newer tokens that have high fully diluted valuations and low liquidity, which has made it harder for them to maintain strong price performance​
+COINMARKETCAP
+. Additionally, institutional interest is still largely focused on Bitcoin, further delaying a potential shift towards altcoin dominance.
+
+Thus, at this moment, it is more appropriate to consider this a "Bitcoin Season" rather than an "Altcoin Season." The crypto market remains influenced heavily by Bitcoin's price action and institutional developments, which are likely to continue shaping the cycle into 2024.

@@ -1,0 +1,2378 @@
+Investing in the crypto market is hard and requires a lot of effort and participation. I am a bit stressed about missing out the market top for this crypto bull run. I am following macro investors and crypto influencers like:
+- Raoul Pal
+- Michael Howell
+- Money ZG
+- Benjamin Cowen
+- Jason Pizzino
+- VirtualBacon
+Based on market research, and based on what the above mentioned people recommend, give me a list of the 10 most important indicators and signals to watch in order to define if the Crypto Market Top is here so I can take profits.
+
+ChatGPT said:
+ChatGPT
+
+Searched 5 sites
+Based on insights from macro investors and crypto influencers, here are 10 key indicators and signals to watch to identify the crypto market top and take profits effectively:
+
+Global Liquidity Peaks
+Watch for a slowdown in global liquidity growth, often a precursor to market corrections. Raoul Pal emphasizes tracking central bank policies, as tightening liquidity can signal a market top【69】【70】.
+
+Bitcoin Dominance (BTCD)
+A sharp rise in Bitcoin dominance followed by its decline often indicates the end of the cycle, as capital moves from altcoins back into Bitcoin before exiting the market【71】.
+
+Extreme Greed in Fear and Greed Index
+This index measures market sentiment. When it hits extreme greed consistently, it often precedes a significant market correction【72】.
+
+Parabolic Price Action
+When prices, especially Bitcoin and Ethereum, rise parabolically without substantial corrections, it can signal unsustainable market euphoria【70】【73】.
+
+On-Chain Metrics
+Monitor metrics like long-term holder profit-taking, realized profit/loss ratios, and miner activity. Elevated profit-taking or miner sell-offs often indicate the top【73】.
+
+Altcoin Overperformance
+Historically, an altcoin rally that significantly outpaces Bitcoin's gains suggests an overheated market nearing its peak【70】.
+
+Stablecoin Supply Decline
+A drop in stablecoin supply can indicate reduced buying power in the market, often signaling a top as liquidity diminishes【71】.
+
+Price Divergences
+When large-cap cryptos rally while small-cap tokens start declining, it suggests weakening market breadth—a potential warning sign【73】.
+
+Macroeconomic Factors
+Pay attention to interest rate changes, fiscal stimulus cycles, and inflation data. A shift toward hawkish monetary policy typically impacts speculative assets like crypto【70】.
+
+Institutional Selling or Distribution
+Look for spikes in exchange inflows by whales or institutions, as this often precedes significant sell-offs【69】【72】.
+
+Staying informed on these indicators can help you navigate the market top effectively. Combine these insights with your risk tolerance and trading strategy for optimal decision-making. Always conduct personal research and consider seeking professional financial advice.
+
+
+
+
+
+
+You said:
+Now based on the above give me the 10 most technical indicators that predict the top of the upcoming cycle like MVRV, liquidity index, ISM etc.
+ChatGPT said:
+ChatGPT
+
+Searched 5 sites
+Here are 10 key technical indicators to monitor for predicting the top of the upcoming crypto market cycle, based on insights and research:
+
+MVRV Ratio (Market Value to Realized Value):
+This compares the market capitalization to the realized cap. Values above 3.7 often indicate market tops, while values below 1 suggest potential bottoms​
+GATE.IO
+​
+CRYPTOQUANT USER GUIDE
+.
+
+MVRV-Z Score:
+A derivative of MVRV that uses standard deviation to measure extremes. Historically, a Z-score above 7 signals a market top​
+CCN.COM
+​
+GLASSNODE INSIGHTS
+.
+
+Net Unrealized Profit/Loss (NUPL):
+Tracks the unrealized gains or losses of the entire market. High NUPL values often correlate with euphoric tops​
+CRYPTOQUANT USER GUIDE
+.
+
+Puell Multiple:
+Measures miner revenue relative to historical norms. High values suggest excessive miner profitability and often align with market tops​
+CRYPTOQUANT USER GUIDE
+.
+
+Stock-to-Flow Deviation:
+Tracks how far the Bitcoin price deviates from its predicted stock-to-flow value. Peaks above predicted levels can indicate speculative bubbles​
+CRYPTOQUANT USER GUIDE
+.
+
+Liquidity Index:
+Examines global liquidity flows, a favorite metric of Raoul Pal. A peak in liquidity often aligns with a market top​
+THE DAILY HODL
+​
+INTERACTIVE BROKERS
+.
+
+Spent Output Profit Ratio (SOPR):
+SOPR values greater than 1 indicate most coins are being sold at a profit. Sustained high SOPR often precedes a correction​
+CRYPTOQUANT USER GUIDE
+.
+
+UTXO Age Bands:
+Measures the age distribution of unspent transaction outputs. Spikes in older coins being spent often signal distribution phases, typical of market tops​
+CRYPTOQUANT USER GUIDE
+.
+
+Bitcoin Dominance (BTCD):
+A rapid rise in Bitcoin dominance followed by a decline often signifies a cycle’s peak, as capital rotates out of altcoins​
+INTERACTIVE BROKERS
+​
+GLASSNODE INSIGHTS
+.
+
+Exchange Whale Ratio:
+Tracks the proportion of large transactions to exchanges relative to total inflows. High ratios often indicate significant sell-offs by whales​
+CRYPTOQUANT USER GUIDE
+.
+
+These indicators, when used collectively, provide a comprehensive view of market behavior. Keep monitoring them alongside macroeconomic factors and sentiment metrics to gauge when the cycle may peak.
+
+
+# tactiq.io free youtube transcript
+# Michael Howell Reveals How Global Liquidity Determines Bitcoin’s Value
+# https://www.youtube.com/watch/L3nOHtQ5p9s
+
+00:00:00.000 will there be another financial
+00:00:01.760 crisis yeah yeah you think of course
+00:00:04.560 there will be because the fact is that
+00:00:07.319 debt grows exponentially and liquidity
+00:00:09.800 is cyclical and debt ain't going out of
+00:00:12.559 fashion politicians are just kicking the
+00:00:14.160 can down the road they're taking on more
+00:00:16.079 and more debt the more the central banks
+00:00:17.760 paper over the cracks the more they pump
+00:00:19.720 in liquidity the more monetary inflation
+00:00:21.880 you get the higher the gold price goes
+00:00:23.800 and the higher Bitcoin goes enjoy the
+00:00:26.199 party but dance near the
+00:00:28.320 door hello guys before we dive into this
+00:00:30.960 video I want to give a quick shout out
+00:00:32.759 to today's sponsors primexbt primexbt is
+00:00:36.440 an all-in-one platform for all things
+00:00:38.280 trading you can trade gold crypto and
+00:00:40.960 100 plus global markets using crypto I
+00:00:43.840 personally use primes BT to trade gold
+00:00:46.000 and Bitcoin and after watching this
+00:00:48.039 video you'll understand why the next
+00:00:50.160 sponsor is Delta app Delta is an
+00:00:52.760 all-in-one investment tracker that helps
+00:00:54.719 you keep an eye on your crypto stocks
+00:00:57.199 and commodities you can easily connect
+00:00:59.559 all your investment accounts Brokers
+00:01:02.120 Banks exchanges and wallets making
+00:01:04.959 tracking your portfolio automatic and
+00:01:07.600 effortless with Delta you can get a
+00:01:10.000 clear overview of all your Holdings in
+00:01:12.159 one place giving you the perfect way to
+00:01:14.600 zoom out and see the bigger picture this
+00:01:17.360 is something I use myself well I use
+00:01:20.000 that block fio but you all know what
+00:01:21.759 happened
+00:01:26.159 there hey everyone I'm here in London
+00:01:28.799 with the king of liquidity
+00:01:30.600 himself Michael Howell so Michael is the
+00:01:32.680 managing director of crossb capital the
+00:01:35.320 de developer of the global liquidity
+00:01:37.200 cycle and the author of Capital
+00:01:39.439 Wars um maybe first of all for all the
+00:01:42.360 viewers uh who might not know you uh
+00:01:44.680 could you briefly introduce yourself and
+00:01:46.680 why have you been watching liquidity for
+00:01:48.799 so long and since when okay well um hi
+00:01:52.560 Jack great to be here much looking
+00:01:53.920 forward to our discussion um if I go
+00:01:57.200 back in my career and basically I
+00:01:59.039 started off in Investment Banking uh
+00:02:01.840 with a US firm called Salomon Brothers
+00:02:04.240 um Salomon Brothers was the uh probably
+00:02:06.880 the bond markets worldwide it was the
+00:02:08.679 biggest fixed income Trader worldwide it
+00:02:11.520 uh did lots of work in Forex markets it
+00:02:13.879 was uh basically trying to understand or
+00:02:16.080 actually it was it was transacting a lot
+00:02:18.319 of these Capital flows that we now
+00:02:20.319 describe and uh part of the research
+00:02:23.000 process that Salomon Brothers was
+00:02:24.400 actually understanding uh the direction
+00:02:27.000 and the size of capital flow worldwide
+00:02:30.080 and the view very much was if you could
+00:02:31.920 understand the flow you really
+00:02:32.959 understood how markets were likely to
+00:02:34.920 move so it came from practice you know
+00:02:38.000 looking at how markets operated and uh
+00:02:40.560 basically doing an awful lot of data
+00:02:42.159 collection and that's pretty much what
+00:02:43.760 we've been doing um you know for 25
+00:02:46.159 years since then so it's collecting data
+00:02:48.680 from central banks colle collecting data
+00:02:51.360 on Capital flow worldwide and putting
+00:02:53.200 that together in a framework that allows
+00:02:56.000 us to understand uh Global liquidity
+00:02:58.519 movements and hence there impact on
+00:03:00.440 asset markets yeah so that's why I want
+00:03:02.560 to talk about you today so basically
+00:03:04.360 today we're going to talk about how
+00:03:05.959 Global liquidity affects Bitcoin but
+00:03:08.680 first we need to understand so Michael
+00:03:10.680 what is global
+00:03:12.159 liquidity the way that we Define it is
+00:03:14.680 the flow of money uh by that we mean um
+00:03:19.159 credit and savings through financial
+00:03:22.440 markets uh it's not and I I stress this
+00:03:25.560 point because it's important to say what
+00:03:26.840 it isn't it isn't traditional measures
+00:03:28.720 of money supply like M2 or M1 or these
+00:03:31.400 sort of things they are really measuring
+00:03:34.040 uh if you like money in banks in High
+00:03:35.799 Street Banks and if you believe that
+00:03:37.400 retail deposits in banks are what the
+00:03:39.799 financial system is about well you know
+00:03:41.680 I'll come quietly but unfortunately the
+00:03:43.640 world has moved on an awful lot in 20 or
+00:03:46.080 30 years we now look at very broad uh
+00:03:49.560 measures of liquidity that include
+00:03:51.000 Shadow Banks include what central banks
+00:03:53.120 do include what uh foreign investors are
+00:03:55.400 doing cross border so it's a very very
+00:03:57.480 broad uh analysis of uh of flows of
+00:04:00.480 capital or flows of money and can you
+00:04:02.680 maybe continue on the difference between
+00:04:04.640 Global M2 and uh Global liquidity
+00:04:07.280 because when I look at a lot of analysis
+00:04:09.920 I see a lot of analysts just saying
+00:04:12.000 Global liquidity is global M2 but that's
+00:04:14.360 not the case yeah I think one of the one
+00:04:16.478 of the great problems with with
+00:04:17.600 economics is that uh uh things that you
+00:04:20.120 can measure easily become very important
+00:04:23.120 uh because a lot of people are very lazy
+00:04:24.840 and they don't dig behind uh publish
+00:04:27.000 statistics and the problem with looking
+00:04:29.560 at things like M2 is that M2 is really
+00:04:31.840 measuring uh the deposits in other words
+00:04:35.039 the uh the liabilities side of retail or
+00:04:38.360 High Street Banks Now High Street banks
+00:04:41.240 are no longer the main stay of the
+00:04:42.919 financial system uh if you look globally
+00:04:46.400 uh the answer would be that probably
+00:04:48.199 they are responsible for maybe something
+00:04:50.680 like 40% of total credit so uh they're
+00:04:53.759 important but they're certainly not the
+00:04:55.320 the the the big size they used to be uh
+00:04:58.240 if we go back maybe 4 50 years then I'll
+00:05:01.000 accept the fact that High Street Banks
+00:05:02.880 were very important in the financial
+00:05:04.320 system now they've been eclipsed by lots
+00:05:06.560 of other forms of credit Shadow bunch I
+00:05:08.680 mentioned central banks are important uh
+00:05:11.360 you know there a lot of credit which is
+00:05:13.120 uh uh basically created through what are
+00:05:15.160 called FX swaps uh these are things
+00:05:17.320 which are outside the normal remit of
+00:05:19.360 High Street Banks yeah so you touched a
+00:05:21.680 little bit on it so um what are
+00:05:24.400 generally the main drivers of global
+00:05:27.639 liquidity well the answer comes down to
+00:05:30.479 really really two factors one is what
+00:05:32.639 the central banks are doing um and uh
+00:05:36.319 you know we can drill down into that
+00:05:38.039 that equation but what that really boils
+00:05:40.199 down to is essentially trying to
+00:05:41.880 understand the the two big central banks
+00:05:44.039 in the world uh one is the Federal
+00:05:46.199 Reserve maybe quite obviously and the
+00:05:47.960 other is the People's Bank of China and
+00:05:50.000 they tend to their influence tends to be
+00:05:52.120 rather different so the Federal Reserve
+00:05:54.520 if it changes uh the structure of its
+00:05:56.639 balance sheet or eases credit it will
+00:05:58.919 have a major effect on financial markets
+00:06:01.080 and financial asset prices uh and that's
+00:06:03.520 largely because uh we're on a US dollar
+00:06:05.960 standard if the People's Bank of China
+00:06:08.360 changed monetary policy it tends to
+00:06:10.360 affect the tempo of the Chinese economy
+00:06:12.599 and because the Chinese economy has such
+00:06:14.199 a large industrial footprint uh it will
+00:06:17.160 affect then global economic activity and
+00:06:19.919 commodity markets so you could broadly
+00:06:22.120 say in very crude terms that the Federal
+00:06:24.440 Reserve controls the asset markets and
+00:06:27.360 the pboc The People's Bank of China
+00:06:29.599 controls commodity markets now that's
+00:06:32.599 the Central Bank element there's another
+00:06:34.720 element that we've got to think about
+00:06:36.080 which is how the private sector then
+00:06:38.319 creates credit from that base and what's
+00:06:40.960 important to understand then is
+00:06:43.160 collateral and ever since the uh Global
+00:06:46.520 financial crisis in 2008 pretty much all
+00:06:49.639 lending now is somehow collaterally
+00:06:51.639 based now many people will be familiar
+00:06:53.919 with collateral in the sense of thinking
+00:06:55.680 of a home mortgage so if you're
+00:06:57.319 borrowing money to purchase a house the
+00:07:00.280 loan is collateralized or backed by the
+00:07:03.120 real estate that you're buying so that's
+00:07:04.759 a mortgage uh but most lending now is
+00:07:08.080 sort of mortgage like in a sense that it
+00:07:09.879 has collateral but that collateral tends
+00:07:12.199 to be uh things like uh government bonds
+00:07:15.479 and the most frequently used collateral
+00:07:18.440 is US Government treasuries um so those
+00:07:21.879 treasuries back lending now that makes
+00:07:25.160 up the collateral base of the financial
+00:07:27.160 system and it operates alongside what
+00:07:29.680 the central banks are doing and we think
+00:07:32.440 of what's called a collateral multiplier
+00:07:35.240 in other words how many times that
+00:07:36.879 collateral can be used uh and reused
+00:07:39.560 within the financial system and that
+00:07:41.639 collateral multiplier tends to be
+00:07:43.879 something like about one and 3/4 times
+00:07:47.120 so every uh let's say every $100 of
+00:07:50.000 collateral in the form of let's say
+00:07:51.840 treasuries can be multipied can almost
+00:07:54.599 be doubled in effect its effect on
+00:07:56.680 creating liquidity now what affects the
+00:07:59.159 SI of that multiplier is basically the
+00:08:02.440 assessment of credit providers in other
+00:08:04.759 words uh those people that are making
+00:08:06.599 the loans as to how volatile or how uh
+00:08:10.159 or the prospective prices of the
+00:08:12.879 collateral in the future so for example
+00:08:15.560 if the collateral that you're posting uh
+00:08:17.919 a Government Bond or you take my analogy
+00:08:20.199 of a of a house uh goes down in value
+00:08:23.360 substantially then they would want
+00:08:25.680 protection the lender would want
+00:08:27.159 protection against that risk so the way
+00:08:29.639 they judg that is looking at the
+00:08:31.200 volatility of the collateral given the
+00:08:33.958 fact that it's mostly these days
+00:08:35.440 government bonds uh what is important to
+00:08:38.760 look at is something like the move index
+00:08:41.240 the move index is like the VIX Index but
+00:08:43.679 the move index measures bond market
+00:08:45.600 volatility across the US Treasury curve
+00:08:48.320 and the move index tends to influence
+00:08:50.440 the amount of uh or the effective use of
+00:08:52.959 collateral in the system in other words
+00:08:54.720 it drives the collateral multiplier so
+00:08:57.120 what I tend to say as a quick and dirty
+00:08:58.920 way of understanding liquidity is to say
+00:09:01.000 look you really need to look at three
+00:09:02.519 basic things one is what the Federal
+00:09:04.560 Reserve is doing in terms of its
+00:09:05.800 liquidity injections two what the
+00:09:07.800 People's Bank of China is doing with its
+00:09:09.519 liquidity injections and three the
+00:09:12.440 effectiveness of collateral measured
+00:09:14.360 through the move index and if you get a
+00:09:16.160 falling move index and Rising liquidity
+00:09:19.000 inflows from those two central banks
+00:09:20.920 then Global liquidity tends to rise yeah
+00:09:23.800 and also uh from your book I read uh
+00:09:26.160 crossborder uh Capital flows are very
+00:09:28.360 important um maybe if you could
+00:09:30.000 elaborate on that a little bit more
+00:09:31.480 because um let's say if you send money
+00:09:34.120 from one country to another country how
+00:09:35.839 does this add liquidity is it because of
+00:09:38.240 the extra credit creation or The
+00:09:39.720 Leverage or how does that work well it's
+00:09:41.640 a great question I think it's uh I think
+00:09:43.480 one's got to uh one has to clearly bring
+00:09:45.959 into account crossb flows uh they're a
+00:09:48.880 vital part of the International
+00:09:50.399 Financial system and the way that they
+00:09:52.399 operate is that uh if you've got uh
+00:09:55.040 let's say you've got dollars which are
+00:09:56.480 moving across cross borders um foreign
+00:10:00.240 Banks or credit providers can use those
+00:10:02.680 dollars themselves as collateral and
+00:10:04.640 they can lend against them they can
+00:10:05.839 multiply that so uh movements of Reserve
+00:10:10.399 currencies if you like can be very
+00:10:12.399 important in that equation of actually
+00:10:13.880 creating liquidity uh I mentioned
+00:10:16.120 earlier FX swaps FX swaps are another
+00:10:18.880 way of creating liquidity and that's
+00:10:21.240 just effectively you know swapping out
+00:10:23.000 of one currency into another currency uh
+00:10:25.680 but if you're again using the dollar as
+00:10:28.360 one of the current one of the currencies
+00:10:29.920 in that cross then that dollar can be
+00:10:32.200 used as collateral that can be
+00:10:33.600 multiplied further so it becomes complex
+00:10:37.360 but it's very important to bring that
+00:10:38.800 that that side in now if you look at the
+00:10:41.600 evolution of the global monetary system
+00:10:44.519 and we go back probably 10 15 years the
+00:10:47.399 euro dollar markets were very important
+00:10:49.279 in terms of creating uh credit uh
+00:10:52.000 outside of maybe what the Federal
+00:10:53.480 Reserve was doing and think of the euro
+00:10:55.720 dollar markets as an independent pool of
+00:10:57.720 dollars that uh that Banks worldwide
+00:11:00.680 could dip into to actually create Credit
+00:11:03.320 Now that pool of Euro dollars has shrunk
+00:11:06.560 significantly in the last uh 10 or 15
+00:11:09.200 years largely because of increasing
+00:11:11.600 controls uh from the US Federal Reserve
+00:11:14.079 and the US Treasury uh so the euro
+00:11:16.320 dollar market although we don't really
+00:11:17.600 know the true size of it hasn't really
+00:11:19.920 expanded in 15 years it's still around
+00:11:22.680 about Circa $15 trillion from uh
+00:11:25.040 according to bis estimates yeah it has
+00:11:27.560 to be really hard to uh meure meas the
+00:11:30.399 crossb flows um is this maybe the reason
+00:11:33.160 some people leave it out of the global
+00:11:34.839 liquidity and how do you measure these
+00:11:37.360 flows well I mean the way we we do it
+00:11:40.240 through uh we we do a lot of data
+00:11:42.680 collection and we we're uh looking and
+00:11:45.560 talking to uh central banks and
+00:11:47.519 financial systems around the world so we
+00:11:49.279 we piece these flows together so we've
+00:11:51.519 got an idea of the size of crossb Flows
+00:11:53.839 In in the markets now where that where
+00:11:57.000 those crossb flows really matter uh
+00:11:59.839 tends to be when you're thinking about
+00:12:01.360 Emerging Market investment because flows
+00:12:04.160 of money into Emerging Markets tend to
+00:12:06.120 be huge drivers of their financial
+00:12:08.240 systems and if you start to see uh
+00:12:10.680 liquidity via crossb Capital moving into
+00:12:14.120 say Asian Emerging Markets then what
+00:12:16.560 will happen is the uh the local central
+00:12:18.920 banks will monetize those inflows for
+00:12:21.279 the simple reason they don't want their
+00:12:22.560 currencies to rise so they'll print
+00:12:24.480 money at the same time in other words
+00:12:26.480 and that will create a huge domestic
+00:12:28.560 credit expansion
+00:12:30.079 and that's one of the things we may be
+00:12:32.480 about to see looking forward because
+00:12:34.680 what we're seeing now is a falling
+00:12:36.079 dollar and it may well be that those uh
+00:12:38.760 that that's reflecting of money moving
+00:12:41.120 outside of the US again yeah so um good
+00:12:44.560 that you say moving dollar so maybe
+00:12:46.279 let's talk a bit about the US Federal
+00:12:47.959 Reserve so um if I understand it
+00:12:50.839 correctly so we currently live in a
+00:12:52.639 world where we have a lot of outstanding
+00:12:54.600 debt and to be able to refinance this
+00:12:56.959 debt we need to R roll that over with
+00:12:59.240 new Dept um and you already said as well
+00:13:02.440 so the balance sheet capacity is more
+00:13:04.360 important than the interest rates but
+00:13:06.839 the thing is so right now I think it was
+00:13:09.160 a couple of days ago the FED cut their
+00:13:11.240 interest rates by 50 basis points so how
+00:13:13.760 will this affect global liquidity will
+00:13:16.240 it affect it or is is that not that as
+00:13:19.440 important well I think it's a it's an
+00:13:21.680 interesting philosophical point I mean
+00:13:23.680 the the thing is that is that interest
+00:13:25.680 rate Cuts per se don't necessarily
+00:13:27.680 increase liquidity um uh in actual fact
+00:13:31.120 I mean one of the paradoxes of recent
+00:13:33.240 years would be to say that actually
+00:13:35.560 increasing interest rates uh may be uh a
+00:13:38.880 greater source of demand in the world
+00:13:40.639 economy ironically and the reason for
+00:13:42.839 that is is that governments have G now
+00:13:44.760 got so much debt they're sitting on so
+00:13:46.680 much debt that if their interest bill
+00:13:48.680 goes up that's clearly a transfer
+00:13:50.320 payment uh to the private sector so
+00:13:52.959 another words if I'm holding a
+00:13:54.440 Government Bond and interest rates go up
+00:13:56.160 I'm going to get more income so you've
+00:13:58.240 got to start thinking carefully about
+00:14:00.040 maybe how the financial system has
+00:14:01.639 changed where there's so much debt
+00:14:03.480 around and it may well be paradoxically
+00:14:06.120 now that actually if interest rates are
+00:14:08.600 being cut it's actually reducing demand
+00:14:10.839 in the world economy that may be a
+00:14:12.320 paradox but it's worth speculating on
+00:14:14.839 that now to come back to why interest
+00:14:17.839 rates are less important and maybe why
+00:14:19.800 liquidity is more important which I
+00:14:21.279 think is a key point for everybody to
+00:14:23.480 understand because it's not the normal
+00:14:24.920 textbook view generally if you pick up
+00:14:27.600 an economics or a finance text book uh
+00:14:30.320 it will tell you that uh interest rates
+00:14:32.720 are what matter interest rates govern uh
+00:14:36.079 the cycle of capital investment and
+00:14:38.199 using a sort of traditional Keynesian
+00:14:39.880 model uh if Capital spending goes up or
+00:14:42.399 comes down it's multiplied through to a
+00:14:44.759 bigger increase in GDP and that's what
+00:14:46.720 creates growth and we sit on or we sit
+00:14:49.880 uh looking at a 9 to 10 year business
+00:14:51.880 cycle which is really that capital
+00:14:53.519 investment cycle and behind all that
+00:14:56.320 Capital markets stand as
+00:14:59.560 uh New Capital raising mechanisms now in
+00:15:02.160 all those counts the world is different
+00:15:04.560 okay uh there's not a great deal of
+00:15:06.600 capital spending going on or if there is
+00:15:08.680 capital spending going on it's operating
+00:15:10.399 in China uh which doesn't operate along
+00:15:12.680 these lines is is effectively the state
+00:15:14.560 is allocating money for capex um so
+00:15:18.040 that's Point number one point number two
+00:15:20.399 is that uh against that backdrop of not
+00:15:23.279 much Capital spending going on what
+00:15:25.639 financial markets are doing more and
+00:15:27.160 more of is actually refin ing or rolling
+00:15:30.000 over existing debts in the world economy
+00:15:33.000 right now there's something like $350
+00:15:35.240 trillion of outstanding debts private
+00:15:38.079 and public and those debts have to be
+00:15:40.720 repaid at some stage and on average they
+00:15:43.519 have a maturity of about 5 years which
+00:15:45.839 means that you've got on average $70
+00:15:48.360 trillion to refinance or roll over every
+00:15:51.880 year on average now some years it may be
+00:15:54.600 30 some years it may be 60 some years it
+00:15:58.079 may be 100 so that's not evenly
+00:16:00.319 distributed and one of the things you
+00:16:01.959 will hear people talking about in
+00:16:03.720 markets even right now is the thought
+00:16:06.240 about the maturity wall and the maturity
+00:16:08.720 wall basically is represents the fact
+00:16:12.079 that uh over the last few years in a low
+00:16:14.720 interest rate environment a lot of
+00:16:16.680 Corporations have refinanced their debt
+00:16:19.440 uh opportunistically with low interest
+00:16:21.880 rates and much of that is maturing
+00:16:24.040 around 2026 so what you've got is a
+00:16:26.639 maturity wall uh which has been very low
+00:16:29.240 for the last 2 years but it's really
+00:16:30.639 starting to emerge again uh around uh in
+00:16:33.480 around two years time now the reason
+00:16:36.360 these things are very important is that
+00:16:38.319 if you got these debt roles to undertake
+00:16:40.800 on average $70 trillion a year you need
+00:16:43.480 balance sheet capacity to do that and
+00:16:46.079 balance sheet capacity in the financial
+00:16:48.360 sector is liquidity I mean that's really
+00:16:50.720 what it is so you need liquidity in the
+00:16:52.959 system and what you tend to find if you
+00:16:54.920 look over the long term uh is that there
+00:16:58.160 is a long run ratio uh constant ratio
+00:17:01.440 between the amount of debt in the system
+00:17:03.360 and the amount of liquidity and if you
+00:17:05.400 start to see debt Rising relative to
+00:17:08.240 liquidity you risk refinancing problems
+00:17:11.919 and if you get refinancing problems you
+00:17:13.919 get financial crisis and every financial
+00:17:17.000 crisis that you can think of going back
+00:17:18.640 over the past few decades has
+00:17:20.359 fundamentally been a refinancing crisis
+00:17:22.280 think of 2008 uh think of the Asian
+00:17:25.079 financial crisis in 97 uh think of the
+00:17:28.039 US repo crisis in 2019 all examples of
+00:17:31.600 refinancing crisis so you need liquidity
+00:17:34.600 so the whole idea that central banks can
+00:17:37.520 undertake um QT um you know forever is
+00:17:42.160 completely fanciful they've got to come
+00:17:44.160 back and they've got to expand their
+00:17:45.440 balance sheets and that's what we're
+00:17:47.160 beginning to see again now yeah but so
+00:17:49.400 currently the FED is still in QT and
+00:17:51.840 when will they move towards quantitative
+00:17:53.760 easing well the the fed the FED in
+00:17:56.760 theory um is do doing QT on paper um
+00:18:01.919 there's a difference between in practice
+00:18:04.520 uh and on paper and although they say
+00:18:07.360 that they are doing QT what they Define
+00:18:10.520 now as QT is basically reducing the
+00:18:13.159 headline size of the balance sheet
+00:18:16.159 now prior to their QT exercise they used
+00:18:20.159 to define QE as expansions of liquidity
+00:18:23.799 not as expansions in the size of the
+00:18:25.320 balance sheet so they've changed the
+00:18:27.120 definitions very subtly to own advantage
+00:18:30.120 and if you look within the balance sheet
+00:18:32.400 and you look at the liquidity creating
+00:18:34.360 elements of the balance sheet you'll
+00:18:36.240 find that since late
+00:18:38.840 2022 uh so almost what two years ago
+00:18:42.039 they have been expanding liquidity into
+00:18:44.360 US financial markets and how does this
+00:18:47.600 quantitative easing work in reality is
+00:18:49.919 it because some people just say it's
+00:18:51.559 money printing but how does this work uh
+00:18:53.760 in general well it it is money printing
+00:18:57.360 um in a yes now they creating I mean any
+00:19:00.520 way that you're creating credit uh in a
+00:19:03.360 credit money economy is effectively
+00:19:05.200 printing money so yeah sure they can't
+00:19:07.200 deny they're doing that the question is
+00:19:08.760 what's the scale of it and I think what
+00:19:10.520 you've got to understand or people have
+00:19:11.960 got to understand is the way that uh
+00:19:14.960 let's say the the landscape of the
+00:19:17.360 financial system has changed radically
+00:19:19.919 uh in the last few years now partly
+00:19:22.480 that's uh about the Federal Reserve and
+00:19:24.960 about the central banks and partly it's
+00:19:27.000 about the governments and the finance
+00:19:29.559 Ministries or the treasur is how they
+00:19:31.080 operate and let me fix on the US not
+00:19:33.799 because the US is necessarily the bad
+00:19:35.600 guy but because the US is very
+00:19:37.520 transparent uh it's a big economy and
+00:19:39.559 it's actually very easy to understand
+00:19:41.919 and if you look at the Federal Reserve
+00:19:43.840 first of all the Federal Reserve as I
+00:19:45.720 said since late 2022 has been expanding
+00:19:48.840 liquidity in the system and it's
+00:19:50.840 basically done that through increasing
+00:19:53.720 elements on the balance sheet that
+00:19:55.480 obviously create liquidity but by
+00:19:57.320 definition things like fed credit so Fed
+00:20:00.200 Credit into the system is increased and
+00:20:02.679 the withdrawals that come that the
+00:20:05.200 Federal Reserve or the treasury make
+00:20:06.760 from the money markets have declined now
+00:20:09.760 uh what people would tend to look at or
+00:20:11.679 what what we look at and this goes back
+00:20:14.240 a lot to uh the time I was at Salomon
+00:20:16.600 brothers and Salomon Brothers put a lot
+00:20:18.440 of effort into fed watching uh you know
+00:20:20.720 back in the 80s and 90s and whatever and
+00:20:23.520 the way that we used to look at the
+00:20:24.720 Federal Reserve was basically to look at
+00:20:27.360 uh elements on the asset side of the
+00:20:29.440 balance sheet like Fed Credit you would
+00:20:31.520 have to add to that any operating losses
+00:20:33.919 that the Federal Reserve is making
+00:20:35.600 because that's effectively uh giving
+00:20:37.480 money to the banks uh and on top of that
+00:20:40.600 you would subtract um things like the
+00:20:43.520 treasury general account uh which is
+00:20:45.840 basically a withdrawal of cash uh out of
+00:20:48.600 the money markets by the US Treasury the
+00:20:50.640 US Treasury builds up its bank deposit
+00:20:52.840 account effectively at the fed and
+00:20:54.960 that's taking money out of circulation
+00:20:57.159 or new fangled things
+00:20:59.320 uh you know like um reverse repos and
+00:21:02.480 reverse repos are a slightly wonkish
+00:21:04.280 concept but it's basically uh again uh
+00:21:07.400 what's happening is the Federal Reserve
+00:21:08.799 in this case is taking money out of the
+00:21:10.480 system and supplying very short-term uh
+00:21:13.120 paper to the market in return for that
+00:21:15.320 so these are the these are the
+00:21:16.919 technicalities but if you look at that
+00:21:19.000 equation of fed liquidity fed liquidity
+00:21:21.480 is expanded pretty consistently since
+00:21:23.880 late
+00:21:24.919 2022 uh and it's going to go up more
+00:21:27.799 because in the next few months uh we are
+00:21:30.360 heading towards the re-imposition of the
+00:21:32.240 debt ceiling in the US and that debt
+00:21:34.559 ceiling as part of its requirement uh is
+00:21:36.919 that the treasury general account is
+00:21:38.360 actually paired down to quite low levels
+00:21:40.600 low operating levels so there's more fed
+00:21:43.360 liquidity likely coming so if you look
+00:21:45.360 at the Federal Reserve the Federal
+00:21:46.559 Reserve is clearly doing what I would
+00:21:48.440 describe as not qeqe okay uh so they say
+00:21:52.679 that they say they're doing a QT but
+00:21:54.200 that's only their own definition uh it's
+00:21:56.320 basically disguise QE and that's going
+00:21:58.000 to continue
+00:21:59.880 the second thing to look at is what the
+00:22:01.600 treasury is doing and the treasury's
+00:22:03.320 been particularly clever and Janet
+00:22:05.000 Yellen at the treasury has you know one
+00:22:07.480 one my Applause in terms of what she's
+00:22:09.159 done because what they've managed to do
+00:22:11.320 very cleverly is to change the structure
+00:22:14.159 of funding for the US government there's
+00:22:16.720 an increasing uh proportion of funding
+00:22:19.400 which is now done through treasury bills
+00:22:21.559 a treasury bill is an instrument of
+00:22:23.960 government security uh of up to one year
+00:22:26.520 maturity it pays no coupon uh but it's
+00:22:29.279 basically uh it's uh sold beneath par
+00:22:32.240 and redeemed at par uh a treasury bill
+00:22:35.600 now or treasury bills now account for
+00:22:37.120 about 22% of total US debt the other
+00:22:40.000 thing they've done very cleverly and
+00:22:41.559 without very much commentary in fact is
+00:22:43.960 that they have um uh reduced the average
+00:22:47.600 maturity of bonds sold at their uh uh
+00:22:51.760 through the calendar when the treasury
+00:22:54.480 comes to the market and issues
+00:22:56.279 government debt the average tenor of
+00:22:58.559 that debt has dropped by about 1.2 years
+00:23:02.360 since the end of 2022 now in fixed
+00:23:04.760 income terms that's quite a big drop so
+00:23:06.760 in other words to put it in granular
+00:23:08.520 terms they're no longer issuing 10year
+00:23:10.799 bonds or 20year bonds or 30-year bonds
+00:23:13.240 they're issuing bonds much uh closer to
+00:23:16.159 2 years 3 years 5 years s years so the
+00:23:19.000 whole uh focus of treasur issuances
+00:23:22.520 changed or shifted in maturity from the
+00:23:24.640 long end towards the short end of the
+00:23:26.159 market now why is that important you ask
+00:23:28.960 comes back to your point about
+00:23:30.120 monetization printing money because who
+00:23:33.600 tends to buy long-dated uh debt in the
+00:23:36.320 markets in other words 20- year or
+00:23:38.240 30-year bonds it tends to be Pension
+00:23:40.000 funds or life insurance funds and those
+00:23:43.320 funds are simply dipping into existing
+00:23:45.400 savings so it's just a reallocation of
+00:23:47.760 savings from one pot to another it is
+00:23:50.279 not monetization it's purely uh a direct
+00:23:52.799 funding out of existing savings so
+00:23:54.440 there's no problem with that or the or
+00:23:57.559 the only problem could be is that if
+00:23:59.159 there's not the appetite for bonds
+00:24:00.559 interest rates will clearly go up if you
+00:24:02.840 fund at the short end of the market uh
+00:24:05.240 in other words through bills or
+00:24:06.520 short-dated bonds it tends to be the
+00:24:09.279 banks or the credit providers that buy
+00:24:11.520 those uh those instruments and the
+00:24:14.000 reason being is if you think about what
+00:24:15.720 happens when the government is running a
+00:24:17.679 deficit if the government's running a
+00:24:19.640 deficit and let's say it's because uh
+00:24:22.200 I'm the government and I'm paying you as
+00:24:23.760 a government worker and you put the
+00:24:25.559 money in your bank account the bank's
+00:24:27.440 balance sheet will be misalign because
+00:24:30.080 it's received a deposit and the deposits
+00:24:32.720 or the its liabilities now exceed its
+00:24:35.279 assets so it's got to find a matching
+00:24:37.200 asset for that deposit and what better
+00:24:39.480 than a short-term government debt uh
+00:24:41.760 like a bill or a short-dated bond and
+00:24:44.039 that's exactly what happens now the
+00:24:45.919 difference between these two cases which
+00:24:47.919 as I say may be somewhat Arcane or
+00:24:49.640 wonkish is the fact that in the pension
+00:24:52.399 fund example bank's balance sheets
+00:24:54.039 didn't increase in the second example
+00:24:56.559 they've increased and any in increase in
+00:24:59.080 bank balance sheets or credit providers
+00:25:01.240 balance sheets is a liquidity expansion
+00:25:03.399 and that's a monetization and this is
+00:25:05.840 what's happening in the US if you look
+00:25:07.480 at this year something like to go back
+00:25:09.240 to your uh your statistic of M2 uh M2 as
+00:25:12.919 it say is measuring High Street Banks
+00:25:14.960 balance sheets but if you look at M2 for
+00:25:17.000 example uh about 34s of the increase in
+00:25:19.720 M2 this year has been through direct
+00:25:21.960 monetization of of the government
+00:25:24.159 deficit big number and then the only
+00:25:26.880 thing I don't understand in that is how
+00:25:29.000 can this refining system continue to
+00:25:31.320 survive in the long term uh are the
+00:25:33.679 policy makers hoping on AI or some
+00:25:35.799 technical advancements or will we just
+00:25:37.600 live the next decade with uh higher than
+00:25:39.799 normal
+00:25:41.320 inflation well I think that's the
+00:25:43.200 $664,000 question um Can the politicians
+00:25:46.520 keep kicking the can down the road and I
+00:25:49.240 think the examples you know from history
+00:25:51.799 um are enlightening but maybe not very
+00:25:54.200 encouraging and if you look at the the
+00:25:56.559 two instances or actually there are
+00:25:58.520 three instances I could site of big debt
+00:26:01.720 increases okay now the first of those
+00:26:04.840 came after the Napoleon Wars and the
+00:26:08.200 British economy saw a big increase in
+00:26:10.320 its debt public debt uh to pay for the
+00:26:13.520 wars against Napoleon in Europe and that
+00:26:16.320 caused the debt GDP ratio for the UK to
+00:26:19.159 Skyrocket now that period um in the the
+00:26:23.600 subsequent period saw the debt GDP ratio
+00:26:26.799 of the UK come down quite appreciably
+00:26:29.440 but you got to remember what was the
+00:26:30.640 background the background was the
+00:26:31.840 Industrial Revolution and productivity
+00:26:34.120 gains were huge now you could e you
+00:26:36.679 could also say that that wasn't a
+00:26:38.520 particularly comfortable period for
+00:26:40.080 people uh that were in the working class
+00:26:42.320 to actually live because they had to
+00:26:44.000 work you know uh long long hours under
+00:26:46.919 terrible conditions but there was a big
+00:26:48.960 increase in productivity in the UK
+00:26:50.559 economy and the debt GDP ratio came down
+00:26:53.480 so park that thought the other two
+00:26:55.640 examples basically come uh immediately
+00:26:58.039 after World War II again featuring the
+00:26:59.760 British economy where the debt GDP ratio
+00:27:02.760 was again Sky High um through the 19
+00:27:05.760 late 1940s and 1950s but it did come
+00:27:08.120 down now that period uh for the British
+00:27:11.440 economy wasn't a particularly great one
+00:27:13.120 in factual fact the subsequent decades
+00:27:14.880 have not been great the British economy
+00:27:16.720 has never come back to its former uh
+00:27:19.080 strength uh because of that big debt
+00:27:21.240 burden and it was only really reduced
+00:27:23.760 because of a baby boom uh in the postwar
+00:27:26.720 years which actually led to uh faster
+00:27:29.159 GDP so that was another way of uh of
+00:27:32.159 sort of getting debt down and a lot of
+00:27:34.080 the welfare systems that were then
+00:27:35.880 enacted uh by the British government and
+00:27:38.279 other governments were payers you go
+00:27:39.919 systems so they depended on the young
+00:27:42.760 workers uh effectively paying in uh and
+00:27:45.720 they could offset uh any older workers
+00:27:47.880 that are retiring or needed welfare
+00:27:49.399 benefits the trouble is that equation
+00:27:51.240 has now gone dramatically the other way
+00:27:54.000 so you haven't got young workers coming
+00:27:55.480 in you got a lot of older people needing
+00:27:57.320 welfare third example is Japan and Japan
+00:28:00.559 has got sky high debt GDP ratios uh but
+00:28:04.559 again you know the Japanese economy is
+00:28:07.000 is suffering Japan uh is not like uh it
+00:28:10.240 was in the 1980s it's not seeing big
+00:28:12.159 productivity gains it's an old aging
+00:28:14.480 Society it's suffering from uh you know
+00:28:17.159 bounce of deflation from time to time
+00:28:19.360 and although the Japanese standard of
+00:28:20.720 living is is pretty decent uh it's
+00:28:23.360 certainly not advancing it's being
+00:28:24.960 caught up by a lot of other countries
+00:28:26.679 particularly if the yen is weak as it
+00:28:28.600 has been in the last um year or so so
+00:28:31.080 you've got these examples of saying that
+00:28:33.919 economies can survive uh with high debt
+00:28:36.760 to GDP ratios uh you know the Japanese
+00:28:39.200 wake up every morning they eat breakfast
+00:28:40.919 and whatever and they go to work and
+00:28:42.360 everyone seems comfortable but the
+00:28:44.000 economic lifestyle has changed these are
+00:28:45.720 not Dynamic economies and that's the
+00:28:47.799 problem you get when you get large
+00:28:49.320 amounts of public sector unproductive
+00:28:51.159 debt in an economy growth tends to slow
+00:28:54.640 and that's the issue we got to face so
+00:28:56.440 it's quite feasible that you could see
+00:28:58.600 these high debt GDP ratios persisting
+00:29:01.159 for a long time politicians will kick
+00:29:03.640 the can down the road because they're
+00:29:04.880 never going to tackle them and so what
+00:29:06.720 you need to finance these debts is more
+00:29:08.760 and more liquidity now as you rightly
+00:29:11.000 allude to that liquidity is fungible H
+00:29:14.559 it moves in other words and it can spill
+00:29:16.600 over into other areas so it can spill
+00:29:19.000 over into asset markets which it does do
+00:29:21.440 and it drives asset prices higher and it
+00:29:23.640 spills over into the High Street and
+00:29:25.200 creates inflation now
+00:29:28.480 what's the difference between monetary
+00:29:30.159 inflation which I've been talking about
+00:29:32.519 uh in terms of the expansion of
+00:29:34.159 liquidity and High Street inflation
+00:29:36.640 which is really what bothers most people
+00:29:38.120 when their Consumer Price baskets go up
+00:29:40.679 and the answer is there's a close but
+00:29:43.000 not exact connection and monetary
+00:29:46.559 factors or monetary inflation is an
+00:29:48.559 important ingredient into consumer
+00:29:51.159 prices but it's not the only Factor so
+00:29:53.480 you've got to think about oil prices
+00:29:54.840 you've got to think about productivity
+00:29:56.600 gains other words techn technology
+00:29:58.559 technological advances you got to think
+00:30:00.440 about China dump jumping dumping cheap
+00:30:02.760 Goods into Western markets uh tax
+00:30:05.760 changes oil prices all these things come
+00:30:08.360 into the consumer basket but they're not
+00:30:10.320 about monetary inflation so monetary
+00:30:12.760 inflation uh in the last 20 years has
+00:30:15.799 been quite substantial but High Street
+00:30:18.080 inflation has been very low and that's
+00:30:19.880 because you've seen by definition cost
+00:30:22.519 deflation through these other factors
+00:30:24.519 now the question to ask is looking
+00:30:25.880 forward 20 years are we going to see the
+00:30:28.279 same degree of cost deflation well maybe
+00:30:31.279 but that's a projection and I would be
+00:30:33.720 skeptical or we're going to see the same
+00:30:35.120 amount but you know may be willingly or
+00:30:37.399 happily surprised in the in the event
+00:30:39.360 but who knows but you have got a lot of
+00:30:41.279 monetary inflation and monetary
+00:30:42.960 inflation seems to be running on at a
+00:30:45.120 rate of something like 8 to 10% per anom
+00:30:47.919 which really means that the stock of
+00:30:50.399 liquidity is doubling within 10 years
+00:30:53.799 every 10 years so what that basically
+00:30:56.360 means is that uh if you start to think
+00:30:58.880 about asset markets if asset markets
+00:31:01.399 need to keep Pace with monetary
+00:31:02.919 inflation they've got to double as well
+00:31:04.799 every 10 years so what are the assets
+00:31:06.760 you need to own Now spoiler alert gold
+00:31:11.240 has always been a very good monetary
+00:31:13.279 inflation hedge and if you look back
+00:31:16.080 since year
+00:31:17.440 2000 um the stock of US Government debt
+00:31:21.320 federal debt has increased Eightfold 80
+00:31:25.320 fold since year 2000
+00:31:28.120 the price of gold bullion has increased
+00:31:30.360 by about 8 and a half times since year
+00:31:32.760 2000 so gold has been a great hedge now
+00:31:35.080 we know Bitcoin has actually done even
+00:31:37.600 better than that but that may be sort of
+00:31:39.799 an unfair statistic because Bitcoin is
+00:31:42.679 there's new take up as well coming into
+00:31:44.279 Bitcoin but you want to think seriously
+00:31:47.080 away from the traditional 6040 asset
+00:31:50.159 allocation mix with 60 Equity 40 bonds
+00:31:53.480 because that is not going to work in a
+00:31:55.919 world where you've got monetary
+00:31:57.240 inflation you need to diversify the
+00:31:59.960 40% uh that's in bonds into lots of
+00:32:02.760 other areas you got to think about gold
+00:32:05.240 you got to think about cryptocurrencies
+00:32:07.399 you've got to think about um treasury
+00:32:09.600 inflation protected securities in other
+00:32:11.559 words index link bonds you got to think
+00:32:13.519 about prime residential real estate you
+00:32:15.519 may even think about
+00:32:17.080 Commodities great answer so to recap so
+00:32:20.440 you actually don't think the FED will be
+00:32:22.039 able to keep its 2% Targets in the
+00:32:24.960 future no I don't think I think that's
+00:32:28.600 right but I think the the reality is if
+00:32:30.840 you start to drill down into the data um
+00:32:34.279 the underlying inflation rate in the US
+00:32:37.279 or the way the market is envisioning
+00:32:39.880 long-term inflation is not the 2% that
+00:32:41.880 is represented as Break Even inflation
+00:32:44.840 in the bond markets I think it's much
+00:32:46.880 higher than that already I think it's
+00:32:48.039 nearer 3 and a half% and the reason that
+00:32:50.320 you can get to that figure is that the
+00:32:53.159 treasury as I said is sort of fiddling
+00:32:55.440 the cards here because they're doing a
+00:32:57.120 lot of issuance at the short end of the
+00:32:59.679 market because they're issuing at the
+00:33:01.720 short end of the market they are
+00:33:03.360 starving institutions like Pension funds
+00:33:06.039 and life insurance funds of long C long
+00:33:08.519 dated coupon Bonds in other words 10
+00:33:10.639 year and 20e treasuries so the price of
+00:33:14.880 those bonds is artificially inflated and
+00:33:17.799 so if you look at the yields which is
+00:33:19.799 the inverse of the price of a bond at
+00:33:22.240 the 10-year tener uh it's probably about
+00:33:25.159 100 to 150 basis points lower than it
+00:33:28.000 should be okay and you can work you can
+00:33:30.320 look at these calculations
+00:33:31.399 mathematically it's something we do and
+00:33:34.000 that is the Distortion that's being
+00:33:35.519 caused by what the treasury in the US is
+00:33:37.799 doing now if you hold that thought and
+00:33:39.840 you say well actually uh therefore uh if
+00:33:43.120 the conventional bond is 100 to 150
+00:33:45.639 basis points uh lower in yield than it
+00:33:48.440 really should be because of their
+00:33:50.159 Shenanigans if we factored uh a true
+00:33:53.200 bond yield in um that is probably nearer
+00:33:56.440 52% and look at the real yield on tips
+00:33:59.919 then the break even inflation rate is
+00:34:01.720 not the 2% that's advertised it's near a
+00:34:04.159 3 and a half% and that's what I think
+00:34:06.399 the Bond markets are really telling us
+00:34:08.159 now that inflation is higher now the
+00:34:10.280 Federal Reserve is never going to change
+00:34:11.480 its 2% Target but that would be Madness
+00:34:13.800 from their point of view they're going
+00:34:15.040 to keep the you know keep up the pretend
+00:34:18.280 yeah all right so um this was a federal
+00:34:21.639 reserve so now the the second most
+00:34:23.599 important driver as you said is the pboc
+00:34:25.599 The People's Bank of China so uh could
+00:34:27.960 you explain what happened last week in
+00:34:29.399 China because I saw they cut their
+00:34:31.239 interest rates and I even saw today they
+00:34:33.760 were injecting a lot of liquidity I
+00:34:36.239 think it was 1 trillion youan uh to Big
+00:34:38.960 Banks so can you explain what what's
+00:34:40.879 happening there yeah okay it's um I
+00:34:43.839 think one's got to sort of start at the
+00:34:45.560 beginning with China because it's a it's
+00:34:46.918 a complicated
+00:34:48.359 situation uh the short answer is that as
+00:34:52.079 regarding the uh interventions that the
+00:34:55.599 People's Bank and the government have
+00:34:57.119 made in the last last few days it's
+00:34:59.079 really too early to say and to judge uh
+00:35:02.160 what they're doing and what effect it
+00:35:03.359 will have uh I know a lot of
+00:35:05.240 commentators have sort of jumped up and
+00:35:06.880 said you know this means X this means y
+00:35:09.040 i there's no way they can tell in
+00:35:10.680 honesty uh it's it's it's purely for the
+00:35:13.400 cameras um the the problem that China's
+00:35:17.440 got is twofold one is a cyclical problem
+00:35:19.760 one is a secular
+00:35:21.280 problem the secular problem is that
+00:35:23.680 basically uh red capitalism if that's
+00:35:26.280 the way you can describe it the Chinese
+00:35:28.599 economic model does not work unless the
+00:35:31.119 West accommodates it okay because
+00:35:34.000 basically uh what China has needed is
+00:35:37.320 use of the dollar uh it's effectively a
+00:35:39.760 dollarized economy and also it needs
+00:35:43.040 access to Western markets and if the
+00:35:45.119 West makes it difficult for China to use
+00:35:46.920 the dollar and it basically puts tariffs
+00:35:49.560 or controls up to stop China dumping
+00:35:51.760 Goods than the Chinese economic model uh
+00:35:53.960 Founders and that's exactly what's been
+00:35:55.720 going on so China's found it very very
+00:35:57.880 very difficult to uh continue to grow
+00:36:00.240 along
+00:36:01.839 Trend that will be something that is not
+00:36:04.440 going to be easily resolved it's not in
+00:36:06.160 the gift of China uh it's really in the
+00:36:08.319 gift of the west or the the world
+00:36:10.440 economy I would say and it will not be
+00:36:12.079 resolved overnight but it was something
+00:36:13.920 will emerge over coming years as to how
+00:36:17.119 that that uh that circle is squared the
+00:36:19.920 cyclical issue is a different question
+00:36:22.520 as well maybe it's connected but it's
+00:36:25.319 really a different uh different problem
+00:36:27.920 that is that the Chinese economy went
+00:36:30.079 into
+00:36:31.440 lockdown uh rather like everybody else
+00:36:33.720 through covid but the Chinese econom has
+00:36:36.319 never emerged from that lockdown because
+00:36:38.680 the Chinese uh People's Bank has never
+00:36:40.839 been able to ease monetary policy to
+00:36:42.920 lift the economy out again and the
+00:36:45.040 reason for that was that a target of the
+00:36:47.680 Chinese uh Administration has been to
+00:36:50.640 keep the Yuan the Chinese currency the
+00:36:53.280 RB if you like uh firm against the US
+00:36:56.480 dollar and the US dollar has been quite
+00:36:58.920 strong through this period what's more
+00:37:01.280 the Yen has collapsed and that's put uh
+00:37:04.040 a lot of pressure downward pressure on
+00:37:06.119 the Chinese currency and so what the
+00:37:08.119 Chinese have been doing through this
+00:37:09.520 period has been tightening monetary
+00:37:11.000 policy just at the time when they
+00:37:12.800 shouldn't be doing that and so the
+00:37:14.960 result is that uh the Yuan has been held
+00:37:17.560 up but the economy is basically uh been
+00:37:20.599 pushed down and that backdrop is one
+00:37:23.280 which has basically caused deflation now
+00:37:25.839 another way to think about this is to is
+00:37:27.720 to think in terms of China overproducing
+00:37:30.920 Goods which is doing this is the red
+00:37:33.839 capitalism model if you like China
+00:37:35.960 produces a lot but doesn't consume very
+00:37:37.880 much so the excess production is
+00:37:40.000 basically sold into the world economy
+00:37:42.400 now from an economics point of view what
+00:37:44.160 that means is that if there is that
+00:37:45.880 Surplus
+00:37:47.240 existing markets should operate to
+00:37:50.000 eliminate the Sur Surplus by pushing
+00:37:52.839 down the real exchange rate in other
+00:37:54.440 words the exchange rate adjusted for uh
+00:37:56.800 relative price
+00:37:58.520 and either China's nominal exchange rate
+00:38:01.640 Falls to clear the market or prices in
+00:38:04.599 China fall okay now what I've just been
+00:38:07.280 saying is that the Chinese have gone to
+00:38:09.240 Great Lengths to hold the currency up so
+00:38:11.920 by holding the currency up in the face
+00:38:13.560 of the excess production it means they
+00:38:15.920 put all the pressure on adjustment on
+00:38:20.240 prices in both the High Street and in
+00:38:22.319 asset markets and consequently what
+00:38:24.400 you've been seeing in China is deflation
+00:38:26.640 in both markets
+00:38:28.119 now the question the Chinese got to have
+00:38:29.760 got to make is well okay we're looking
+00:38:32.319 at this adjustment process we already
+00:38:33.839 really just started it and if they're
+00:38:36.160 insistent on keeping the Yuan up you're
+00:38:39.079 going to likely to see much much greater
+00:38:41.520 deflation in the Chinese economy now
+00:38:43.760 that is impossible because no economy
+00:38:45.560 can really stand that degree of
+00:38:47.040 deflation without falling apart so the
+00:38:49.240 Chinese really have to do something and
+00:38:52.040 my view is that they've really got uh a
+00:38:54.400 number of choices choice number one is
+00:38:57.040 that they somehow Chang their economic
+00:38:58.680 model that's really the the structural
+00:39:00.359 argument we were talking about earlier
+00:39:01.560 on that they're not want to do that
+00:39:03.680 overnight the second thing is that they
+00:39:05.680 could basically boost the economy with
+00:39:07.280 monetary policy uh and forget about the
+00:39:10.400 uan exchange rate um and allow the Yuan
+00:39:13.880 to devalue significantly that is the
+00:39:16.160 most likely long-term Outlook in my view
+00:39:19.000 so we're looking at a significantly
+00:39:20.760 weaker uan and just for the record if
+00:39:23.520 you look at what happened in Japan in
+00:39:25.599 the 1980s in Korea and Taiwan in the
+00:39:29.280 late ' 80s early '90s in the other Asian
+00:39:32.119 economies in the late 1990s and
+00:39:34.680 Scandinavia around the early 90s these
+00:39:36.920 are all examples of countries that
+00:39:39.560 basically saw asset Bubbles and
+00:39:41.359 overvalued real exchange rates and every
+00:39:44.040 single uh problem was ultimately
+00:39:46.160 resolved by currency collapse so China
+00:39:48.480 is no different here it's it's got to go
+00:39:50.599 down that same road now there is a a a
+00:39:53.920 short-term alternative and the
+00:39:55.920 short-term alternative is that rather
+00:39:58.440 than um the Chinese uh devaluing um the
+00:40:03.520 dollar could fall significantly and that
+00:40:05.680 would give the Chinese some uh some room
+00:40:09.319 for
+00:40:10.319 maneuver and it may be that there's a
+00:40:12.400 deal which has been done and one of the
+00:40:14.319 things that we've been arguing for the
+00:40:15.680 last few months is that it looks as if
+00:40:17.920 um the there's been an agreement between
+00:40:20.280 the Chinese uh the Japanese and the
+00:40:23.079 Americans to basically allow the US
+00:40:25.280 dollar to fall a bit not dramatically
+00:40:27.480 but fall a bit and that is being uh
+00:40:29.880 driven by us monetary policy easing now
+00:40:34.040 it so happened that in the wake of the
+00:40:35.839 US monetary policy announcement of
+00:40:38.079 easing by the Federal Reserve uh within
+00:40:40.760 about a week or so of that the Chinese
+00:40:42.400 have announced this polic eing so they
+00:40:44.680 always say in financial markets there
+00:40:46.200 are no unconnected events uh unrelated
+00:40:48.920 events and this is an example of that
+00:40:50.720 the Japanese have voiced or they said at
+00:40:53.520 the beginning of August which is why the
+00:40:55.000 Yen jumped up um they were going to
+00:40:57.599 tighten monetary policy well forget that
+00:40:59.359 there's no way the Japanese could
+00:41:01.160 tighten monetary policy they can't raise
+00:41:02.920 interest rates their debt burden is so
+00:41:05.200 big they would just compound their debt
+00:41:06.760 interest payments so they can't do that
+00:41:09.040 so realistically the only maneuver could
+00:41:11.640 be for the FED to ease the FED may have
+00:41:13.920 won some quid pro quo from the Chinese
+00:41:18.000 don't know what that is could be
+00:41:19.319 connected with Ukraine it could be
+00:41:20.560 connected with buying us treasuries in
+00:41:22.119 the long term I just don't know but it
+00:41:24.240 could be and therefore you're seeing the
+00:41:26.599 dollar aggressively coming down and that
+00:41:29.480 will give the Chinese a window where
+00:41:31.000 they can ease policy and somehow dig
+00:41:33.119 themselves out of the mess at least
+00:41:34.640 temporarily so that's what I think is
+00:41:36.280 going on now can we infer that from the
+00:41:39.960 announcement they made two or three days
+00:41:42.000 ago no not at all because they were
+00:41:44.400 talking about you know minor minor
+00:41:46.319 changes of interest rates of a few basis
+00:41:48.200 points uh they were talking about you
+00:41:50.160 know letting the banks have an extra
+00:41:52.160 trillion dollars by uh changing reserve
+00:41:54.720 requirements well you know big deal what
+00:41:56.640 they should be doing doing here is they
+00:41:58.680 don't operate by the way through
+00:41:59.880 interest rates they operate through the
+00:42:01.680 state allocation of credit it's all
+00:42:03.400 about the pboc injecting money into the
+00:42:05.960 money markets which the shadow Banks can
+00:42:07.880 take up or it's through directives to
+00:42:10.480 the state-owned banks and so what we've
+00:42:12.640 got to look at to judge this correctly
+00:42:15.280 is to look at the course of Japanese uh
+00:42:17.079 sorry Chinese Bank lending over the
+00:42:19.359 course of the next few months and to
+00:42:21.240 look to see how much money The People's
+00:42:23.520 Bank of China injects into their money
+00:42:25.040 markets but that's something you can't
+00:42:26.599 tell on one day basis you could look at
+00:42:29.079 over the course of several weeks yeah
+00:42:31.960 and another question so we're talking
+00:42:34.160 about uh China and pboc so um China will
+00:42:38.079 expend its liquidity and my question was
+00:42:41.040 uh so we're going to talk about Bitcoin
+00:42:42.599 later in the video but um do you think
+00:42:45.559 the Chinese ban on bitcoin uh affects it
+00:42:48.920 will the expansion in liquidity still
+00:42:50.520 have an effect on bitcoin although it's
+00:42:52.040 ban in China I'm not sure if you have
+00:42:54.040 the answer but I was thinking well I
+00:42:55.960 think that I don't I don't think the
+00:42:57.800 Chinese ban really matters to that
+00:42:59.760 extent um but you know the the issue
+00:43:03.240 that we're really looking at here is
+00:43:04.839 that uh I wouldn't necessarily fix so
+00:43:07.599 much on what CH what China is doing with
+00:43:10.200 its liquidity in this context uh I'd
+00:43:13.079 think about the association that the
+00:43:15.119 Federal Reserve is easing and the
+00:43:16.839 Federal Reserve is going to have a
+00:43:18.119 bigger impact anyway but you know what
+00:43:20.599 what tends to matter for things like the
+00:43:23.200 price of Bitcoin and for all assets
+00:43:25.240 tends to be in general global liquidity
+00:43:27.720 not specific country liquidity I know I
+00:43:29.880 made the point earlier on that the US
+00:43:31.359 tends to the margin tends to be more
+00:43:33.119 important for financial assets that's
+00:43:35.319 true China tends to be more important
+00:43:37.400 for commodity markets that's true but
+00:43:39.800 liquidity is fungible so you know we've
+00:43:42.720 got to look at the whole picture and
+00:43:44.559 it's not just China easing in isolation
+00:43:47.319 the US is easing as well the ECB is
+00:43:49.760 easing I mean one of the biggest
+00:43:51.079 increases in liquidity we've seen this
+00:43:53.200 year has come out of the European
+00:43:54.559 markets so uh it's not just an isolated
+00:43:58.400 event here most central banks something
+00:44:00.359 like 70% of central banks now worldwide
+00:44:03.720 by number are easing liquidity the super
+00:44:06.960 tanker is turning around how much did he
+00:44:08.960 say 70% of 70% by number of central
+00:44:12.960 banks okay are easing all right so now
+00:44:16.440 let's talk Global liquidity effect on
+00:44:18.880 asset prices so and I have a quote here
+00:44:20.640 from your book so you quoted the ECB in
+00:44:22.880 2012 saying measures of liquidity are
+00:44:25.680 one of the best performing leading
+00:44:27.319 indicators of asset price booms and
+00:44:29.280 busts so basically if more Capital flows
+00:44:31.839 into the system how does that affect the
+00:44:34.400 valuation of equities well quite simply
+00:44:37.200 they go up but I mean you you've heard
+00:44:38.640 it from the horse's mouth this is what
+00:44:40.640 the the policy makers are actually
+00:44:42.280 telling us yeah they they're agreeing
+00:44:44.280 with this uh it's just the trouble is
+00:44:46.520 the academics are you know years and
+00:44:48.559 years behind in catching up with this
+00:44:50.160 concept and is this because of the
+00:44:52.400 debasement of the currency or why is it
+00:44:55.520 well I mean you could say it Tim Ely
+00:44:57.319 does debase the currency there's no
+00:44:58.720 question about that but it's really
+00:45:00.400 because if I give you more money you're
+00:45:02.000 going to spend it and what do you spend
+00:45:03.920 it on well you might buy yourself a new
+00:45:05.680 sports car or you might buy you know
+00:45:08.559 uh a new suit But ultimately if you got
+00:45:11.480 lots of liquidity left over you're going
+00:45:13.160 to put it into Financial assets yeah U
+00:45:15.520 and it's as simple as that and how come
+00:45:17.720 it moves in in
+00:45:19.800 Cycles well that's an interesting
+00:45:22.240 question I think the question it what it
+00:45:24.640 really comes down to I would say is
+00:45:27.680 um three different things okay one is
+00:45:31.119 that there is uh we must recognize
+00:45:33.559 there's a cycle in policy and that cycle
+00:45:37.079 in policy could well have political um
+00:45:41.760 drivers so it may be that uh you know
+00:45:44.599 despite what what is said by the Federal
+00:45:46.720 Reserve as being independent or central
+00:45:48.280 banks being independent on paper they
+00:45:50.640 are influenced by politicians and by the
+00:45:52.520 political cycle that may be the case I
+00:45:54.880 mean clearly if you look at the Federal
+00:45:56.319 Reserve right now now there's been a lot
+00:45:57.680 of debate about whether the interest
+00:45:59.720 rate cut was political or not whether it
+00:46:01.800 was trying to you know help uh Cala
+00:46:05.280 Harris become elected so you we we've
+00:46:09.200 got to acknowledge that's true the
+00:46:11.680 second fact is that liquidity uh if
+00:46:15.040 liquidity is in financial markets it's
+00:46:16.800 not in the real economy and liquidity
+00:46:19.200 can't be in two places at once and so if
+00:46:21.359 you got a very strong real economy uh
+00:46:24.280 then you're going to get very weak
+00:46:26.520 Financial markets because money will be
+00:46:28.119 sucked out of the financial sector and
+00:46:29.760 equally vice versa so what we're really
+00:46:32.359 saying is that if there is uh an
+00:46:34.400 economic cycle what you're likely to see
+00:46:36.599 as well is that economic cycle being
+00:46:38.520 reflected in financial markets so in
+00:46:40.800 other words strong economies don't have
+00:46:42.839 strong financial markets it tends to be
+00:46:44.920 weaker economies have strong financial
+00:46:46.800 markets which is the Paradox and then
+00:46:48.680 the third thing which is probably the
+00:46:49.920 most dominant is about debt rollover so
+00:46:53.480 uh I mentioned earlier on about the
+00:46:55.079 maturity wall that matur wall U you know
+00:46:58.720 is not there this year and it's probably
+00:47:00.800 not around very much next year but it's
+00:47:03.280 certainly really coming uh in 2026 and
+00:47:07.160 that maturity wall will mean that a lot
+00:47:09.599 of uh liquidity is likely to be used for
+00:47:12.040 debt rollover so that's another use so
+00:47:14.520 what you've got is a cycle our view is
+00:47:17.160 that the cycle is about six well in fact
+00:47:19.920 our estimates are 65 months and that
+00:47:23.280 that may seem an overly precise figure
+00:47:25.359 but let me explain how we got there
+00:47:27.520 uh we did uh what is called technically
+00:47:30.040 or mathematically uh furri an analysis
+00:47:33.079 which is basically uh sort of fitting
+00:47:35.760 Cycles uh you know sine waves if you
+00:47:38.119 like to uh to data series and we did an
+00:47:41.640 exercise uh back in year 2000 so you
+00:47:44.359 know almost 25 years ago now where we
+00:47:46.599 basically had our liquidity data going
+00:47:48.960 back to 1970 and we fitted a fuer
+00:47:51.920 analysis uh to that data series and we
+00:47:54.520 came up with uh uh the fact that the
+00:47:58.680 cycle is moving with a frequency of
+00:48:00.720 about 65 months now we haven't changed
+00:48:02.880 it since the year 2000 we've just let
+00:48:05.480 those Cycles run on uh but remarkably
+00:48:08.280 they capture the bulk of uh of movements
+00:48:10.839 of inflections in global liquidity so it
+00:48:13.880 seems as if there is a fairly regular
+00:48:15.800 pattern now it so happens that that 65
+00:48:19.079 Monon uh period on average is the
+00:48:21.880 average maturity of debt in the world
+00:48:24.880 economy so in other words what this
+00:48:27.480 liquidity cycle is dominated by is a
+00:48:30.359 debt refinancing cycle and that's how I
+00:48:33.839 I would best explain it yeah and so yeah
+00:48:36.200 then the thing is um if it's widely
+00:48:38.960 known that investors known that the
+00:48:40.720 global liquidity moves in Cycles uh
+00:48:43.040 doesn't that mean that investors can
+00:48:44.680 easily profit from it and doesn't that
+00:48:47.119 also mean that efficient markets don't
+00:48:50.640 work well you're right I mean well I
+00:48:53.880 suppose it's it I think that if you go
+00:48:56.839 back to the fact that um you know let
+00:49:00.359 let's take your first
+00:49:02.000 statement can investors profit from it
+00:49:04.960 yes do investors profit from it yes do
+00:49:08.280 all investors profit from it no uh
+00:49:11.160 because there's a large constituency out
+00:49:13.079 there who basically does not believe in
+00:49:15.640 the concept of liquidity uh it people
+00:49:18.280 say you know it's it's subject to the
+00:49:20.839 greater fall Theory um you
+00:49:23.440 know why why should why AR markets
+00:49:26.880 efficient in the sense of a textbook
+00:49:28.839 sense that if we know all this uh you
+00:49:31.520 know why is it that uh that that markets
+00:49:33.960 still move up now there's an interesting
+00:49:36.480 uh you know joke or anecdote which is
+00:49:39.440 that you know two economics professors
+00:49:41.440 are walking across a lawn in uh in
+00:49:43.720 America and one of them spies out of the
+00:49:46.480 corner of his eye a $100 bill and he
+00:49:49.200 bends down to pick it up and the other
+00:49:50.599 professor says don't uh because we're an
+00:49:53.160 efficient market world that doesn't
+00:49:54.680 exist uh someone else must have picked
+00:49:56.480 it up before you and that that's really
+00:49:58.920 the you know that I think is explains
+00:50:00.920 really what's going on is that you've
+00:50:03.119 got to understand that if there's more
+00:50:04.599 money in the system people will react to
+00:50:06.440 that and uh markets may be great at
+00:50:09.119 discounting information but they also
+00:50:11.559 respond to liquidity uh and if liquidity
+00:50:14.960 is going up more people are going to buy
+00:50:17.520 uh if liquidity is going down they're
+00:50:19.000 going to be for Sellers and the way that
+00:50:20.799 we think about markets is not really
+00:50:22.599 from the perspective of individual
+00:50:24.680 Securities it's through the mass of
+00:50:26.760 investors and we recognize the fact that
+00:50:29.440 investors operate via constraints they
+00:50:31.839 have liability constraints they've got
+00:50:33.440 to they've got to make so for example
+00:50:35.280 think of you know your retirement or
+00:50:36.760 whatever it may be you've got to have
+00:50:38.520 Assets in place that are going to give
+00:50:39.960 you an income uh or going to be
+00:50:42.760 sufficient worth by the time you retire
+00:50:44.920 so you can live uh without working uh
+00:50:47.839 and that's clearly a constraint but
+00:50:49.319 that's actually dictating your
+00:50:51.040 investment patterns so these these
+00:50:53.880 factors tend to be more important in our
+00:50:55.680 view in terms of understanding financial
+00:50:58.240 markets all right and I think this is
+00:51:00.760 the question that everybody wants to
+00:51:02.319 hear from you so is global liquidity
+00:51:04.720 expanding for the moment and um where is
+00:51:07.440 it headed in the near future well again
+00:51:10.119 I think you've got to differentiate the
+00:51:11.359 trend from the cycle uh the cycle
+00:51:13.640 bottomed in uh 2022 in late
+00:51:17.559 2022 uh that bottoming coincided with
+00:51:20.680 the British guilt debacle The sell off
+00:51:22.920 in the sovereign debt Market when uh the
+00:51:25.839 new Prime Minister enacted a budget
+00:51:29.040 prime minister Liz truss came in with a
+00:51:31.799 ill-thought out budget uh the sovereign
+00:51:34.160 debt Market sold off that was an
+00:51:36.160 immediate wakeup call for central banks
+00:51:38.400 and treasury ministers worldwide uh the
+00:51:40.920 bank of England with alacrity changed
+00:51:42.720 from QT to QE uh you know uh overnight
+00:51:46.760 pretty much and the Federal Reserve
+00:51:49.000 began to change its policy and added
+00:51:50.960 more liquidity to markets so at the end
+00:51:53.440 of the day you know what this is really
+00:51:55.640 telling us is that the despite the
+00:51:57.680 remits of central banks uh supposedly
+00:52:00.920 against fighting inflation and um
+00:52:04.040 employment what their real or true goal
+00:52:07.200 is is to preserve the Integrity of
+00:52:09.040 sovereign debt markets and that's
+00:52:10.880 exactly what happened uh that point the
+00:52:13.200 liquidity cycle has been increasing uh
+00:52:15.839 from that point uh we think it's likely
+00:52:18.240 to Peak out in late 2025 it's still
+00:52:21.799 going up now it's exactly on track so
+00:52:24.280 there's no question about that the
+00:52:26.119 wobble in markets that we saw in August
+00:52:28.680 of this year uh at the time when the
+00:52:30.559 Japanese Yen spiked was a purely a
+00:52:33.160 change in Risk appetite risk exposure as
+00:52:35.599 we said at the time there was nothing
+00:52:37.640 about deteriorating liquidity conditions
+00:52:40.280 uh liquidity has continued to expand and
+00:52:42.559 I think the pickup in goal is a test to
+00:52:44.680 that so goal is making alltime highs the
+00:52:47.079 whole time um liquidity will Peak or the
+00:52:51.760 cycle will peak in late 25 for the
+00:52:54.160 reasons I've I've already articulated so
+00:52:56.599 I think that there's a a maturity wall
+00:52:58.599 of debt that's got to be refinanced I
+00:53:00.599 think the world real economy could be
+00:53:02.160 stronger by then and it's it's
+00:53:04.520 conceivable uh at least not not uh you
+00:53:07.319 know not impossible that policy makers
+00:53:09.520 could by that stage be thinking about
+00:53:10.880 tightening policy again if inflation
+00:53:12.559 becomes more of an issue so I think
+00:53:15.200 these These are factors take into
+00:53:16.599 account however what we also got to
+00:53:18.960 accept is the trend in liquidity is a
+00:53:21.000 lot faster and the trend in liquidity is
+00:53:23.280 a lot faster because government deficits
+00:53:25.440 are bigger and if you take it again
+00:53:28.319 looking at the us as a benchmark and
+00:53:31.000 again I'm not hitting on the US the US
+00:53:33.040 is in many cases the sort of clean his
+00:53:34.920 shirt in the laundry but the US has the
+00:53:37.079 advantage that it's very transparent
+00:53:39.480 it's provide they provide lots of data
+00:53:41.880 they project into the future and one can
+00:53:43.559 actually analyze uh the US fiscal
+00:53:45.839 situation in great great detail and the
+00:53:48.640 Congressional budget office produces an
+00:53:50.960 excellent uh you know series of
+00:53:52.839 projections of US debt us spending and
+00:53:55.599 US tax revenue
+00:53:56.960 and if you look at spending outlays
+00:53:59.240 spending outlays currently as we speak
+00:54:02.520 are 40% higher than they were before
+00:54:04.920 covid 40 okay there's been a step change
+00:54:08.440 taxation hasn't gone up to anything like
+00:54:10.319 the same magnitude it's very difficult
+00:54:12.400 to increase taxes on people um you know
+00:54:15.480 and of uh you know I would venture that
+00:54:17.799 nobody none of the uh the presidential
+00:54:20.760 candidates in the US and none of the
+00:54:22.480 political parties are talking about
+00:54:23.799 cutting back on spending or raising
+00:54:25.680 taxes you know enormously so these
+00:54:28.559 deficits are going to be embedded the uh
+00:54:31.000 Congressional budget office projects
+00:54:33.400 that the US um fiscal deficit is going
+00:54:36.119 to run on at something like 5 to 6% per
+00:54:39.160 anom uh over the medium term uh and this
+00:54:42.079 is a structural deficit it may even be
+00:54:43.920 more than that uh we got to add into
+00:54:45.720 that extra defense spending of course
+00:54:47.880 and the CBO never never projects future
+00:54:50.760 recessions which also cause bigger
+00:54:52.680 deficits as well so uh they're likely
+00:54:55.160 giving an underestimate of the of the
+00:54:57.240 truth uh historically we've been used to
+00:55:00.280 1 or 2% uh deficits or one deficits one
+00:55:04.440 or two% of GDP I should say for a few
+00:55:06.799 years but nothing of this magnitude that
+00:55:09.119 we're that they are projecting for the
+00:55:11.280 future that has to be funded and that is
+00:55:14.839 a good Benchmark as to the sort of
+00:55:16.880 growth in liquidity that is likely to be
+00:55:19.240 required so that will translate into
+00:55:21.480 something like an 8 to 10% annual
+00:55:23.920 increase in liquidity conditions um um H
+00:55:27.359 well you know for the us and that will
+00:55:29.920 that will translate worldwide as well
+00:55:32.039 and so what you've got to do is to think
+00:55:33.720 about that uh in terms of asset
+00:55:36.280 allocation if you've got monetary
+00:55:38.000 inflation of 8 to 10% per anom what
+00:55:41.319 asset should you own um and I think the
+00:55:44.400 answer has got to be dedicated monetary
+00:55:46.599 inflation Hedges uh we know that gold is
+00:55:49.119 the long-standing
+00:55:50.359 beneficiary uh in that regard uh it's
+00:55:52.960 had an excellent performance this year
+00:55:55.240 it's had an excellent performance
+00:55:56.280 performance since year 2000 uh it's
+00:55:58.440 probably had an excellent performance
+00:55:59.799 since year zero in fact um you know um U
+00:56:04.640 simply because gold is a is a
+00:56:06.400 traditional monetary hedge um and
+00:56:10.440 Bitcoin has proved itself in The Last 5
+00:56:13.119 Years to be a great monetary hedge it's
+00:56:16.599 been digital gold in many cases now I'm
+00:56:19.440 not an expert on bitcoin nor on crypto
+00:56:21.359 so that's a wealth warning but it seems
+00:56:23.440 as if what you see is what you get here
+00:56:25.839 and if you've got monetary inflation you
+00:56:27.799 really want an asset where you've got
+00:56:29.920 limited uh long-term Supply uh Bitcoin
+00:56:33.200 is cut off at 21 million uh Bitcoin so
+00:56:36.440 we're getting close to that threshold
+00:56:38.039 already and the other thing that uh that
+00:56:41.039 Bitcoin probably offers uh is security I
+00:56:44.319 mean it's a decentralized system uh it's
+00:56:47.319 got protocols that work and look to be
+00:56:50.280 secure so at the end of the day maybe
+00:56:52.960 it's a decent asset for people to think
+00:56:54.599 about exactly and that's what I want to
+00:56:56.960 talk about right now so we've
+00:56:58.599 established what Global liquidity is
+00:57:00.400 where it's headed uh what its main
+00:57:01.960 drivers are so uh now just uh as you
+00:57:05.319 said um why is it so important uh that
+00:57:09.880 why is the correlation so important from
+00:57:11.760 Global equity and Bitcoin how come it's
+00:57:13.680 so correlated is it because it's a good
+00:57:15.839 monetary hedge or or because of the
+00:57:19.359 scarcity you just said I think I I I
+00:57:21.599 wish I knew the answer uh Jack I think
+00:57:23.839 the I think the what it comes down to is
+00:57:26.440 probably thinking in these terms that if
+00:57:29.079 you've got if you think about Bitcoin
+00:57:31.359 and this is my my interpretation so I
+00:57:33.280 mean it's pure
+00:57:35.480 speculation if you think of Bitcoin
+00:57:37.359 there are two Dimensions there's an
+00:57:39.799 intensive margin and an extensive margin
+00:57:42.559 and let me describe what I mean by that
+00:57:44.400 the extensive margin is lots of people
+00:57:47.440 owning $100 of Bitcoin okay and that
+00:57:51.680 moving from um let's say 10 people to
+00:57:55.079 100 people to 10, th000 people to a
+00:57:57.359 million people to maybe 10 million
+00:57:59.200 people now that's the extensive margin
+00:58:01.520 growth okay and that is like the take up
+00:58:04.359 of anything being it be it uh uh you
+00:58:07.680 know be it transistor radios to uh you
+00:58:11.119 know the internet to mobile phones you
+00:58:13.839 get an s-shaped growth curve uh
+00:58:16.480 reflecting the takeup of new
+00:58:18.720 technologies so that's the extensive
+00:58:21.039 margin so Bitcoin is following that
+00:58:23.319 s-shaped growth curve the other element
+00:58:26.119 is the Intensive margin and that's where
+00:58:27.960 the monetary hedge bid I think comes in
+00:58:30.920 and that's really like saying uh you
+00:58:32.920 know I've got a $100 in Bitcoin now but
+00:58:36.559 I think wow I think there's going to be
+00:58:38.640 more monetary inflation in the future
+00:58:40.720 therefore I'm going to put $5,000 in
+00:58:43.160 Bitcoin or if I'm an institution I might
+00:58:45.359 say well I'm going to put you know $50
+00:58:47.400 million of my institutional money in a
+00:58:50.520 in Bitcoin so that's the Intensive
+00:58:53.359 margin and that's much more about
+00:58:54.880 monetary Hedge so I think if you put
+00:58:56.960 these two things together and multiply
+00:58:58.760 them uh the Intensive margin and the
+00:59:00.760 external and the extensive margin you
+00:59:03.160 probably get somewhere to explaining why
+00:59:05.760 Bitcoin has been going up so much um you
+00:59:08.520 know in The Last 5 Years it's highly
+00:59:11.000 sensitive to liquidity that's for sure
+00:59:14.280 but that may be a slightly fake
+00:59:16.000 statistic or uh exaggerated statistic
+00:59:18.960 you know uh overestimated simply because
+00:59:21.960 you've got to uh allow for two things
+00:59:24.280 one is the monetary inflation Dynamic
+00:59:26.880 and the other is the s-shaped growth
+00:59:29.079 curve of a take up of a new product yeah
+00:59:31.960 and then so I think uh for example
+00:59:33.799 myself and every analyst in Bitcoin is
+00:59:36.599 currently trying to Value Bitcoin trying
+00:59:38.480 to find a good valuation method on how
+00:59:40.839 to Value Bitcoin and um there's one
+00:59:43.760 really good one I saw in your book but
+00:59:46.000 you didn't talk about Bitcoin but I
+00:59:47.440 think it can be applied so basically
+00:59:49.640 since we can not use traditional PE
+00:59:51.720 ratios to Value Bitcoin since there are
+00:59:53.599 no earnings uh in your book you
+00:59:55.559 mentioned different valuation methods uh
+00:59:57.880 the PM ratio so the price to money or
+01:00:00.359 the investor power model um and this
+01:00:02.920 really piqued my interest and do you
+01:00:04.720 think this can be something that can be
+01:00:06.160 applied to bitcoin and have you modeled
+01:00:08.480 it out yet absolutely but I mean that
+01:00:11.160 that's pretty much what what we do when
+01:00:13.000 we try and understand asset allocation
+01:00:15.160 is to look at these relationships so
+01:00:17.000 what we're so one of the things that I
+01:00:18.960 can't remember if I put this in in the
+01:00:20.280 book or not but it's certainly you know
+01:00:22.240 something we've expressed over the years
+01:00:24.760 is that you know one month one
+01:00:26.359 established monetary inflation hedge is
+01:00:28.160 gold okay gold at the moment is I think
+01:00:32.240 about 1 or 2% uh by value of all
+01:00:35.760 Financial assets
+01:00:37.440 worldwide in the
+01:00:40.039 1970s and I just about remember the
+01:00:42.559 1970s but um in the
+01:00:45.440 1970s uh I'm sure I'm correct in saying
+01:00:48.240 that a lot of Swiss banks or wealth
+01:00:50.079 managers would have had at least 15% of
+01:00:53.640 their clients portfolios in Gold okay
+01:00:56.280 okay uh not 1% not 2% but 15% okay now
+01:01:01.720 if we're in a monetary inflation world
+01:01:04.240 uh we're likely to get gold uh becoming
+01:01:07.680 uh a much more substantial part of
+01:01:09.359 portfolios now we can debate what that
+01:01:11.520 may be but let's say goes to 5% so in
+01:01:16.319 other words the stock of gold or the uh
+01:01:18.559 the the value of gold in portfolios will
+01:01:21.880 at least double uh more likely triple
+01:01:24.440 from where we are now okay now Bitcoin
+01:01:27.000 is nowhere near the percentage of gold
+01:01:29.400 right and I would have said Bitcoin uh
+01:01:32.079 if it's a viable monetary inflation
+01:01:34.039 hedge has to get somewhere near the
+01:01:36.400 capitalization of
+01:01:37.839 gold as it is now but it may even be
+01:01:41.400 that Bitcoin has to get up to where gold
+01:01:43.079 will eventually end up which may be 5%
+01:01:45.839 or so of portfolios so I think that's
+01:01:47.920 the sort of benchmarks I would tend to
+01:01:49.480 think of and if I come back from sort of
+01:01:51.599 first principles and I say well okay if
+01:01:53.720 I'm dividing up a portfolio myself in
+01:01:56.680 terms of asset allocation uh let's think
+01:01:59.240 about a good long-term portfolio that
+01:02:01.720 would be robust uh to to events and
+01:02:05.440 robust to monetary inflation I'd be
+01:02:07.440 putting something like 60% of that in
+01:02:10.279 equities and good good quality equities
+01:02:12.839 uh I'd be putting uh the other 40%
+01:02:15.880 probably distributed something like um
+01:02:18.599 you know 10% in uh in things like gold
+01:02:22.079 and Bitcoin um so you could take five
+01:02:25.079 five each for example example uh I'd be
+01:02:27.279 putting some into Prime residential real
+01:02:29.880 estate as an investment because that's a
+01:02:31.920 pretty good long-term monetary inflation
+01:02:33.640 hedge I'd be thinking about treasury
+01:02:35.920 inflation protected securities uh and
+01:02:38.559 then I might put the other uh 10% in
+01:02:41.960 things like cash or high yield bonds or
+01:02:44.440 something like that but I would not have
+01:02:46.440 government bonds have you heard about
+01:02:47.920 the three-pillar portfolio from L Elden
+01:02:50.559 no uh no it's I think it's exactly what
+01:02:52.880 you're describing right so I think uh
+01:02:55.839 every major macro analyst agrees that
+01:02:58.400 currently we have to prepare for a
+01:03:00.400 monetary hedge and I think Bitcoin and
+01:03:03.200 gold play big part in that um so moving
+01:03:06.359 on so as well in your book you mentioned
+01:03:08.440 Global liquidity index preced asset
+01:03:10.720 price moves so Bond markets and Forex by
+01:03:13.559 3 to 6 months Equity markets by 6 to 12
+01:03:16.440 months and real economy by 5 to 20
+01:03:18.599 months so what about Bitcoin and
+01:03:20.960 gold yeah very good questions I mean th
+01:03:24.160 those those factors that you or those
+01:03:26.440 lead times that you cited we actually
+01:03:28.880 Pro that empirically in the book so we
+01:03:31.400 do statistical analysis to show those
+01:03:33.279 lead times and we corroborate that by
+01:03:35.799 using things like Griner causality
+01:03:37.440 analysis to actually establish that uh
+01:03:39.520 in a robust way uh we've used similar
+01:03:42.200 tests for gold uh and Bitcoin um the
+01:03:46.799 interesting I mean the interesting fact
+01:03:48.880 is that if you look at gold uh gold
+01:03:51.839 tends to gold and gold and Global
+01:03:54.920 liquidity tend to have a sort of mixed
+01:03:57.319 relationship there are times you know I
+01:03:59.760 I would accept that gold can lead Global
+01:04:02.319 liquidity but most of the time Global
+01:04:04.319 equility tends to lead gold and the lead
+01:04:06.880 time has been about 3 to 6 months
+01:04:09.119 generally speaking if you look at
+01:04:11.799 Bitcoin uh and actually i' this is fresh
+01:04:15.279 in my mind because I was only doing it
+01:04:16.599 in the last few days again refreshing
+01:04:18.279 the data it seems that Bitcoin is moving
+01:04:21.799 with about with a remarkably short lead
+01:04:24.480 time of about 12 12
+01:04:26.480 weeks um and I don't know why but it
+01:04:30.559 seems to be uncount the case yeah and so
+01:04:33.839 that's what I wrote down as well 8 to 12
+01:04:35.799 weeks and the thing what you say as well
+01:04:38.200 is interesting because you said uh gold
+01:04:41.079 um preds uh Global liquidity by 3 to six
+01:04:43.880 months uh no no I said I said I said
+01:04:45.960 there are times when gold can proceed
+01:04:48.079 but generally liquidity leads by about 3
+01:04:50.240 to six months okay because I have an
+01:04:52.839 other Bitcoin analyst Charles Edwards uh
+01:04:55.760 and he says that Bitcoin lags Gold by
+01:04:57.960 about 3 to six months I don't know if
+01:05:00.480 that's correct and that you have the
+01:05:01.720 same research well i' I was looking at
+01:05:05.520 this recently and I mean there there is
+01:05:07.520 a case for saying that that's true um
+01:05:12.079 yeah I mean but it's I wouldn't I
+01:05:14.880 wouldn't want to hang my hat on because
+01:05:16.520 it does it doesn't look a particularly
+01:05:17.839 strong relationship but there there is a
+01:05:19.720 case for saying that for sure yeah and I
+01:05:22.319 think if you read this it was just
+01:05:24.200 released yesterday so Lynn Elden um put
+01:05:27.079 a research report of global liquidity
+01:05:29.079 and Bitcoin and apparently the
+01:05:31.119 directional movement is 83% so if Global
+01:05:34.279 liquidity Rises 83% of the times Bitcoin
+01:05:37.279 Rises as well uh and this is the highest
+01:05:39.599 correlation in every assets um but I
+01:05:42.440 don't think she measured it in global
+01:05:44.200 liquidity I think she just used
+01:05:46.839 M2 well that may be I mean I'm I'm I'm
+01:05:50.160 you know my my background is the
+01:05:51.799 statisticians so um I'm extremely
+01:05:55.279 cautious about anyone saying you get
+01:05:57.480 very high correlations uh of that
+01:05:59.680 magnitude I mean that sounds to me like
+01:06:01.440 spe is correlation uh I I I'd like to
+01:06:04.200 see that but you've really got to I mean
+01:06:06.480 the whole problem is without getting
+01:06:08.000 into the weeds of Statistics uh I mean
+01:06:10.960 the question is th those two series are
+01:06:14.160 uh they're going to be co-integrated so
+01:06:16.440 there's a they're dominated by a trend
+01:06:18.200 so what that 83% is picking up it's
+01:06:20.440 largely a trend not a fluctuation which
+01:06:22.640 is slightly different but I mean I take
+01:06:24.200 the point without without stealing her
+01:06:26.160 Thunder that they are they're clearly
+01:06:28.200 connected just questioning whether it's
+01:06:30.160 an 80 83% R squ which seems remarkably
+01:06:34.119 high I can send you the report uh later
+01:06:36.720 do that um and so why do you think
+01:06:38.880 Bitcoin is so sensitive in moves to
+01:06:40.839 Global liquidity more than other
+01:06:45.160 assets well I I'm look all I'd say is
+01:06:48.680 that I think that it's uh it's a cleaner
+01:06:51.400 asset class um than gold um in terms of
+01:06:56.480 its monetary inflation hedging
+01:06:59.480 properties and the reason and I'm just
+01:07:01.880 saying this in terms of uh looking at a
+01:07:04.480 number of Dynamics I mean if you come
+01:07:06.440 back to you know why is this a monetary
+01:07:08.720 inflation
+01:07:09.960 hedge it really is is two things one is
+01:07:13.920 that it's secure right um the technology
+01:07:18.319 is secure the ownership is secure Etc
+01:07:21.039 and the second thing is the supply is
+01:07:22.640 limited and it's those two factors that
+01:07:24.880 drive the demand for Bitcoin now if you
+01:07:27.960 look at gold gold is
+01:07:30.160 secure but there's a problem with gold
+01:07:32.200 is it's really quite heavy and it's very
+01:07:34.039 difficult to move around so you've got
+01:07:35.520 to discount gold a little bit for that
+01:07:37.599 factor anyway the other thing is that
+01:07:39.720 the supply of gold is um uh sort of well
+01:07:45.160 difficult to analyze because you've got
+01:07:47.400 first of all the bullion Banks who
+01:07:49.200 operate the gold market who do a lot of
+01:07:52.520 um uh syruptitious dealing and Short
+01:07:55.960 Selling and whatever and it's very
+01:07:58.200 difficult really to understand the
+01:07:59.599 Dynamics of what's going on short term
+01:08:01.799 with gold I mean there's a lot of
+01:08:02.920 manipulation of the price uh in my view
+01:08:06.200 uh Supply is also a question I mean you
+01:08:09.559 have got Supply coming into the market
+01:08:11.760 uh from private producers but then
+01:08:13.960 equally what you've got which is
+01:08:15.279 disturbing the the situation is that
+01:08:17.679 central banks particularly uh let's say
+01:08:21.439 uh um um C well let me say Central Bank
+01:08:25.679 s uh outside of the West um so China um
+01:08:30.719 Russia uh the brick economies and their
+01:08:33.640 friends all want to accumulate gold as
+01:08:36.640 part of their foreign exchange reserves
+01:08:38.479 so that's also creating a a dynamic
+01:08:41.319 which is interfering with the normal
+01:08:42.799 with the normal Trends and that may be
+01:08:44.040 something which has propelled gold uh
+01:08:45.839 upwards in the very near term so I think
+01:08:48.439 that you've got those factors to come
+01:08:49.880 into account so I think generally
+01:08:51.679 speaking Bitcoin seems to be cleaner
+01:08:54.279 there's uh you've got You' got security
+01:08:56.120 you've got fixed Supply the one
+01:08:57.839 uncertainty which I'm not an expert in
+01:09:00.839 and I don't know how to you know to
+01:09:02.679 quantify it is there may well have been
+01:09:05.439 short selling of Bitcoin because of the
+01:09:07.799 E the ETFs now I don't know if that's
+01:09:10.600 for sure but I would suspect that
+01:09:12.198 something like that's going on so we may
+01:09:14.560 have another uncertainty in the near
+01:09:16.120 term for Bitcoin But ultimately Bitcoin
+01:09:18.839 is fixed Supply gold isn't yeah all
+01:09:23.040 right um and then so I heard you saying
+01:09:25.759 this in uh in another podcast so um how
+01:09:29.600 much does Bitcoin and gold rise by an
+01:09:31.640 expansion in global liquidity
+01:09:33.759 percentagewise well I can give you the
+01:09:35.799 historic data and the historic data is
+01:09:38.279 that uh and this is based over the last
+01:09:40.040 five
+01:09:41.120 years and this is comes from regression
+01:09:43.560 analysis so again it's a wealth warning
+01:09:45.799 because it won't be the same in the
+01:09:47.120 future but it will give you a benchmark
+01:09:49.359 gold is a multiplier of about 1.5 so for
+01:09:52.198 every 10% increase in liquidity you get
+01:09:54.400 a 15% expansion in Gold okay and that's
+01:09:57.960 more or less actually what's happened
+01:09:59.320 this year I me it's it's not been that
+01:10:01.840 that out of line if you look at Bitcoin
+01:10:04.679 the answer has been 4.5 so it's been a
+01:10:07.199 10% increase in liquidity 45% increase
+01:10:10.280 in the price of Bitcoin will that be
+01:10:12.120 true going forward unlikely but it will
+01:10:14.199 still be a high number yeah and so then
+01:10:16.840 I was thinking based on that so you say
+01:10:19.440 that the global liquidity cycle will
+01:10:21.640 topping in late
+01:10:24.199 20225 uh and how much do you expect the
+01:10:27.120 global liquidity to increase and based
+01:10:29.640 on that if it's I don't know say 50%
+01:10:32.800 then you have to do the multiplier of
+01:10:34.159 4.5 and then you can then we can maybe
+01:10:36.560 have like a Bitcoin cycle top price
+01:10:39.159 based on that yeah well I think the um I
+01:10:42.840 mean I did a podcast a few days ago
+01:10:44.719 where I was talking that people who look
+01:10:46.239 at Power laws in Bitcoin and we both
+01:10:49.440 concluded my independent assessment
+01:10:51.440 there' be a peak or be it maybe a
+01:10:53.199 temporary peak in Bitcoin around late
+01:10:55.600 2025 and they came to exactly the same
+01:10:58.080 conclusion uh looking at mathematical
+01:11:00.239 algorithms rather than uh my analysis of
+01:11:02.560 liquidity so there may be something in
+01:11:04.840 that I don't know who who knows but uh
+01:11:07.800 at the end of the day I come back to the
+01:11:09.719 point that there is a trend in a cycle
+01:11:12.159 and the cycle is really a cycle in
+01:11:14.520 growth ratees so you're going to get uh
+01:11:16.600 you know growth uh you know accelerating
+01:11:20.719 uh over the next 12 months but peeking
+01:11:22.480 out and then uh ultimately uh the cycle
+01:11:25.920 coming back to Trend and moving below
+01:11:27.679 Trend but that trend is rising fast and
+01:11:30.840 as I said the trend is rising at a rate
+01:11:33.000 of about 8 to 10% per anom okay now if
+01:11:35.640 you s look at compound interest that
+01:11:37.800 means that the uh that the stock of
+01:11:39.760 liquidity is doubling about every 10
+01:11:42.400 years in fact it's less than 10 years
+01:11:44.159 but it's doubling about every 10 years
+01:11:45.560 let's say um therefore the price of
+01:11:48.120 Bitcoin should at least double every 10
+01:11:50.080 years uh but if you've got a higher
+01:11:52.280 multiplier on bitcoin then you've got a
+01:11:55.520 you've got a a scale factor increase
+01:11:58.199 yeah and so how much do you think Global
+01:12:00.000 liquidity will expend in percentage um
+01:12:03.760 till the top in late
+01:12:05.679 2025 oh I think that you know I I would
+01:12:08.239 imagine that we're probably going to see
+01:12:10.400 an increase from here of about
+01:12:13.800 15% all right so and then we do that
+01:12:16.520 times 4 and a half and then we have our
+01:12:18.639 bitcoin price for the yeah but that that
+01:12:20.360 that would be the top but I mean yeah
+01:12:22.080 you could yeah you can you can put a
+01:12:24.199 ruler around that and see get to yeah
+01:12:26.480 and do you think that will get front run
+01:12:28.600 for example you said that Bitcoin lags
+01:12:30.800 Global liquidity by about 12 weeks so
+01:12:33.360 that's what the data shows so do you
+01:12:34.600 think then the Bitcoin top will be 12
+01:12:36.760 weeks after the top in global liquidity
+01:12:38.880 could or do you think it will be front
+01:12:40.400 run uh I I don't know I mean I think
+01:12:42.239 that you know I mean one of the things
+01:12:43.440 that you've definitely seen uh in
+01:12:46.040 markets I mean this this is without
+01:12:47.880 question um that that time lag between a
+01:12:51.280 moving liquidity and a moving Bitcoin
+01:12:53.120 has actually Constantin uh in Wards it's
+01:12:55.679 basically got narrower and narrower
+01:12:57.159 shorter and shorter so you know it's uh
+01:12:59.840 if you go back four or five years it was
+01:13:02.280 counted in months now it's counted in
+01:13:03.840 weeks now what's the reason for that uh
+01:13:06.639 I don't know but all I'd say is a lot
+01:13:08.480 more Quant funds the big Quant funds are
+01:13:10.440 actually looking at liquidity we Supply
+01:13:12.560 data to all of the big us Quant funds
+01:13:15.280 and um you know maybe they're using this
+01:13:17.159 as part of their input I don't know all
+01:13:20.080 right and why do you think Bitcoin has a
+01:13:22.239 higher multiplier than gold is the
+01:13:25.159 because of it's a smaller assets well I
+01:13:27.280 think it's I think you've got the to
+01:13:28.760 come back to my analogy of saying you've
+01:13:30.280 got this intensive and extensive margin
+01:13:32.320 which are driving growth I think you've
+01:13:34.239 got the s-shaped growth curve of this
+01:13:36.800 takeup of Bitcoin because it's a new
+01:13:39.360 technology uh more and more people are
+01:13:41.600 buying it there's more uh people with
+01:13:43.800 $100 in Bitcoin uh but that's growing
+01:13:46.480 you know growing fast that's coming on
+01:13:48.520 top of uh the Intensive margin growth so
+01:13:52.040 I think you've got uh you know these two
+01:13:53.639 things coming on top of another that's
+01:13:54.840 what I would argue all right and then
+01:13:57.440 another question is maybe a little more
+01:13:59.159 crypto related um so when during the
+01:14:02.000 liquidity cycle do you want to go
+01:14:04.159 further down the risk curve so for
+01:14:05.719 example uh that you would go from
+01:14:07.719 Bitcoin to even maybe altcoins and maybe
+01:14:10.560 even mean coins I don't say you want to
+01:14:12.560 do this but maybe some listeners want to
+01:14:14.679 go further down the risk curve and when
+01:14:16.400 exact in the global liquidity cycle
+01:14:18.320 would be a right time to do that well
+01:14:20.800 the answer the answer unquestionably is
+01:14:22.960 is near the bottom of the cycle uh not
+01:14:25.239 top uh you want to buy at the bottom and
+01:14:27.199 sell towards the top and that that's for
+01:14:29.280 sure so you know I mean we're about
+01:14:31.600 Midway through the cycle right now in
+01:14:33.880 terms of liquidity I mean the the the
+01:14:37.159 sort of caveat here is that you know as
+01:14:39.080 I say to people look I mean bull markets
+01:14:41.360 always climb a wall of worry uh people
+01:14:44.000 people other people have been saying
+01:14:45.560 don't invest the whole thing is going to
+01:14:47.040 fall apart uh you know we're we're about
+01:14:49.320 to hit a bare Market valuations are too
+01:14:51.600 high they've been saying that for the
+01:14:53.120 last two years okay market price have
+01:14:55.199 still gone up uh and you've got to
+01:14:56.960 accept the fact that investing from now
+01:14:59.840 uh until late 25 is not going to be
+01:15:01.639 anything like as rewarding as investing
+01:15:03.560 starting two years ago okay so a lot of
+01:15:05.719 the gains have already passed us by uh
+01:15:08.159 there will be further gains but it's
+01:15:09.520 really a question of rotating into other
+01:15:11.960 assets it so happens I think gold has
+01:15:14.280 still got much further to go and I think
+01:15:16.920 bitcoin's got much further to go I think
+01:15:19.000 that commodity related stocks have got
+01:15:20.800 further to go but you know I wouldn't
+01:15:23.840 necessarily believe that you're going to
+01:15:25.320 see uh you know the same sort of gains
+01:15:28.159 out of the US Stock Market that you've
+01:15:30.320 seen for the last two years I mean that
+01:15:32.120 you know that's probably coming to the
+01:15:33.800 end of the party or towards the end of
+01:15:35.239 the party better to start rotating into
+01:15:37.400 other areas of the world yeah but isn't
+01:15:39.440 it when there is even more liquidity in
+01:15:41.360 the system uh people get even more risk
+01:15:43.719 on and even riskier assets perform
+01:15:46.440 better yeah that's true but the top end
+01:15:48.760 of the cycle yeah yeah that's true I
+01:15:50.120 mean things you get acceleration for
+01:15:52.440 sure but it's a it's a higher risk time
+01:15:54.639 to invest yeah of
+01:15:56.679 course uh if you think you can get out
+01:15:59.280 you know as they say uh enjoy the party
+01:16:01.480 but dance near the door um you know uh
+01:16:04.120 that that's the thing you've got to be
+01:16:05.159 able to pull the trigger quickly yeah
+01:16:07.560 and that's maybe a difficult question um
+01:16:11.600 what assets do you think will perform
+01:16:13.400 better uh when the cycle is coming down
+01:16:15.920 again so when liquidity is decreasing
+01:16:18.320 again well okay I
+01:16:20.400 mean it it depends uh I suppose it
+01:16:24.040 depends a lot on the nature of of how
+01:16:26.120 quickly liquidity comes down and why
+01:16:27.719 it's coming down but I would tend to
+01:16:29.840 think that you would you would expect at
+01:16:31.880 that stage that government bonds would
+01:16:34.040 perform well because they are still
+01:16:36.840 conceded considered to be the safe asset
+01:16:39.480 in the system so I think one's got to
+01:16:41.400 recognize that that there may be a
+01:16:42.760 temporary window for performance of
+01:16:44.080 government bonds and I'm cynical enough
+01:16:46.199 to suggest that at some stage
+01:16:48.440 governments will want to push people out
+01:16:49.880 of risk assets back into the sovereign
+01:16:51.600 debt markets so they can improve their
+01:16:53.480 funding abilities so so you know that
+01:16:56.040 that that must be the case at some stage
+01:16:58.480 uh cash is always a pretty good
+01:17:00.239 investment to have but you
+01:17:02.560 know maybe and I just raised this as a
+01:17:05.480 point maybe the world is getting wiser
+01:17:07.840 to what the central banks are doing and
+01:17:09.800 they realize that if there is a falling
+01:17:12.080 liquidity and there's a riskk of of
+01:17:14.120 financial crisis uh that they know that
+01:17:16.480 central banks will come back in again
+01:17:17.800 there'll be a a fed put or whatever you
+01:17:19.760 would like to call it which will support
+01:17:21.320 the markets and you know that must be
+01:17:24.199 that's a realist
+01:17:25.560 statement the simple reason that we're
+01:17:27.360 living in a very fragile Financial world
+01:17:31.000 uh of existing world where you've got
+01:17:33.360 existing you know these big debts you've
+01:17:35.480 got the structure the existing structure
+01:17:37.120 of uh financial markets which uh are
+01:17:40.360 very very fragile uh because they're
+01:17:42.840 based on on weak collateral and and lots
+01:17:46.639 of Leverage and you need the central
+01:17:48.400 banks there to paper over the cracks all
+01:17:50.040 the time but the more the central banks
+01:17:52.679 paper over the cracks the more they're
+01:17:54.440 pumping liquidity the more monetary
+01:17:56.360 inflation you get the higher the gold
+01:17:58.280 price goes and the higher Bitcoin goes
+01:18:00.880 yeah so that's why I'm a bit skeptical
+01:18:02.440 of the cycle right now do you maybe
+01:18:04.280 think it can go even further than late
+01:18:07.840 2025 well it's always possible I mean
+01:18:10.440 I'm just I mean what do I base that 2025
+01:18:13.800 view on I base on the fact that we've
+01:18:15.600 seen um since the mid
+01:18:18.480 1960s 65 U month Cycles repeating uh why
+01:18:24.400 is that the case I I don't I don't
+01:18:26.639 honestly know my conjectures uh come
+01:18:29.560 down to it's a debt refinancing cycle um
+01:18:32.960 and therefore I think I've got to you
+01:18:34.199 know go with the data and think that's
+01:18:35.520 what's going to happen again I may be
+01:18:37.239 wrong and because of this uh of this
+01:18:39.239 debt wall uh or this maturity wall that
+01:18:42.120 we've got maybe it's it's pushed out a
+01:18:43.880 bit more I don't know maybe central
+01:18:45.480 banks have got wise to this and they
+01:18:47.000 think we've got to add a lot more
+01:18:48.159 liquidity to the system to prevent there
+01:18:50.239 being major default uh I mean the you
+01:18:52.719 know the other question to think about
+01:18:55.639 is will there be another financial
+01:18:58.040 crisis yeah there will of course there
+01:19:00.960 will be because the fact is that debt
+01:19:03.880 grows exponentially and liquidity is
+01:19:06.239 cyclical so you look at those two
+01:19:08.000 mathematical curves and they're they're
+01:19:09.480 bound to uh you move apart at some stage
+01:19:11.800 so there might be a um a recession or a
+01:19:15.000 crisis right after the top of the
+01:19:16.800 liquidity cycle you think quite possible
+01:19:18.520 all right quite possible uh and then
+01:19:20.960 cash would be the better assets or or
+01:19:22.600 still gold and Bitcoin well no I think
+01:19:24.880 that I think I think uh what history
+01:19:28.320 shows and it showed it showed definitely
+01:19:31.080 in the case of 2008 uh in the case of
+01:19:33.840 gold is that gold sold off because
+01:19:35.840 basically it's a very liquid asset and
+01:19:38.320 if people are doing fire sales of assets
+01:19:40.800 you know if you if you've got a if You'
+01:19:42.600 got a a block of gold uh and you're
+01:19:45.120 looking at your NASDAQ stocks and your
+01:19:46.920 NASDAQ stocks have just Fallen 8 80% uh
+01:19:49.800 you're more willing to sell your gold
+01:19:51.760 right than you know try and liquidate um
+01:19:54.719 your technology stocks so I think that
+01:19:56.679 you know those are the sort of assets
+01:19:58.080 that become very liquid uh and very
+01:20:00.520 transferable in a situation where you're
+01:20:01.960 going to market crash um Bitcoin I'm not
+01:20:04.840 sure will I mean the TR with trouble
+01:20:06.760 with Bitcoin is there's an awful lot of
+01:20:08.080 emotion in Bitcoin too yeah yeah all
+01:20:11.639 right so um this was it let's maybe wrap
+01:20:14.560 it up uh to recap what are your final
+01:20:16.679 thoughts on bitcoin and Global liquidity
+01:20:19.040 for the rest of the year and maybe next
+01:20:21.280 year well I think that the most
+01:20:23.719 important thing for people to look at or
+01:20:25.239 to understand at least is is This Global
+01:20:27.679 liquidity concept I think that's the all
+01:20:29.600 important one certainly it is for me so
+01:20:31.760 it's a question of uh you know not not
+01:20:33.880 watching um Central Bank interest rate
+01:20:36.600 discussions or whatever and getting
+01:20:37.920 overly fixated by what the fomc in
+01:20:40.320 America is doing it's actually looking
+01:20:42.040 at the amount of liquidity that's been
+01:20:43.800 created in the system um that's
+01:20:46.320 important um I think that cycle is still
+01:20:49.440 going up uh that cycle uh hit bottom in
+01:20:52.440 late 22 uh it's like to hit its peak
+01:20:56.040 around late 25 I think uh we still got
+01:20:58.880 further to go um what does that mean for
+01:21:02.040 Bitcoin gold I think that both of them
+01:21:04.600 uh can push higher uh gold is already at
+01:21:06.840 an all-time high but I think it's going
+01:21:08.199 to go even even higher uh Bitcoin is not
+01:21:10.880 far off it's alltime high but I think
+01:21:12.480 that's going to go higher as well uh I
+01:21:14.760 think these are assets you hold for the
+01:21:16.120 long term uh generally but one has to
+01:21:18.960 recognize the cycle uh the cycle is uh
+01:21:21.719 is coming down as I said probably in
+01:21:23.639 about 12 months time
+01:21:25.440 um and that may be a bump who knows but
+01:21:28.080 at the end of the day uh think about the
+01:21:30.120 compounding effect the trend uh that's
+01:21:32.239 going on behind that and Global equility
+01:21:34.600 is compounding over the next few decades
+01:21:36.960 at 8 to 10% per anom that's the reality
+01:21:39.840 that's all about the big debt burden
+01:21:41.440 we've got in the world economy and debt
+01:21:43.440 ain't going out of fashion politicians
+01:21:45.080 that just kicking the can down the road
+01:21:46.880 they're taking on more and more
+01:21:49.320 debt that easy amazing so uh one last
+01:21:53.000 thing so I believe a lot of my view
+01:21:54.600 viewers uh look up to you um so if you
+01:21:57.600 would give them one piece of Life advice
+01:21:59.440 not Financial advice life advice what
+01:22:01.480 would that
+01:22:02.520 be uh don't get overly fixated by
+01:22:05.040 financial markets go do something more
+01:22:06.639 interesting like art paint a picture but
+01:22:09.800 uh something like that I don't know
+01:22:11.480 travel paint a picture um listen to good
+01:22:14.320 music buy nice wine um yeah but if they
+01:22:17.480 want if they want to contact us it's the
+01:22:20.199 best Avenue is probably uh substack
+01:22:22.840 which is capital Wars uh named after the
+01:22:25.280 book I wrote uh about 5 years ago
+01:22:27.280 Capital Wars on global liquidity or
+01:22:29.400 we've got a website uh which is an
+01:22:31.719 Institutional research service which is
+01:22:34.560 www uh cap uh crossbo capital.com
+01:22:38.239 thank you so much Michael good thank you
+01:22:41.000 J thank
+01:22:43.199 you if you like the video don't forget
+01:22:45.760 to hit the like button and subscribe to
+01:22:47.280 the channel also make sure to follow me
+01:22:49.760 on X where I post daily market analysis
+01:22:52.120 on the crypto space and macro and if
+01:22:55.080 you're interested in learning more about
+01:22:56.600 global liquidity I highly recommend
+01:22:58.880 Michael how's book Capital Wars you can
+01:23:01.560 also check out his sub at Capital wars.
+01:23:04.520 sub.com and follow me also on X at
+01:23:08.639 crossb capap for a quick recap on this
+01:23:11.600 topic you can also watch my 14 minutes
+01:23:13.639 video on global
+01:23:15.040 liquidity thank you all so much for
+01:23:17.080 watching and see you all into the next
+01:23:19.080 video
+
+
+Table of contents
+1.
+2024 recap
+2.
+Nation-state adoption
+3.
+Corporate and institutional demand 
+4.
+A new Bitcoin cycle?
+5.
+Warning lights
+6.
+Conclusion
+As the dust settles on a transformative 2024, Bitcoin’s momentum shows no signs of slowing. Building on the catalysts of the previous year, two major forces are poised to shape Bitcoin’s trajectory: nation-state adoption and the growing influence of large-scale players, including corporations and institutions. These factors have the potential to redefine market dynamics, overshadowing traditional drivers such as the halving cycle and the influence of retail investors.
+
+Here’s a closer look at the central factors likely to define Bitcoin's path in 2025.
+
+2024 recap
+In 2024, Bitcoin experienced a remarkable rise, appreciating approximately 120% between January 1 and December 5. At the time of writing, Bitcoin recently reached the historic milestone of $100,000 on December 5.
+
+This growth has been primarily supported by three historic events: the approval of Bitcoin spot ETFs on January 10, the Bitcoin halving on April 20 and the election of Donald Trump on November 5.
+
+The introduction of spot ETFs broadened accessibility for investors, while Trump’s pro-crypto stance signalled a favourable political outlook, both of which visibly boosted Bitcoin’s price. In contrast, the halving, which reduced the rate of new Bitcoin supply, initially had a less positive effect. Following the halving, Bitcoin's price trended sideways and then fell by approximately 25% over the next five months.
+
+These factors are interconnected and difficult to separate, but their influence will likely persist throughout 2025.
+
+Nation-state adoption
+The nation-state adoption of Bitcoin, which is the process of integrating Bitcoin into national financial systems, could play a significant role in shaping Bitcoin's price path in 2025. To date, this type of adoption has taken place across three main areas: national reserves, legal tender status, and government Bitcoin mining operations.
+
+Proactive pioneers
+El Salvador and Bhutan have made the most proactive moves in adopting Bitcoin officially. In 2021, El Salvador became the first country to declare Bitcoin legal tender. Although its use as a medium of exchange remains limited, the country's government has steadily increased its Bitcoin holdings, which now total ~6,150 BTC as of November 25, according to Van Eck.
+
+The Salvadoran government has also pioneered Bitcoin mining, using geothermal energy sourced from volcanic activity. Bhutan has been mining Bitcoin since 2019, utilising its hydroelectric power, and currently holds reserves exceeding 12,000 BTC as of December 2.
+
+Sleeping giants
+The United States, China, and the United Kingdom hold some of the largest Bitcoin reserves globally. However, as far as we know, all of these holdings were seized from criminals rather than proactively purchased. In the U.S. alone, the top three Bitcoin seizures account for the vast majority of their total holdings. Unlike in El Salvador, Bitcoin holdings in the U.S., China, and the United Kingdom have been retained by governments but have not been explicitly used as reserve assets for value storage or economic stability.
+
+However, there are recent signs that this stance may be beginning to shift. The concept of Bitcoin as a reserve asset gained traction in 2024 among U.S. political figures such as Donald Trump, Robert F. Kennedy Jr., and Senator Cynthia Lummis, notably at the Nashville Bitcoin Conference.
+
+Support for a Bitcoin strategic reserve
+At the conference, U.S. Senator Cynthia Lummis outlined plans to establish a “Bitcoin strategic reserve,” which would include a network of secure storage vaults, a purchasing program, and measures to transparently manage federal Bitcoin holdings.
+
+Lummis’ Bitcoin strategic reserve bill outlines acquiring 1 million BTC, equivalent to roughly 5% of the total supply, to hold for 20 years. She is also pushing for the U.S. Treasury to convert part of its 8,000 tonnes of gold holdings into Bitcoin to establish the BTC strategic reserve.
+
+During the same conference, Robert F. Kennedy Jr. voiced his ambition to “sign an executive order on day one” directing federal agencies to transfer approximately 200,000 Bitcoin seized by the U.S. government to the Treasury as strategic assets. He also proposed that the Treasury purchase 550 Bitcoin daily until reaching a reserve of at least 4 million. Though he initially made these statements while running for president, he later joined Trump’s campaign and was recently appointed as Health Secretary in the Trump administration.
+
+Finally, Trump expressed his vision of American leadership in the Bitcoin arena, declaring (and yes, this is verbatim):
+
+“If crypto is going to define the future, I want it mined, minted, and made in the USA. It’s not going to be made anywhere else. And if Bitcoin is going to the moon, as we say, I want America to lead the way—and that’s what’s going to happen.”
+
+Trump Bitcoin Nashville Conference 2024
+Image: Donald Trump speaks at the 2024 Bitcoin Conference in Nashville, July 27, 2024.
+
+The sentiments expressed at the Nashville conference raise a crucial question: will the U.S. follow through on its promise to purchase Bitcoin as a reserve asset in 2025?
+
+Should they proceed, this move could meaningfully boost Bitcoin’s price and may prompt other countries to consider it as a reserve asset. As Fidelity noted in January 2022:
+
+“There is a very high-stakes game theory at play here, whereby if Bitcoin adoption increases, the countries that secure some Bitcoin today will be better off competitively than their peers. Therefore, even if other countries do not believe in the investment thesis or adoption of Bitcoin, they will be forced to acquire some as a form of insurance.”
+
+The counterargument to consider is that adopting Bitcoin as a reserve asset could be a double-edged sword. Governments risk undermining the authority they wield through their fiat currencies, which are tools for managing economies and exerting influence. Therefore, many governments may be more cautious and less eager to rush into a high-stakes game, particularly given the opposition to Bitcoin among many economists and policymakers.
+
+A new regulatory chapter? 
+Discussions of nation-state adoption and Trump's election is widely seen as a positive factor for Bitcoin-friendly regulation. Upon taking office on January 20, 2025, Trump will have the opportunity to reshape the leadership of the Securities and Exchange Commission (SEC). 
+
+During his campaign, Trump publicly declared his intention to remove the SEC Chair, Gary Gensler. Gensler subsequently resigned on November 21. Trump has since picked Paul Atkins as his nominee to head the agency, who is seen as a cryptocurrency advocate. A new SEC Chair could bring significant changes, potentially introducing clearer regulations for digital assets under U.S. securities law. 
+
+Moreover, as of December 2, the House of Representatives now includes 278 pro-crypto members compared to 122 who oppose crypto, providing Trump with increased leverage to influence crypto regulation in his preferred direction. For some, regulatory clarity has been a blocker to investment in Bitcoin, and this could mark a turning point. Looking globally, the UK is also expected to introduce a comprehensive crypto regulatory framework in early 2025, further contributing to the evolving regulatory landscape.
+
+Corporate and institutional demand 
+Even if nation-state adoption stalls, the growing interest from corporations and institutions could continue to support a bullish outlook for Bitcoin in 2025. Broadly speaking, corporate demand primarily refers to large publicly listed companies acquiring Bitcoin to hold as a strategic asset on their balance sheets. Institutional demand, on the other hand, refers to investment activity by entities such as hedge funds, asset managers, and pension funds, which are typically acquiring Bitcoin on behalf of their clients.
+
+Together, corporations and institutions represent a massive source of demand that could significantly impact Bitcoin's price trajectory in 2025. Their adoption of Bitcoin has far outpaced that of nation-states in recent years. As of December 2, public corporations currently hold around 508,024 BTC (~2.42% of the total supply), with the top holders being MicroStrategy, Marathon Digital, Riot Platforms, Tesla, and Coinbase. 
+
+Meanwhile, spot Bitcoin ETFs, which have been around for less than a year, already hold 1,246,585 BTC, representing 5.94% of the total supply. Leading the way are BlackRock (IBIT), Grayscale (GBTC), Fidelity (FBTC), ARK (ARKB), and Bitwise (BITB). In comparison, nation-states collectively hold just 524,246 BTC (2.50% of the total supply), and as mentioned previously, there is little actual demand from them at present. 
+
+The Saylor effect 
+Within the corporate and institutional landscape, MicroStrategy (MSTR:US) will be a key player to monitor in 2025. MicroStrategy, led by Michael Saylor, who is regarded as one of the world's biggest Bitcoin bulls, has shifted its focus from software development to acquiring Bitcoin as a corporate strategy. The company is heavily invested in Bitcoin, currently holding 386,700 BTC.
+
+MicroStrategy's playbook in simple terms: it raises funds by issuing stock and debt instruments at low interest rates and then uses that capital to buy more Bitcoin. In October 2024, MicroStrategy has also recently announced plans to invest an additional $42 billion in Bitcoin over the next three years. 
+
+MicroStrategy's Bitcoin purchases over time
+Chart: MicroStrategy's Bitcoin purchases over time. https://saylortracker.com/
+
+MSTR’s large-scale purchasing could significantly impact Bitcoin’s price in the years ahead, particularly as supply becomes increasingly constrained. A key indicator to watch is illiquid supply, which refers to the percentage of Bitcoin held in wallets with little history of selling, often by long-term holders. This has recently reached a staggering record high of 74%. For context, out of Bitcoin’s circulating supply of 19.75 million, illiquid entities now hold 14.61 million BTC, according to ETC Group and Glassnode. This dynamic is not only relevant to Saylor but it is also relevant to the broader factors discussed in this outlook.
+
+The accountants have arrived
+Starting in 2025, a new FASB rule will require US companies to report cryptocurrency holdings at fair value each quarter. According to Deloitte, "The new guidance requires entities to subsequently measure certain crypto assets at fair value, with changes in fair value recorded in net income in each reporting period."
+
+Previously, companies typically classified Bitcoin holdings as intangible assets subject to impairment testing. This meant Bitcoin held by a company could be written down if its price fell but could not be marked up until it was sold, even if the price recovered in the meantime.
+
+For companies like MicroStrategy the new rule might offer a clearer way to report their cryptocurrency holdings. While the technical details and adoption will vary by company, the update could enhance transparency and influence how businesses approach Bitcoin and other cryptocurrencies.
+
+Who’s next?
+Beyond MicroStrategy, all eyes will be on major market cap players like NVIDIA, Apple, Microsoft, Alphabet, Amazon, and Meta to see if they embrace Bitcoin in 2025. While many companies are exploring Bitcoin, it’s important to recognise the expanding interest from a wider range of institutions, including asset managers, family offices, and pension funds.
+
+In May 2024, the State of Wisconsin Investment Board became one of the first U.S. public pension funds to allocate to a spot Bitcoin ETF. By November 2024, a UK pension fund followed suit, making history by allocating 3% of its total assets to Bitcoin. Institutional and high-net-worth buying could prove pivotal in shaping Bitcoin’s trajectory in 2025.
+
+A new Bitcoin cycle?
+The cyclical pattern of Bitcoin's peaks and troughs, roughly aligning with four-year intervals, is a widely observed and intriguing characteristic of Bitcoin. Identifying the exact cause of this pattern is complex, as it arises from a confluence of factors. Among these, notable cycles stand out: the Bitcoin halving cycle, the U.S. election cycle, and the liquidity cycle (though liquidity tends to span 4-5 years). During prior Bitcoin cycles, these factors have often shown a correlation with Bitcoin's price.
+
+Global Macro Investor, Bitcoins correlation with global money supply. 
+Chart: Bitcoins correlation with global money supply. Global Macro Investor.
+
+The potential for increased nation-state adoption, coupled with growing institutional and corporate demand, could significantly overshadow the traditional factors that have historically played dominant roles in Bitcoin’s cyclical patterns. To illustrate this, let’s zoom in on the halving. The Bitcoin halving is a pre-programmed event in Bitcoin’s code that ensures the issuance of new Bitcoin is cut in half every 210,000 blocks (approximately every four years). The latest halving reduced daily Bitcoin issuance through mining to roughly 450 BTC.
+
+Now, contrast this with a recent corporate purchase: in November 2024, MicroStrategy acquired 51,780 BTC worth $4.6 billion, a single purchase that is equivalent to absorbing 115 days of new supply assuming constant prices. To put this into even sharper perspective, MicroStrategy’s single November purchase represents less than 1/20 of the Bitcoin acquired so far by the US Bitcoin spot ETFs. In any case, in 2024, the supply reduction driven by corporations, institutions, and nation-states has significantly surpassed the built-in supply reduction induced by the halving. Looking ahead to 2025, this pattern is expected to continue, with external accumulations playing a dominant role in shaping Bitcoin's supply landscape.
+
+The growing interest from nation-states and institutions in Bitcoin could have a significant impact on its traditional four-year market cycles. These new sources of demand raise the possibility of what is referred to as the 'supercycle', a speculative idea suggesting that Bitcoin’s price could experience sustained and unprecedented growth, driven by unprecedented factors, deviating from the structure of the typical four-year cycle tied to halving events. While the impact of these new entrants remains uncertain, their role in shaping the Bitcoin cycle carries some logic. In particular, demand from these sectors might help reduce downside volatility and establish a higher post-peak price floor compared to previous cycles. This outcome would depend on nation-states or corporations adopting long-term holding strategies, as indicated by Senator Cynthia Lummis' proposal for a U.S. strategic Bitcoin reserve.
+
+Previous Bitcoin cycles were largely driven by individual retail investors. However, in this cycle, retail investors are set to take more of a backseat role as larger players move into the spotlight. The large-scale purchases by corporations and institutions likely decrease the market impact of retail investors. Yet individuals, while they may see a relative diminishment on the demand side, should not be overlooked on the supply side. This is because, according to analysis from sources like River Financial, individuals still hold the majority of Bitcoin. As prices reach certain levels, even some of the strongest hands may choose to offload a portion of their holdings to cash in for lifestyle upgrades.  On the other hand, the more individuals “HODL,” the greater the supply crunch will become.
+
+Warning lights
+The above analysis paints an optimistic picture for 2025; however, in the realm of Bitcoin, such optimism can often be deceptive. With some risks in the U.S. seemingly subdued following the outcome of the 2024 presidential election, what other risks might 2025 hold?
+
+The greatest risk facing Bitcoin as we approach 2025 and beyond may be the threat of a major global recession or financial crisis, potentially sparked by instability within the global financial system. The recent unwinding of the yen carry trade caused Bitcoin's value to drop by approximately 20%, underscoring its sensitivity to liquidity contractions and price volatility. While this yen event was short-lived, a prolonged financial crisis similar to the Global Financial Crisis could drive a more severe and extended downturn for Bitcoin. With widespread job losses, both retail and institutional demand could evaporate. On the other hand, Bitcoin has a history of thriving in crises, especially during currency debasement, as witnessed in 2020, indicating that a global recession might reinforce its appeal.
+
+The wider cryptocurrency space, including exchanges, has shown vulnerability to fraud and security failures in recent years. A lingering risk remains for the year ahead: could the collapse of a key player destabilise the market once again? Coinbase’s (COIN:US) role as a custodian for numerous institutions, including major ETF issuers like BlackRock and companies like MicroStrategy and Tesla, has recently come under scrutiny, presenting an evolving concentration risk worth considering.
+
+A recent analysis by The Defiant revealed that Coinbase custodies a substantial 11% of the total Bitcoin supply, roughly 2.275 million BTC. This could leave Coinbase vulnerable to potential nation-state pressure in future, similar to the US enforcement action under Executive Order 6102, which seized private gold in the 1930s. The centralisation of Bitcoin and crypto assets within a single entity is also concerning given the risks of hacking or technical failure. While the risks are very low, the potential fallout could have disastrous implications for Bitcoin.
+
+Finally, the elephant in the room for next year is MicroStrategy. Its novel investment strategy and Michael Saylor's unwavering commitment to Bitcoin could pose significant risks if the price of Bitcoin plummets or the company’s approach falters. While BitMEX has indicated that forced liquidation is “highly unlikely” as of October 2024, they caution that “anything is possible.” Given the substantial amount of Bitcoin MicroStrategy holds, any issues could trigger a cascading effect across the broader ecosystem. Although the company managed to weather the last bear market, its rapid and dramatic accumulation of Bitcoin in recent times raises questions about its resilience in the face of future challenges. For better or worse, scrutiny and media attention on MicroStrategy and Saylor are likely to intensify as the current cycle unfolds.
+
+MicroStrategy CEO Michael Saylor speaks at the Bitcoin 2021 Convention in Miami, Florida.
+Image: MicroStrategy CEO Michael Saylor speaks at the Bitcoin 2021 Convention in Miami, Florida.
+
+Conclusion
+The outlook for Bitcoin in 2025 suggests an action-packed year, with opportunities, challenges, and volatility ahead. As this article is published in early December, developments later in the month could still shape the 2025 outlook. Investors should stay updated on evolving factors, including policy changes and major market movements, to navigate the year effectively.
+
+At its core, Bitcoin remains a constant, but it’s the world around it that will continue to evolve. As the Bitcoin community often says, "You can't change Bitcoin; Bitcoin changes you." Will 2025 see more individuals, companies, and even governments changed by Bitcoin?
+
+Setting aside debates about its purpose or future, Bitcoin’s very existence challenges us to reconsider the economic, political, and social frameworks that we’ve long taken for granted. In a world where so much seems to be breaking down, perhaps a new constant is exactly what we need.

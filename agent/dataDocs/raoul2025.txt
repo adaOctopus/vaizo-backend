@@ -1,0 +1,1443 @@
+This is the document that explains the liquidity cycle in 2025 as predicted by Raoul Pal
+and his everything code theory.
+
+# tactiq.io free youtube transcript
+# Life-Changing Money: Ride the Banana Zone w/ Raoul Pal
+# https://www.youtube.com/watch/zbnlBmUayT0
+
+00:00:00.040 hi everyone sorry to interrupt but this
+00:00:01.920 is the cheesy podcast bit that gets on
+00:00:03.679 everyone's nerves but it's really
+00:00:04.680 important to me please if you can like
+00:00:07.200 the channel and also subscribe it helps
+00:00:09.840 me a lot to get the best guess in the
+00:00:11.920 world for you guys so click like And
+00:00:14.759 subscribe appreciate it thanks H
+00:00:17.439 everyone I'm R pal and welcome to my
+00:00:19.840 show the journeyman where we explore
+00:00:22.920 that Nexus of macro crypto in the
+00:00:25.199 exponential age of
+00:00:26.960 Technology now it's getting towards
+00:00:29.000 Christmas and the holiday season we're
+00:00:31.080 all kind of getting our travel plans
+00:00:33.200 sorted out thinking about spending time
+00:00:35.320 with friends and family I thought I'd do
+00:00:37.440 a little special for you um what I'm
+00:00:39.520 going to do is release the video I did
+00:00:41.840 for the real Vision Festival of learning
+00:00:43.840 that was only on the real Vision
+00:00:45.320 platform about my presentation of the
+00:00:47.520 year ahead for crypto how the banana
+00:00:49.520 Zone plays out I hopefully it'll be a
+00:00:52.079 good Christmas present to you and give
+00:00:54.000 you some idea how to navigate now it was
+00:00:55.840 a few weeks old but I think it still
+00:00:57.719 holds up very well today you know it's
+00:01:00.480 been an extraordinary year we've
+00:01:02.039 interviewed or I've managed to interview
+00:01:03.719 some amazing people on the channel we've
+00:01:06.240 explored everything from AI
+00:01:07.960 Consciousness to crypto and everything
+00:01:10.159 in the middle it's a real privilege to
+00:01:12.880 be able to have these conversations and
+00:01:14.360 share them with you and hopefully you're
+00:01:16.640 seeing how all of these things fit
+00:01:18.840 together crypto is just one of the parts
+00:01:20.840 of the equation as is macro as is
+00:01:22.840 technology we're all going towards this
+00:01:25.400 economic Singularity where I think we've
+00:01:27.960 got maybe five years before the entire
+00:01:29.960 our system changes we got five years to
+00:01:33.079 make as much money as possible so we can
+00:01:35.600 protect ourselves and our families from
+00:01:37.520 the massive change that lies ahead you
+00:01:39.280 can already see it you know if we start
+00:01:41.880 to see the AI have Consciousness and
+00:01:43.920 crypto is being adopted by the White
+00:01:45.439 House what happens next year what
+00:01:47.079 happens when the robots come what
+00:01:48.600 happens when we're going to Mars what
+00:01:50.119 yeah there is so much that is happening
+00:01:52.680 and so much will become complicated and
+00:01:54.680 I'll be there for you on that journey to
+00:01:57.159 navigate to make sense of it all and to
+00:01:59.920 put you point you in the right direction
+00:02:02.479 but anyway all I wanted to do is really
+00:02:04.520 wish you a fantastic Christmas or
+00:02:06.439 holiday season and an amazing New Year
+00:02:09.520 and I'll see you back in 2025 for more
+00:02:12.319 of the journey man when I'll take you on
+00:02:15.080 that journey into the future take care
+00:02:17.720 out there join me Ral pal as I go on a
+00:02:21.239 journey of Discovery through the macro
+00:02:23.519 cryto and exponential age landscapes in
+00:02:26.840 the journey man I talked to the smartest
+00:02:28.920 people in the world so we can all become
+00:02:31.480 smarter
+00:02:36.480 together welcome
+00:02:38.599 everybody to the Festival of learning
+00:02:41.319 Festival of learning the Banana's own
+00:02:43.680 Edition Festival of learning something
+00:02:45.280 that we've been doing since the pandemic
+00:02:47.159 where we all get together and we have an
+00:02:49.920 intense day of learning about topics
+00:02:53.239 that are important to us the banana Zone
+00:02:56.040 and crypto are the most important topics
+00:02:58.480 of the moment and we we want to help you
+00:03:00.680 in your journey of understanding so you
+00:03:04.000 get to understand how better to navigate
+00:03:07.319 this so I'm going to do a presentation
+00:03:09.519 first then Jamie Coots who's our chief
+00:03:12.120 crypto analyst um you see him mainly in
+00:03:14.920 the Pro crypto tier um he will come on
+00:03:17.799 do a presentation about the Nexus of AI
+00:03:19.640 in crypto and then we've got lots of
+00:03:21.560 people from mean coins to a great
+00:03:24.000 presentation by suie and a really fun
+00:03:26.959 panel with Club Dean sui and Club and
+00:03:30.080 thank you guys are sponsors of the
+00:03:31.879 Festival of learning um and you'll see
+00:03:34.200 some great presentations from them both
+00:03:36.519 Ultra interesting hi R here listen I
+00:03:40.680 think we've got until 2030 before the
+00:03:43.480 economic Singularity arrives now it
+00:03:45.000 might not be the exact date but it's
+00:03:46.760 around then so we have about six years
+00:03:50.040 to figure out how to unfuck our future
+00:03:52.959 I've put together a report to help you
+00:03:54.760 called prepare for 2030 it's going to
+00:03:57.040 help you take the first steps in that
+00:03:59.200 Journey to make sure you're secure past
+00:04:01.920 2030 so just click on the link below and
+00:04:04.840 start your journey now um okay so let's
+00:04:08.920 get on to riding the banana with ra
+00:04:12.079 which is my session now which is a
+00:04:13.959 ridiculous name but that's what I come
+00:04:15.439 up with now I just want to just level
+00:04:18.279 set with you the first thing I want you
+00:04:20.720 to do is stop doing
+00:04:24.600 this this is the five minutely chart of
+00:04:28.199 Bitcoin and it's all
+00:04:31.199 drama I want you to zoom out and get a
+00:04:34.080 proper perspective stop the drama of
+00:04:36.720 Twitter of oh my God it broke 100,000
+00:04:38.560 it's falling below 100,000 it's Fallen
+00:04:40.240 10,000 points and then it's going back
+00:04:41.840 up again all of this is the wrong way to
+00:04:44.880 trade crypto to capture that opportunity
+00:04:47.840 to unfuck your future so I'm going to
+00:04:50.600 show you the big picture so I'll stop
+00:04:52.160 sharing this screen and flip you on to a
+00:04:54.880 slideshow that I've put together for you
+00:04:56.520 all um now what's important about this
+00:04:59.919 is when I do these presentations this is
+00:05:02.199 not real vision's views These are My
+00:05:04.120 Views R pal and My Views the DNA of My
+00:05:07.840 Views come from Global macro investor my
+00:05:11.240 premium research service there not part
+00:05:12.919 of real Vision people in real Vision get
+00:05:15.639 access to that level of thinking in real
+00:05:18.120 Vision Pro real Vision Pro is where I
+00:05:21.080 outline it the real Vision members my
+00:05:23.919 macro crypto exponential age of
+00:05:26.560 Technology Nexus and that incredible
+00:05:29.360 port portfolio which is one of the best
+00:05:31.440 performing portfolios I've ever seen
+00:05:34.240 luckily um also many of these are charts
+00:05:38.240 also do appear in real Vision Plus as
+00:05:40.039 part of the macro investing tool that
+00:05:41.639 Julian Bell who works with me uh at GMI
+00:05:46.000 he's the chief macro strategist there
+00:05:49.520 his ideas and my ideas come into into
+00:05:52.600 that MIT product as well but it's less
+00:05:55.319 in depth doesn't give you the Nuance of
+00:05:57.280 really what's behind it which is what
+00:05:58.919 the pro is just so you understand so
+00:06:01.120 anyway let's cut to the presentation so
+00:06:04.160 I can run you through the banana Zone
+00:06:06.960 where we are where we're
+00:06:08.680 going
+00:06:10.680 okay
+00:06:13.120 so about well in September we started
+00:06:16.680 producing this chart you already know
+00:06:20.080 that I have identified that Global
+00:06:23.639 liquidity is the driver of crypto assets
+00:06:28.120 and for vast periods of time they
+00:06:29.960 actually just mirror Global liquidity
+00:06:32.599 when you get into the speculative
+00:06:33.919 blowoff season it actually tends to
+00:06:36.360 decouple to the upside because these are
+00:06:38.919 exponential assets but right now we're
+00:06:41.319 still in the point where they're highly
+00:06:44.000 coupled so in September we showed this
+00:06:46.199 chart and said the first leg of the
+00:06:48.919 banana zone is
+00:06:50.520 coming cut it
+00:06:52.560 today I mean that's perfect I I
+00:06:56.039 didn't expect that to work as well as
+00:06:57.759 that I mean that is literally perfect
+00:07:00.199 and that chart suggests that we go
+00:07:03.440 somewhere close to 110,000 maybe we
+00:07:05.720 overshoot it whatever it is but into the
+00:07:08.879 end of the year before we correct so
+00:07:12.039 this is the burst phase of the banana
+00:07:13.960 zone so how is it looking in markets
+00:07:16.360 themselves let's flip through some
+00:07:17.879 charts now these were put together
+00:07:19.960 yesterday we moved around a bit but suie
+00:07:22.879 which you know a the responser of this B
+00:07:26.160 as you know I'm on the foundation of sui
+00:07:28.240 but as I've always said I'm merary with
+00:07:30.039 my Capital this has been one of our core
+00:07:32.199 recommendations in both Global macro
+00:07:34.160 investor and pro crypto and it's been
+00:07:36.080 doing extraordinary well the shortterm
+00:07:38.240 chart of this
+00:07:41.240 breakout salana here's a daily chart of
+00:07:44.919 salana salana had a big wedge pattern
+00:07:47.560 big consolidation broke out we're re-
+00:07:50.000 wedging right now we should break out
+00:07:52.240 again into year end to follow that
+00:07:54.800 liquidity pattern
+00:07:57.479 banone ethereum this is the weekly chart
+00:08:00.319 of ethereum the weekly chart of ethereum
+00:08:02.759 hasn't yet broken out but it's very
+00:08:05.479 close so whether we break out this month
+00:08:08.199 which is my hunch and then maybe retest
+00:08:11.879 in the January pullback from liquidity
+00:08:15.000 um or we pull back here for a bit and
+00:08:17.039 then explode through afterwards either
+00:08:19.159 way that chart that wedge pattern to me
+00:08:22.240 is one of the most powerful patterns in
+00:08:23.919 all of crypto and suggest we've got a
+00:08:26.159 very big move in ethereum to come
+00:08:30.599 the other thing that I look at is I look
+00:08:32.360 at the the cross rates between various
+00:08:35.240 crypto to try and pick the strongest one
+00:08:37.240 I've already shown that salana is very
+00:08:40.760 strong and it's expected to keep going
+00:08:42.919 higher but when I compare sui against
+00:08:45.480 salana it's starting to break out from
+00:08:47.920 this inverse Head and Shoulders pattern
+00:08:50.200 which suggests to me that I would switch
+00:08:52.959 more assets from salana into s that's
+00:08:56.560 not saying salana is going to go down in
+00:08:58.959 fact I I think salana does extremely
+00:09:01.079 well and you should be overweighted
+00:09:03.000 there because it is a second cycle more
+00:09:06.040 proven protocol wellu is newer and
+00:09:08.760 riskier but it looks like the alpha is
+00:09:11.519 going to come from the new token the new
+00:09:14.079 performer ofu and we can hear adony
+00:09:17.880 talking about this uh later today when
+00:09:21.120 um Chris bulock interviews him about
+00:09:24.360 s to
+00:09:26.160 show another interesting chart I quite
+00:09:28.519 like is is Doge sorry xrp has been super
+00:09:31.720 strong but really what we've seen is the
+00:09:35.200 upward trend of sweet outperformance we
+00:09:37.920 hit the bottom of the trend Channel and
+00:09:39.959 we're likely to outperform xrp going
+00:09:42.200 forwards again in that ongoing relative
+00:09:44.839 outperformance again that's not saying
+00:09:46.440 xrp goes down but I'm just giving you
+00:09:48.920 the perspective of these cross rates to
+00:09:51.880 understand the Nuance of markets because
+00:09:54.200 really a lot of people have too much
+00:09:56.600 assets spread across too many things
+00:09:58.959 when you start comparing one asset to
+00:10:00.640 the other you can actually narrow it
+00:10:02.519 down and concentrate your bets into bets
+00:10:05.240 that really matter a lot of the time you
+00:10:07.600 think oh I want a bit of this and a bit
+00:10:08.880 of that and a bit of this because that's
+00:10:10.079 going up and that's going up and that's
+00:10:11.279 breaking out you actually underperformed
+00:10:13.839 by doing that I found that being more
+00:10:16.800 concentrated in my bets using the don't
+00:10:19.600  this up thesis which is have let's
+00:10:21.959 say 80 or 90% in the main tokens and
+00:10:26.880 those would be um salana um Bitcoin
+00:10:30.800 ethereum then you can have waiting in
+00:10:33.399 whatever you choose it to be where you
+00:10:35.639 think you're going to find
+00:10:36.720 outperformance including some means
+00:10:39.240 which should be a much smaller part of
+00:10:40.680 your portfolio because you're likely to
+00:10:42.839 get wrecked you'll have fun doing so but
+00:10:45.120 you're likely to get ragged okay next
+00:10:47.760 chart xrp itself fabulous pattern look
+00:10:51.360 at wedge after wedge after wedge after
+00:10:53.440 the wedge so we're just building another
+00:10:55.800 wedge now ready for the next break
+00:10:57.560 higher so that move is clearly not done
+00:11:00.519 um if you look at the weekly chart of um
+00:11:04.000 xrp it's a stunner this massive 7 year
+00:11:07.480 wedges broken who knows where this chart
+00:11:10.040 goes to it's very powerful but then go
+00:11:12.680 back to that chart of s versus xrp and
+00:11:16.760 it's suggesting that s should even
+00:11:18.760 outperform this so that's the
+00:11:21.120 perspective I have now it's not always
+00:11:22.800 going to be 100% right but that's how I
+00:11:24.839 look at it um here's s salana
+00:11:29.920 so we we've been consolidating the wedge
+00:11:32.120 had the huge outperformance
+00:11:34.360 consolidation breakout retest the
+00:11:36.959 breakout Zone next leg should be S favor
+00:11:40.800 because of the long-term chart and this
+00:11:42.680 is sorry this is the weekly chart and
+00:11:44.680 you saw the daily chart earlier with the
+00:11:46.720 inverse Head and Shoulders stuff like
+00:11:48.720 that so there's a lot of great charts
+00:11:52.000 that are lining up that say
+00:11:53.959 banone in mean land whiff dog whiff hat
+00:11:57.839 inverse Head and Shoulders broke out
+00:11:59.839 retest next leg higher should come
+00:12:04.040 shortly Jupiter so Jupiter is
+00:12:08.519 a is a it's kind of a leverage bet on
+00:12:11.360 Soul because it's a DEX on Soul so more
+00:12:14.360 Soul activity more Jupiter goes up so
+00:12:17.360 it's broken out as well and looks very
+00:12:19.519 positive these kind of wedge patterns
+00:12:21.560 that we see are immensely powerful so
+00:12:24.120 this is beta to
+00:12:26.120 Soul um another one that did a very
+00:12:28.680 similar was MOG it had exactly the same
+00:12:31.040 wedge and then it exploded higher and
+00:12:33.079 it's been exploding higher since as it
+00:12:35.279 ended up getting listed on the major
+00:12:36.839 exchanges so again you can see these
+00:12:39.000 patterns they're human behavior on a
+00:12:41.279 chart and they don't all happen at the
+00:12:44.160 same time this is the hard thing about
+00:12:46.120 the banana zone is different things pop
+00:12:48.720 at different times and you you've always
+00:12:51.160 trust me always got the feeling you've
+00:12:52.760 got the wrong token then yours pumps
+00:12:57.279 and then something pumps and you're like
+00:13:00.120 do I chase this what have I got it wrong
+00:13:02.399 stick with your program you'll probably
+00:13:04.600 get it right over time if youve used the
+00:13:06.760 don't this up thesis of asset
+00:13:09.079 allocation so don't worry fomo is a
+00:13:12.360 natural part of this Market the real
+00:13:14.880 temptation is to chase every breakout
+00:13:18.639 don't do that because they roll over
+00:13:21.440 time they repeat the same patterns but
+00:13:22.800 they're not all 100% in the same phase
+00:13:26.480 the other one that's an absolute stunner
+00:13:28.399 of a chart is Doge Doge just keeps doing
+00:13:31.600 the same thing every cycle it does
+00:13:33.720 consolidation consolidation
+00:13:35.120 consolidation explosion consolidation
+00:13:37.480 consolidation consolidation explosion
+00:13:40.360 the explosion is always the banana Zone
+00:13:43.480 and doge is the strongest characteristic
+00:13:47.320 of the banana Zone it's this massive
+00:13:50.120 meme um that gets the world's attention
+00:13:54.120 it has been going since
+00:13:55.680 2013 and it has been Unstoppable and
+00:13:58.720 look at the breakout levels now if we
+00:14:00.720 repeat anything like we did the last two
+00:14:03.880 uh banana Zone periods we've got a hell
+00:14:06.519 of a ride to come so doge is something
+00:14:10.040 that I keep a close focus on um and
+00:14:13.639 again once we Zoom down to the shorter
+00:14:15.360 term torizon Doge and again this is
+00:14:17.720 slightly out of day this from yesterday
+00:14:19.600 but doge is wedging yet again these
+00:14:22.279 wedges are fabulous patterns in Bull
+00:14:25.560 markets or bare markets depending which
+00:14:27.600 way you're looking at but they
+00:14:29.279 consolidation the pause that refreshes
+00:14:31.440 next leg higher so we're expecting any
+00:14:34.199 day now digestion of a little bit of the
+00:14:37.160 move we had with Bitcoin going to
+00:14:40.079 104,000 consolidate consolidate then
+00:14:42.839 something will break I don't know what
+00:14:44.160 it was uh SOI broke yesterday broke to
+00:14:46.759 the upside now it's consolidating maybe
+00:14:49.320 it's Doge tomorrow and this rolling
+00:14:51.839 breakouts breakouts breakouts is how it
+00:14:54.279 happens and consolidation consolidation
+00:14:56.360 consolidation and as people build
+00:14:58.480 confidence we start moving into okay
+00:15:00.959 bigger correction uh to come Doge
+00:15:04.680 Bitcoin is like I think the most
+00:15:06.279 humorous chart in all of humanity um
+00:15:09.120 what it's saying is since Doge came out
+00:15:10.880 in 2013 it's outperformed Bitcoin by
+00:15:14.920 500% it's suggesting that doge is the
+00:15:17.399 hardest currency in the known Galaxy now
+00:15:20.360 if that chart plays out um and it breaks
+00:15:23.959 that kind of downward sloping uh wedge
+00:15:27.079 or or whatever Channel
+00:15:29.839 and we go to a new High I mean that's
+00:15:32.839 telling us something that we can't get
+00:15:34.639 our heads around uh that doge is
+00:15:37.920 literally a better currency than Bitcoin
+00:15:40.199 and I know that's contentious I'm just
+00:15:41.759 looking at the charts I find it
+00:15:43.160 hilarious we may be living in a
+00:15:44.759 simulation and it's probably Elon
+00:15:46.880 simulation therefore this works
+00:15:50.240 um one of the memes you all know I've
+00:15:52.360 got smoking chicken fish smoking chicken
+00:15:54.480 fish did a perfect cons you know rip up
+00:15:58.040 and their long-term consolidation which
+00:16:00.079 happens to be a wickoff reaccumulation
+00:16:02.880 pattern we should expect it to go to the
+00:16:05.199 top of the range around
+00:16:07.959 the sort of 120 130 level chop around
+00:16:13.319 there for a bit and then explode higher
+00:16:15.560 so you know you can use these kind of
+00:16:17.959 patterns as well but again they're all
+00:16:19.959 suggested that we're in the banana Zone
+00:16:22.639 the first leg of the banana Zone not
+00:16:24.399 everything sinks they come one after the
+00:16:26.279 other off the other then we get a big
+00:16:28.440 correction and maybe in that bigger
+00:16:30.720 correction it could be the Major's
+00:16:31.959 correct and the alts explode higher I'm
+00:16:35.600 not sure yet we'll have to wait and see
+00:16:37.319 I don't trade it and we'll talk about
+00:16:39.000 that correction in a bit smoking chicken
+00:16:40.800 fish broke out of the downward sloping
+00:16:42.600 wedge pattern as well so again just more
+00:16:46.720 confirmation here's a leverage play on
+00:16:49.560 onu which is deep deep book which is the
+00:16:52.920 liquidity layer for S so the more if you
+00:16:56.480 think of like the Jupiter idea the more
+00:16:58.319 activity that happens onu the more deep
+00:17:00.920 book is like to go up and it's like $180
+00:17:03.399 million right now as an entire value now
+00:17:07.240 if we're right about s that it that it
+00:17:09.520 gets into well into the top 10 and
+00:17:11.640 potentially the top five in this cycle
+00:17:14.359 well the liquidity layer is going to be
+00:17:16.039 extremely valuable um so you know there
+00:17:18.640 could potentially and it's not not a
+00:17:20.520 recommendation but it could do a 10x so
+00:17:22.679 this is H saying if there are ways of
+00:17:25.359 having leverage plays on top okay let's
+00:17:29.240 go back to the liquidity story so the
+00:17:31.360 liquidity story here is oh my God and
+00:17:34.320 I've been said this chart a thousand
+00:17:35.600 times by people oh my God what happens
+00:17:37.280 is it all over is this the peak is this
+00:17:39.039 the end do we get out now what happens
+00:17:41.360 what happens panic panic panic panic
+00:17:43.799  okay we had exactly the same
+00:17:47.600 thing last time Trump was elected the
+00:17:50.240 dollar was strong rates went up
+00:17:53.440 liquidity
+00:17:54.679 contracted the market had a big rally
+00:17:57.679 which is Bitcoin and then in January
+00:18:00.440 because of the lag what we found was a
+00:18:03.880 sharp 27% correction in
+00:18:06.440 Bitcoin um and then it ripped
+00:18:10.360 higher ripped higher so much in fact
+00:18:14.320 that it went up 23x now I'm not
+00:18:17.280 expecting that because this was a much
+00:18:18.880 earlier cycle but what we're saying is
+00:18:21.640 that correction is not to fear that
+00:18:23.400 correction is just a marker point from
+00:18:26.480 phase one of the banana Zone to phase
+00:18:28.240 two of the ban ban Zone phase two of the
+00:18:30.400 banana Zone usually goes into US tax
+00:18:32.880 season which is like April um then
+00:18:35.960 there's usually a consolidation because
+00:18:37.440 people have to sell tokens to pay taxes
+00:18:39.679 and then there's usually phase three of
+00:18:41.120 the banana zone is the rip into year end
+00:18:43.880 and that's all driven by the liquidity
+00:18:46.799 cycle so we can see these banana Zone
+00:18:49.919 periods as they start appearing Bitcoin
+00:18:52.400 just does this every time like Doge does
+00:18:56.240 so we've just broken that part of the
+00:18:58.159 cycle so this is the start of the banana
+00:19:00.640 Zone as we start accelerating higher
+00:19:04.000 going back
+00:19:05.640 to uh liquidity here's Global M2 you see
+00:19:09.400 global M2 does this a lot it also wedges
+00:19:11.960 I love a wedge they're the best chart
+00:19:13.320 patterns in the world and what happens
+00:19:15.240 is it has a break higher than this
+00:19:17.640 consolidation it's happened every time
+00:19:19.679 we've got to the banan Zone period the
+00:19:22.280 kind of us election cycle stuff like
+00:19:24.280 that so we've done that we've re we've
+00:19:26.679 corrected the breakout now global M2 is
+00:19:28.799 actually driven by the strength of the
+00:19:30.880 dollar now the dollar has started to
+00:19:33.039 weaken we're expected to weaken going
+00:19:35.080 forwards um and that will then reignite
+00:19:37.799 the next phase of the banana Zone as we
+00:19:40.200 start bouncing higher you can see those
+00:19:42.280 Corrections in them too were short now
+00:19:44.960 the reason being is we've got to roll
+00:19:47.240 all of this Global liquidity we've got
+00:19:49.600 massive amounts of debt to roll over and
+00:19:53.080 you need liquidity to do it so that is
+00:19:56.120 the game the big game the everything
+00:19:58.080 code game that I've talked you about so
+00:20:00.559 the everything go code game is very much
+00:20:02.520 at play this is a phase the early phase
+00:20:05.080 of the breakout this year is the year of
+00:20:08.000 liquidity and that's why the year ahead
+00:20:11.559 and that's why the banana Zone plays out
+00:20:14.840 so
+00:20:16.440 beautifully so we talked about global M2
+00:20:19.360 being driven by the dollar so let's look
+00:20:22.200 at the dollar and also rates is the
+00:20:24.440 other part of um Financial conditions
+00:20:26.559 and
+00:20:27.360 liquidity so
+00:20:29.400 what we're finding is that the dollar as
+00:20:32.840 you can see and rates had moved away
+00:20:36.200 from Trend that was the strength that we
+00:20:38.000 saw this is what creates the the um the
+00:20:44.159 down moving Global liquidity now what's
+00:20:46.799 interesting is the city economic
+00:20:49.080 surprises index which is a index of
+00:20:51.919 whether the economy is beating forecast
+00:20:55.280 or underperforming forecast says we
+00:20:57.799 should now have a period of
+00:20:59.039 underperforming forecast because it was
+00:21:01.159 driven by the tightener conditions from
+00:21:03.320 the dollar and rates now obviously we
+00:21:06.360 know if the economy starts
+00:21:08.159 underperforming forecast like we just
+00:21:10.200 saw the unemployment rate rise to
+00:21:12.880 4.2% once we start to see things like
+00:21:15.679 that happening what happens is people
+00:21:18.240 start thinking about we need to cut
+00:21:20.279 rates more so that's a very interesting
+00:21:22.960 thing so here in white is is rate Cuts
+00:21:26.919 priced in very few rate Cuts priced in
+00:21:30.720 so there's
+00:21:32.120 like uh I don't know what the scale is
+00:21:34.400 here but there's very little rate Cuts
+00:21:36.240 priced in but it's
+00:21:37.799 driven on a forward basis by the dollar
+00:21:41.640 and the long end so it's now saying as
+00:21:44.880 we weaken economic growth we should
+00:21:47.039 start to see rate cuts and then as you
+00:21:50.000 can see we're starting to see the pickup
+00:21:52.440 um again in financial conditions which
+00:21:54.600 is important and I'll come into that in
+00:21:56.320 a
+00:21:57.520 minute so when you put it all together
+00:21:59.520 they're all the same thing FEG rate cuts
+00:22:01.520 the dxy 10-year bond yelds they're all
+00:22:04.840 highly mirroing each other 10year Bond
+00:22:06.679 deals seem to be suggesting faster and
+00:22:09.760 faster that the dollar should roll over
+00:22:12.279 and rat should roll over
+00:22:14.400 too that creates Financial conditions
+00:22:17.159 and now what we've got here is financial
+00:22:20.000 conditions index which is um rates the
+00:22:23.640 dollar and oil prices has been
+00:22:25.919 consolidating for a period of time and
+00:22:28.240 it is is suggesting that the ism which
+00:22:31.360 is the business cycle The Institute of
+00:22:33.039 Supply manager survey should be much
+00:22:35.840 higher I.E we've got economic growth to
+00:22:38.840 come it leads by nine months so in nine
+00:22:40.960 months time the economy will be a lot
+00:22:43.640 stronger than it is today and this is
+00:22:46.080 going to be important for you so all of
+00:22:48.120 the stuff we talked about rates the
+00:22:50.080 dollar um even oil prices all Drive
+00:22:54.039 Financial conditions which drives
+00:22:56.039 cryptocurrencies which drives markets in
+00:22:58.159 general
+00:22:59.039 which drives the business
+00:23:01.000 cycle when we look at the
+00:23:02.679 forward-looking basis on the business
+00:23:04.279 cycle we can see things like the Philly
+00:23:06.360 fed well then new orders index is
+00:23:09.240 exploding higher now whether this is
+00:23:11.679 just on the Trump Victory or whether
+00:23:15.159 it's on um orders they see in advance
+00:23:19.039 not sure yet Filly fed um expectations
+00:23:22.480 index exploding higher Empire
+00:23:25.000 manufacturing for that's for New York
+00:23:26.960 exploding higher all suggesting the ism
+00:23:29.640 is going to be super strong going
+00:23:31.240 forwards why this matters is the ism the
+00:23:35.440 business
+00:23:37.039 cycle is the coincident factor for the
+00:23:41.279 ethereum Bitcoin
+00:23:43.480 cross so that says as ISM starts Rising
+00:23:48.919 eth Starts outperforming
+00:23:51.080 Bitcoin and why is that well it's a
+00:23:53.799 function of ism
+00:23:56.679 being confidence in the economy
+00:23:59.679 disposable income or free cash flows
+00:24:02.039 from businesses people get more have
+00:24:04.400 more money and feel better and have more
+00:24:06.200 confidence as the ism goes up the
+00:24:08.080 business Cycle's better we're all
+00:24:09.320 earning a bit more our businesses are
+00:24:11.080 doing better we're making a bit more
+00:24:12.320 profits and we recycle those profits
+00:24:14.799 into Investments and we go further out
+00:24:17.120 the risk curve which would be ethereum
+00:24:19.880 we might also like ethereum because it
+00:24:21.360 has a yield while Bitcoin doesn't so we
+00:24:23.520 might Park more of our money into that
+00:24:25.080 yield as well to make our money grow for
+00:24:27.120 us so anyway if a big factor for eth
+00:24:31.240 Bitcoin the business cycle crypto and
+00:24:33.559 macro are the same thing and that's a
+00:24:35.799 really important thing to know most of
+00:24:37.960 the financial establishment hasn't
+00:24:39.640 understand stood this but um at Global
+00:24:42.279 macro investor we have entirely led the
+00:24:44.360 way on this we have thousands of charts
+00:24:46.559 we have more in-depth research on that
+00:24:48.880 Nexus of macro and crypto than literally
+00:24:51.360 anybody else on Earth and we're very
+00:24:53.200 confident in how this plays out so when
+00:24:56.000 we go back to the price chart hey Presto
+00:24:58.080 it's another wedge this is the eth
+00:25:00.840 Bitcoin weekly cross if you remember
+00:25:02.840 when I started this presentation I said
+00:25:04.840 stop using too shter term charts because
+00:25:07.279 all you'd see on Twitter is eth's
+00:25:09.080 terrible it's falling and it's just
+00:25:10.880 going to underperform Forever look at
+00:25:12.559 the big picture eth basically is the
+00:25:15.039 same level versus Bitcoin that it was in
+00:25:17.240 2017 it has held value over time which
+00:25:20.799 is very important it shows the Lindy
+00:25:22.679 effect that this thing is around and
+00:25:25.000 it's here to stay so what we're doing is
+00:25:27.440 bouncing off the bottom bottom Channel
+00:25:28.960 now just as the ism is is about to pick
+00:25:31.760 up and we either break that wedge which
+00:25:34.520 is a big deal because that would be eth
+00:25:37.960 outperforming Bitcoin even further or we
+00:25:41.120 stay in that larger range but get to the
+00:25:43.200 top of the range my base case is we
+00:25:46.960 break out and eth outperforms now I know
+00:25:49.640 nobody can believe that right now but
+00:25:51.760 eth is a very different Beast to bitcoin
+00:25:53.880 ether is a platform it's a compute
+00:25:56.520 platform it's a storage platform it's a
+00:25:59.279 huge system well Bitcoin is more of a
+00:26:03.440 currency a store of value collateral
+00:26:05.480 layer they're just very different things
+00:26:07.480 and it's kind of stupid and idiotic that
+00:26:09.480 we compare them but we're here to make
+00:26:12.240 money and not have a philosophical
+00:26:14.399 debate about what Bitcoin is versus
+00:26:16.200 ethereum what I'm here to do is help all
+00:26:19.000 of us unfuck our futures and it feels
+00:26:21.480 that overweighting ethereum if you've
+00:26:23.840 got ethereum that's the way to do it
+00:26:25.919 versus Bitcoin now the ISN also has
+00:26:29.120 another little piece of magic it
+00:26:31.240 actually is the signifier for altcoin
+00:26:34.159 season so altcoins a percent of Bitcoin
+00:26:36.960 total market cap altcoins start
+00:26:39.120 massively outperforming and again it's
+00:26:41.480 driven by the same thing optimism a bit
+00:26:44.559 more money a bit more Savings in your
+00:26:46.520 pocket and you wanting to make your
+00:26:48.360 money work for you you go further out
+00:26:50.559 the risk curve so the key signal for for
+00:26:55.279 um for altcoin season is the ISM going
+00:26:58.960 higher and I've showed you why we think
+00:27:01.360 it goes higher all of our work suggests
+00:27:03.799 that it will ism is also this chart is
+00:27:07.200 the same actually for nfts that's why
+00:27:09.480 we've started to see nfts Rise it's all
+00:27:11.440 written uh it's all driven by the same
+00:27:13.880 thing nfts are people's savings get
+00:27:15.919 recycled into a long-term
+00:27:18.840 asset and then if we look at the crypto
+00:27:21.240 open market cap excluding the top 10
+00:27:23.840 known as others on um trading view lo
+00:27:27.399 and behold a series of beautiful wedges
+00:27:29.880 that wedge pattern is just is the is the
+00:27:32.480 chart pattern of the gods that and the
+00:27:34.120 head and shoulders pattern and here we
+00:27:36.000 go and a couple of the wick offs and
+00:27:38.080 here we go wedge massive break wedge
+00:27:41.880 massive break
+00:27:43.840 wedge I would suggest massive break so
+00:27:46.919 where does this go we're at 400 um $400
+00:27:50.720 billion dollar here do we go to trillion
+00:27:54.519 do6 trillion it's possible it's possible
+00:27:58.840 we just have to wait and see but you
+00:28:00.559 know the orders of me the previous ones
+00:28:03.080 were much larger it'll be less big this
+00:28:04.919 side but I'm guessing we're going to see
+00:28:07.559 the you know the mid- tier olds really
+00:28:10.039 really start to um move in value and
+00:28:13.159 that's where things like sui and SE and
+00:28:15.679 Celestia and all of these things all lie
+00:28:18.600 within these areas or whatever your
+00:28:20.720 favorite token is and again please do
+00:28:23.679 not think that you need to be a
+00:28:25.600 maximalist in anyone thing we're trying
+00:28:27.840 to out out perform use the charts of
+00:28:29.519 your chosen token versus salana they
+00:28:32.200 look like they're going to outperform
+00:28:33.240 salana you're on to something good
+00:28:35.440 please don't use something that's very
+00:28:37.279 short term I want to see a proper basing
+00:28:40.039 pattern that's why um I found sui
+00:28:42.679 because it was outperforming pretty much
+00:28:44.279 every token you might find something
+00:28:46.000 else again don't go too far overweight
+00:28:48.760 away from the don't this up thesis
+00:28:50.760 the way to ride the banana sensibly it
+00:28:52.960 will all play
+00:28:54.360 out okay so here's our macro seasons in
+00:28:57.480 this impossible to see chart and if
+00:28:59.159 you've got color blindness you're
+00:29:00.760 totally but I'm sorry for that
+00:29:03.279 but here we go is we're in crypto summer
+00:29:07.120 crypto summer finishes with the start of
+00:29:10.519 the banana zone so we saw it well in
+00:29:12.720 2020 2016 was great 2012 was great
+00:29:17.640 but it is crypto full where the real
+00:29:20.360 action starts we look at 13 it was
+00:29:22.880 ridiculous 17 was ridiculous 21 was a
+00:29:26.559 weird one and it was a weird one
+00:29:29.159 actually because of a simple thing is
+00:29:31.440 the
+00:29:32.399 pandemic had caused a a faster spike in
+00:29:36.960 in crypto summer but also the massive
+00:29:40.399 liquidity injections started to get
+00:29:42.039 withdrawn and the business cycle peaked
+00:29:44.399 very quickly in March of
+00:29:47.519 2021 and so we had liquidity peaking and
+00:29:51.960 the business cycle peak in March 2021
+00:29:54.519 and that stopped the second leg of the
+00:29:56.679 rally the face three of The banam Zone
+00:29:59.919 from really extending like it did in
+00:30:02.480 2017 conditions for me are much more
+00:30:05.000 similar to
+00:30:06.519 2017 and that's what I think so let's
+00:30:09.440 compare the previous Cycles now it's a
+00:30:10.960 little bit difficult to see with all of
+00:30:12.320 the various colors um but basically you
+00:30:15.200 can see from the orange the current
+00:30:18.240 pattern is looking very similar to
+00:30:22.120 either the 2015 18 pattern or the
+00:30:26.080 1821 we think it's much closer to the
+00:30:29.519 20158 pattern and that we've got um that
+00:30:33.640 we've got the an extended move to come
+00:30:38.640 an extended banana so I've always been
+00:30:40.799 asked and talked about my probability
+00:30:42.600 waiting I do not see a peak in the cycle
+00:30:45.960 early because guess what the business
+00:30:47.840 cycle is at its bottom the White House
+00:30:49.840 has just come in with all of the new
+00:30:51.200 people their job grow grow grow grow
+00:30:52.880 grow they will Force this
+00:30:55.000 economy to grow and therefore the
+00:30:56.639 business cycle has at least n months
+00:30:58.760 probably 12 months to play out we could
+00:31:01.240 even see an extended cycle into 2026 but
+00:31:04.480 it will be a cycle it will not be a
+00:31:05.960 super cycle because liquidity gets
+00:31:07.960 withdrawn and then gets eventually
+00:31:09.519 readed again as the economy heats up
+00:31:13.159 but the back end loaded so we have a a
+00:31:17.399 run into year end a
+00:31:20.039 correction from liquidity then a run
+00:31:23.039 into March April that that usually is
+00:31:25.720 altcoin season Central then we tend to
+00:31:29.039 have a pause or a pullback post tax
+00:31:32.080 season late summer we kick off again
+00:31:35.440 2017 we had a Bitcoin 10x in four months
+00:31:40.840 so all sorts of drama can happen so the
+00:31:44.480 lifestyle chips component that I've
+00:31:46.039 talked about a lot I would use probably
+00:31:48.440 the the you know Feb March April
+00:31:52.440 strength if you want to take some
+00:31:54.000 lifetile chps of 20% 15% 30% % 50%
+00:31:58.799 whatever it is you want to maintain your
+00:32:01.159 lifestyle then you've got the power to
+00:32:04.399 run the second half of the bull market
+00:32:07.559 because you're going to be in fear all
+00:32:09.240 the way am I going to lose my money am I
+00:32:10.480 going to get this wrong is it going to
+00:32:11.519 be 2021 over again if you've secured
+00:32:14.080 that thing your mortgage on your house
+00:32:16.200 or your car payment or your that holiday
+00:32:18.399 or paid off your debts whatever that
+00:32:20.600 lifestyle goal is get that
+00:32:22.639 sorted out as fast as possible it will
+00:32:24.159 clear your head and allow you to extend
+00:32:26.960 the cycle or if not run multicycles the
+00:32:29.639 real wealth is actually made not by
+00:32:31.639 trading the cycle but by running
+00:32:34.000 multicycles because it compounds over
+00:32:36.760 time so if you think of you know the the
+00:32:39.919 the depths of macro crypto winter in
+00:32:45.120 20 in 20 uh n 18 we were down at I don't
+00:32:50.799 know 2,000 Bitcoin where are we now 100
+00:32:53.200 a 50x you didn't have to do anything you
+00:32:56.840 didn't have all the drama all the ups
+00:32:58.360 and downs and oh my God FTX and all of
+00:33:00.679 this all of it didn't matter so just
+00:33:04.159 keep that in mind when you get o all of
+00:33:06.200 you are overfocused on the cycle I want
+00:33:08.039 to sell at the top and buy at the bottom
+00:33:09.679 and I'm going to crush it take your LIF
+00:33:11.639 cell chips off you can then run whatever
+00:33:13.799 you want so we're getting closer to that
+00:33:16.679 period here is the comparison um when
+00:33:20.720 you put them all together the uh last
+00:33:23.519 two harving and where we are now so
+00:33:26.360 where we are now is is um very similar
+00:33:31.159 to the white one and the white one is
+00:33:33.519 the harving from the 2016 177 cycle now
+00:33:37.440 look at both of those charts at exactly
+00:33:40.519 like whatever it is 170 days after the
+00:33:43.360 harving they both have this correction
+00:33:45.639 the liquidity correction it's all the
+00:33:47.720 same thing this is the everything code
+00:33:49.200 it's all driven by uh liquidity and the
+00:33:52.720 Bitcoin harving and the patterns that
+00:33:54.360 emerge so that correction however long
+00:33:57.159 that takes
+00:33:58.600 call it a month three weeks that
+00:34:02.080 correction ushers in phase two of the
+00:34:05.080 banana Zone which tends to be the
+00:34:07.360 violent propulsion of um SS the banana
+00:34:11.199 Zone signature pattern so are we
+00:34:15.280 overbought yet are we should we be
+00:34:16.960 worried should we be thinking you know
+00:34:18.800 my God you know what happens if it's
+00:34:20.040 over 100,000 and it tops here well our
+00:34:23.520 core risk indicator is nowhere near
+00:34:26.320 overboard we're still barely
+00:34:29.119 mid so it's suggesting we've got a lot
+00:34:32.239 further to go when we look at the log
+00:34:35.839 regression Channel this is my kind of
+00:34:37.239 chart of Truth the thing that I find is
+00:34:39.960 immensely helpful well we're not even at
+00:34:43.800 the mean of the trend so we're still
+00:34:47.239 below mean now we're going to go to one
+00:34:50.440 or two standard deviations in fact it's
+00:34:52.639 never not gone to two standard
+00:34:54.199 deviations two standard deviations you
+00:34:57.119 know you're talking
+00:34:59.160 $500,000 plus Bitcoin now maybe it
+00:35:01.960 doesn't maybe the law of diminishing
+00:35:03.400 returns kicks in and gets to one
+00:35:04.680 standard deviation well that gets you to
+00:35:06.800 250,000 or so I'm not giving you
+00:35:09.160 projections I'm giving you
+00:35:10.960 contextualization of what an exponential
+00:35:13.119 Trend looks like all to play for so
+00:35:16.000 there's nothing to worry about cycle top
+00:35:19.119 finder this has been a really good way
+00:35:21.359 of finding the cycle top we are nowhere
+00:35:24.480 there absolutely nowhere near so again
+00:35:28.440 chances are we'll have a little pullback
+00:35:30.520 uh in in January before well first we
+00:35:32.960 hit year end little pullback in January
+00:35:35.359 and we'll just keep ripping higher um
+00:35:37.880 until we eventually hit the cycle top
+00:35:41.560 but that's a long way from now and much
+00:35:44.040 later towards the very end of 2025 or
+00:35:46.720 even into 2026 we can't tell yet we see
+00:35:49.280 how liquidity plays out but that's where
+00:35:51.040 we are the bananas then so to picture
+00:35:53.960 this if we just followed what happened
+00:35:56.400 in 2017
+00:35:58.079 the last time Trump got in uh government
+00:36:00.480 came in is we had this correction driven
+00:36:02.720 by liquidity um it would take us back
+00:36:05.160 down to let's say the gap on the chart
+00:36:07.480 something like
+00:36:09.240 80,000 I I'm not sure that we get that
+00:36:13.760 um because of beginning of the year
+00:36:16.040 flows from institutions and other
+00:36:17.800 players but a correction is the most
+00:36:20.599 likely outcome it's very unlikely for it
+00:36:22.520 to go in a straight line and you're all
+00:36:24.240 going to go what should I do this looks
+00:36:25.440 terrifying oh my God oh my God again
+00:36:27.319 please please it's noise don't
+00:36:29.400  this up says expect 30% pullbacks
+00:36:32.319 so please do not start thinking how do I
+00:36:34.760 hedge this do I do I top out do I sell M
+00:36:37.640 mine up and buy them lower what you'll
+00:36:40.319 do is you will lose out and you will
+00:36:42.359 miss the rally because you've you've
+00:36:44.560 overco complicated a simple trade the
+00:36:46.240 simple trade is do nothing so please
+00:36:48.920 think about doing nothing we also don't
+00:36:50.560 know if Bitcoin Falls where the alts
+00:36:53.359 take that pause and everybody focus on
+00:36:55.960 alt coins and alts rip higher so we
+00:36:58.200 don't know the structure of this so
+00:37:00.839 again don't do anything unless it this
+00:37:03.920 is why we don't use leverage right so
+00:37:06.280 that's my view on this in the end this
+00:37:09.839 is the game the game is the banana Zone
+00:37:12.960 look where we are we've just started the
+00:37:14.839 banana Zone we've had the boring Zone we
+00:37:18.079 all suffered that we had a big boring
+00:37:20.720 Zone this year much like the
+00:37:22.359 2012 boring Zone we've just started now
+00:37:25.480 look at the beginning of each one of
+00:37:27.200 these there's this little wiggle which
+00:37:28.960 is the correction that happens in
+00:37:30.880 January great it means nothing on the
+00:37:34.520 chart so the banana Zone lies ahead I've
+00:37:38.520 given you the Playbook you can if you
+00:37:41.319 play it right unfuck your future with
+00:37:43.160 the banana ride the banana Zone with me
+00:37:46.960 follow the don't this up rules it's
+00:37:49.359 all to play for so anyway hopefully this
+00:37:52.480 is useful to you I I keep trying to
+00:37:54.400 simplify I see the same questions come
+00:37:55.960 up and up and up and up and up again you
+00:37:57.920 know is the market going to top here
+00:37:59.440 what do I do oh my god when do I take
+00:38:01.440 lifestyle chips how much seed do I have
+00:38:03.560 how much Sal I can't help you with all
+00:38:05.760 of these things I can just give you a
+00:38:07.200 general contextualization and I hope
+00:38:09.200 I've done it here the thing is breathe a
+00:38:11.839 little bit go and touch some
+00:38:14.599 grass stop hyperfocusing on the five
+00:38:17.280 minute charts stop all the noise on
+00:38:19.680 Twitter just relax ride the banana and
+00:38:23.480 you'll unfuck your future anyway kids
+00:38:26.599 that's enough for me
+00:38:28.319 um in a little while Jamie Coots who is
+00:38:32.160 really one of the greatest crypto
+00:38:33.640 analysts in the world we're very lucky
+00:38:36.200 to have him at real Vision he'll be
+00:38:38.040 sharing some of his latest research with
+00:38:40.040 you again we want to blow your minds and
+00:38:42.000 show the quality of research now Jamie
+00:38:43.960 is mainly in the proc crypto tier um the
+00:38:47.200 pro crypto tier is where the heavy
+00:38:49.280 thinking gets done in crypto we also do
+00:38:51.520 it obviously in Pro macro from the
+00:38:52.880 global macro investor but Pro crypto is
+00:38:55.000 really for crypto heads who are really
+00:38:56.960 into it there's also RV crypto as well
+00:38:59.599 Jamie myself others were all involved in
+00:39:02.240 that too we're here for you to help you
+00:39:05.040 unfuck your future with a banana see you
+00:39:08.520 around hey thanks for sticking around to
+00:39:10.640 the end uh look if you enjoyed it hit
+00:39:13.000 the Subscribe button and check out the
+00:39:14.960 video here on the right hand side I'm
+00:39:16.520 sure you'll enjoy that one as well and
+00:39:18.200 if you're ready for more go to real.com
+00:39:21.040 for/ jooin I'll see you there
+
+
+
+
+IMPORTANT INDICATOR => TO PREDICT THE MARKET CYCLE TOP (BITCOIN)
+FROM GLOBAL MACRO INVESTOR RAOUL Pal
+I don't think Bitcoin has reached its peak!
+
+The GMI Bitcoin Cycle Top Finder (CTF) is an indicator developed by Global Macro Investor (GMI) to 
+signal potential market cycle tops for Bitcoin. It typically tracks various on-chain and macroeconomic 
+metrics to identify when Bitcoin is reaching its peak price during market cycles. When the CTF spikes 
+sharply, it historically aligns with periods of extreme market exuberance, often preceding significant 
+corrections or bear markets. In simpler terms, the CTF helps to warn investors when Bitcoin might be 
+approaching a cycle top, signaling a potential downturn.
+In the current chart, the CTF is much lower compared to previous peaks, suggesting that the market 
+may not yet be near a major top, 
+which could imply further potential growth for Bitcoin.
+
+Jamie Coutts CMT, CFTe 
+  2nd degree connection2nd
+Chief Crypto Analyst @ Real Vision | Digital Asset Thought Leader | Built the Digital Asset Research 
+Product @ 
+Bloomberg Intelligence
+
+[LATEST UPDATES FROM RAOUL PAL FOR 2025]
+BITCOIN CYCLE TOP FINDER.
+
+# tactiq.io free youtube transcript
+# Raoul Pal - "ONLY DAYS LEFT! Banana Zone Phase 2 Begins When This Happens" - Raoul Pal
+# https://www.youtube.com/watch/-2Vqr1mOMK4
+
+00:00:00.080 now look at both of those charts at
+00:00:02.480 exactly like whatever it is 170 days
+00:00:05.600 after the harving they both have this
+00:00:07.600 correction the liquidity correction it's
+00:00:09.960 all the same thing this is the
+00:00:11.280 everything code it's all driven by uh
+00:00:14.240 liquidity and the Bitcoin harving and
+00:00:16.239 the patterns that emerge so that
+00:00:18.240 correction however long that takes call
+00:00:21.160 it a month three weeks that correction
+00:00:24.880 ushers in phase two of the banana Zone
+00:00:27.560 which tends to be the violent propulsion
+00:00:30.599 of ss the banana Zone signature pattern
+00:00:34.920 real Vision founder and CEO Raul pal
+00:00:38.160 predicted the first part of the banana
+00:00:39.920 Zone several months ago he described it
+00:00:42.879 as a phase in the cryptocurrency market
+00:00:44.920 that typically occurs during periods of
+00:00:46.879 heightened Global liquidity leading to
+00:00:49.399 Rapid and significant appreciation in
+00:00:51.559 crypto assets despite the intense
+00:00:54.079 criticisms when the rapid price gains
+00:00:56.039 didn't come as expected pal stuck to his
+00:00:58.719 guns and insisted that there is a strong
+00:01:00.960 correlation between Global liquidity
+00:01:02.920 Cycles which have shown clear patterns
+00:01:05.159 since 2008 and changes in the financial
+00:01:08.280 markets according to Pal's everything
+00:01:10.799 code framework Global liquidity Cycles
+00:01:13.360 Drive macroeconomic conditions which
+00:01:15.960 determine market Cycles especially for
+00:01:18.360 secular markets like the crypto Market
+00:01:21.360 when we reach certain points of the
+00:01:22.880 global liquidity cycle pal believes it's
+00:01:25.479 nowhere but up for crypto asset prices
+00:01:28.200 because central banks are certain to
+00:01:29.680 provide provide the needed push for
+00:01:31.079 prices in the form of various
+00:01:32.600 quantitative easing exercises such as
+00:01:35.079 interest rate Cuts stimulus packages and
+00:01:37.880 straight to the point money printing in
+00:01:40.159 the past few weeks we've seen Pal's
+00:01:42.240 predictions play out almost perfectly
+00:01:44.520 with Bitcoin prices hitting multiple
+00:01:46.439 all-time highs including its current
+00:01:48.799 all-time high of
+00:01:52.399 8,398
+00:01:54.079 7 other cryptocurrencies also saw
+00:01:57.079 significant price increases with
+00:01:59.119 altcoins like xrp cardano salana and sui
+00:02:03.600 hitting record multi-month and
+00:02:05.520 multi-year highs prices have however
+00:02:08.639 slowed down temporarily a brief phase of
+00:02:11.360 consolidation pal says is to be expected
+00:02:13.800 during every crypto bull market in a
+00:02:16.360 recent video uploaded on his Raul pal
+00:02:18.879 the journeyman YouTube channel pal
+00:02:21.120 describes the ongoing consolidation as
+00:02:23.519 the selloff before blastoff he predicts
+00:02:26.480 that we are nearly upon Phase 2 of the
+00:02:28.560 banana Zone which will coincide with the
+00:02:30.720 much anticipated altcoin season with
+00:02:33.280 crypto prices rising even faster and
+00:02:35.720 more rapidly than Phase 1 pal says this
+00:02:39.360 next phase of the bull market could
+00:02:40.920 begin very quickly as we enter the New
+00:02:42.959 Year taking Bitcoin and other
+00:02:44.760 cryptocurrencies to unprecedented highs
+00:02:47.000 in the blink of an eye as we bring you
+00:02:49.400 clips from Pal's video please take a
+00:02:51.480 little time to like this video subscribe
+00:02:53.720 to the channel and turn on post
+00:02:55.480 notifications for more videos like this
+00:02:58.040 thanks for the support and enjoy the
+00:02:59.680 video video so let's compare the
+00:03:01.680 previous Cycles now that's a little bit
+00:03:03.239 difficult to see with all of the various
+00:03:04.920 colors um but basically you can see from
+00:03:07.720 the orange the current pattern is
+00:03:10.480 looking very similar to either the 2015
+00:03:15.360 18 pattern or the
+00:03:16.959 1821 we think it's much closer to the
+00:03:20.440 20158 pattern and that we've got um that
+00:03:24.519 we've got the an extended move to come
+00:03:29.239 an extended banana so I've always been
+00:03:31.400 asked and talked about my probability
+00:03:33.080 waiting I do not see a peak in the cycle
+00:03:36.360 early because guess what the business
+00:03:38.239 cycle is at its bottom the White House
+00:03:40.239 has just come in with all of the new
+00:03:41.599 people their job grow grow grow grow
+00:03:43.280 grow they will force this economy to
+00:03:45.879 grow and therefore the business cycle
+00:03:47.640 has at least nine months probably 12
+00:03:49.840 months to play out we could even see an
+00:03:52.000 extended cycle into 2026 but it will be
+00:03:55.159 a cycle it will not be a super cycle
+00:03:57.280 because liquidity gets withdrawn and
+00:03:59.040 then gets eventually re added again as
+00:04:01.079 the economy heats up but the back end
+00:04:04.079 loaded so we have a a run into year end
+00:04:07.840 a correction from liquidity then a run
+00:04:10.840 into March April that that usually is
+00:04:13.560 altcoin season Central then we tend to
+00:04:16.399 have a pause or a pullback post tax
+00:04:19.238 season late summer we kick off again
+00:04:22.479 2017 we had a Bitcoin 10x in four months
+00:04:26.600 so all sorts of drama can happen so the
+00:04:30.080 lifestyle chips component that I've
+00:04:31.639 talked about a lot I would use probably
+00:04:34.000 the the you know Feb March April
+00:04:37.919 strength if you want to take some
+00:04:39.440 lifestle chps of 20% 15% 30% 50%
+00:04:44.160 whatever it is you want to maintain your
+00:04:46.520 lifestyle then you've got the power to
+00:04:49.759 run the second half of the bull market
+00:04:52.680 because you're going to be in fear all
+00:04:54.360 the way am I going to lose my money am I
+00:04:55.560 going to get this wrong is it going to
+00:04:56.600 be 2021 over again if you've secured
+00:04:59.199 that thing your mortgage on your house
+00:05:01.320 or your car payment or your that holiday
+00:05:03.520 or paid off your debts whatever that
+00:05:05.720 lifestyle goal is get that and sort it
+00:05:08.080 out as fast as possible it will clear
+00:05:09.520 your head and allow you to extend the
+00:05:12.280 cycle or if not run multicycles the real
+00:05:15.000 wealth is actually made not by trading
+00:05:17.080 the cycle but by running multicycles
+00:05:19.759 because it compounds over time so if you
+00:05:22.240 think of you know the the the depths of
+00:05:25.520 macro crypto winter in 20 in 20 uh n 18
+00:05:32.000 we were down at I don't know 2,000
+00:05:34.120 Bitcoin where are we now 100,00 a 50x
+00:05:37.360 you didn't have to do anything you
+00:05:39.039 didn't have all the drama all the ups
+00:05:40.560 and downs and oh my God FTX and all of
+00:05:42.759 this all of it didn't matter so just
+00:05:45.479 keep that in mind when you get o all of
+00:05:47.560 you are overfocused on the cycle I want
+00:05:49.400 to sell at the top and buy at the bottom
+00:05:51.000 and I'm going to crush it take your
+00:05:52.800 lifestyle chips off you can then run
+00:05:54.840 whatever you want so we're getting
+00:05:56.600 closer to that period here is the
+00:05:58.800 comparison
+00:06:00.240 um when you put them all together the uh
+00:06:03.639 last two halings and where we are now so
+00:06:06.560 where we are now is um very similar to
+00:06:11.160 the white one and the white one is the
+00:06:13.520 Haring from the 2016 17 cycle now look
+00:06:17.400 at both of those charts at exactly like
+00:06:20.440 whatever it is 170 days after the
+00:06:23.039 harving they both have this correction
+00:06:25.360 the liquidity correction it's all the
+00:06:27.400 same thing this is the everything code
+00:06:28.880 it's all driven
+00:06:30.440 by uh liquidity and the Bitcoin harving
+00:06:33.120 and the patterns that emerge so that
+00:06:35.240 correction however long that takes call
+00:06:38.199 it a month three weeks that correction
+00:06:41.840 ushers in phase two of the banana Zone
+00:06:44.520 which tends to be the violent propulsion
+00:06:47.520 of um SS the banana Zone signature
+00:06:51.240 pattern so are we overbought yet are we
+00:06:54.440 should we be worried should we be
+00:06:55.800 thinking you know my God you know what
+00:06:57.560 happens if it's over 100,000 CPS here
+00:07:00.720 well our core risk indicator is nowhere
+00:07:04.000 near overboard we're still barely mid so
+00:07:07.599 it's suggesting we've got a lot further
+00:07:09.840 to go when we look at the log regression
+00:07:12.840 Channel this is my kind of chart of
+00:07:14.440 Truth the thing that I find is immensely
+00:07:17.360 helpful well we're not even at the mean
+00:07:21.560 of the trend so we're still below mean
+00:07:24.919 now we're going to go to one or two
+00:07:27.120 standard deviations in fact it's never
+00:07:28.879 not gone to two standard deviations two
+00:07:31.280 standard deviations you know you're
+00:07:33.400 talking
+00:07:34.800 $500,000 plus Bitcoin now maybe it
+00:07:37.599 doesn't maybe the law of diminishing
+00:07:39.000 returns kicks in and gets to one
+00:07:40.319 standard deviation well that gets you to
+00:07:42.440 250,000 or so I'm not giving you
+00:07:44.800 projections I'm giving you
+00:07:46.599 contextualization of what an exponential
+00:07:48.800 Trend looks like all to play for so
+00:07:51.400 there's nothing to worry about cycle top
+00:07:53.879 finder this has been a really good way
+00:07:56.120 of finding the cycle top we are nowhere
+00:07:59.120 there absolutely nowhere near so again
+00:08:02.800 chances are we'll have a little pullback
+00:08:04.840 uh in in January before we first we'll
+00:08:07.319 hit year end little pullback in January
+00:08:09.720 and we'll just keep ripping higher um
+00:08:12.199 until we eventually hit the cycle top
+00:08:15.919 but that's a long way from now and much
+00:08:18.400 later towards the very end of 2025 or
+00:08:21.080 even into 2026 we can't tell yet you see
+00:08:23.639 how liquidity plays out but that's where
+00:08:25.400 we are the bananas then so a picture
+00:08:27.960 this if we just followed what happened
+00:08:30.280 in 2017 the last time Trump got in uh
+00:08:33.919 government came in is we had this
+00:08:35.880 correction driven by liquidity um it
+00:08:38.200 would take us back down to let's say the
+00:08:40.599 gap on the chart something like 880,000
+00:08:43.679 I I'm not sure that we get that um
+00:08:47.320 because of beginning of the year flows
+00:08:49.519 from institutions and other players but
+00:08:52.000 a correction is the most likely outcome
+00:08:54.399 it's very unlikely for it to go in a
+00:08:56.000 straight line and you're all going to go
+00:08:57.640 what should I do this looks terrifying
+00:08:58.920 oh my God my God again please it's noise
+00:09:02.279 don't this up says expect 30% pullbacks
+00:09:05.240 so please do not start thinking how do I
+00:09:07.720 hedge this do I do I top out do I sell
+00:09:10.320 my mine up and buy them lower what
+00:09:12.480 you'll do is you will lose out and you
+00:09:15.079 will missed the rally because you've
+00:09:17.160 you've over complicated a simple trade
+00:09:19.120 the simple trade is do nothing so please
+00:09:21.640 think about doing nothing we also don't
+00:09:23.240 know if Bitcoin Falls whether alts take
+00:09:26.440 that pause and everybody focus on
+00:09:28.720 altcoins and El rip higher so we don't
+00:09:31.320 know the structure of this so again
+00:09:34.279 don't do anything unless it this is why
+00:09:36.720 we don't use leverage right so that's my
+00:09:39.120 view on this in the end this is the game
+00:09:42.560 the game is the banana Zone look where
+00:09:44.680 we are we've just started the banana
+00:09:46.519 Zone we've had the boring Zone we all
+00:09:48.800 suffered that we had a big boring Zone
+00:09:51.480 this year much like the 200 12 boring
+00:09:54.240 Zone we've just started now look at the
+00:09:56.440 beginning of each one of these there's
+00:09:58.440 this little wiggle which is the
+00:09:59.760 correction that happens in January great
+00:10:02.680 it means nothing on the chart so the
+00:10:05.399 banana Zone lies ahead the corrections
+00:10:08.360 mean nothing not just because we've seen
+00:10:10.600 them play out multiple times during
+00:10:12.279 previous Cycles but also because of what
+00:10:14.519 lies ahead when this phase ends
+00:10:17.399 according to Pal what lies ahead is
+00:10:19.800 Bitcoin hitting more milestones and
+00:10:21.839 higher all-time highs and other
+00:10:23.920 cryptocurrencies like ethereum salana
+00:10:26.880 Dogecoin and sui outperforming the
+00:10:29.480 largest cryptocurrency and hitting new
+00:10:31.839 all-time highs before the cycle Peaks
+00:10:34.160 toward the end of the year to be
+00:10:36.240 adequately prepared for the good and bad
+00:10:38.279 moments that will be sure to come with
+00:10:40.079 these intense and Rapid price movements
+00:10:42.560 pal suggests taking some lifestyle chips
+00:10:44.880 off the table before tax season in March
+00:10:47.480 so you have the mental strength to face
+00:10:49.320 the rest of the bull market and
+00:10:50.800 succeeding Cycles in his video the real
+00:10:54.120 Vision CEO provides more tips about
+00:10:56.600 navigating crypto Market Cycles he also
+00:10:59.639 discusses important economic indicators
+00:11:02.120 and crypto market dynamics identifying
+00:11:04.760 the correlation between them and what
+00:11:06.760 this means for crypto prices going
+00:11:08.760 forward let's get back to the video okay
+00:11:11.920 let's go back to the liquidity story so
+00:11:14.120 the liquidity story here is oh my God
+00:11:17.000 and I've been set this chart a thousand
+00:11:18.440 times by people oh my God what happens
+00:11:20.120 is it all over is this the peak is this
+00:11:21.920 the end do we get out now what happens
+00:11:24.200 what happens panic panic panic panic
+00:11:25.880  okay we had exactly the same
+00:11:28.959 thing
+00:11:29.880 last time Trump was elected the dollar
+00:11:31.800 was strong rates went up liquidity
+00:11:34.920 contracted the market had a big rally
+00:11:37.920 which is Bitcoin and then in January
+00:11:40.560 because of the lag what we found was a
+00:11:43.560 sharp 27% correction in Bitcoin um and
+00:11:46.959 then it ripped higher ripped higher so
+00:11:50.000 much in fact that it went up 23x now I'm
+00:11:54.000 not expecting that because this was a
+00:11:55.600 much earlier cycle but what we're saying
+00:11:58.320 is that correction is not to fear that
+00:12:00.279 correction is just a marker point from
+00:12:02.760 phase one of the banana Zone to phase
+00:12:04.519 two of the banana Zone phase two of the
+00:12:06.680 banana Zone usually goes into US tax
+00:12:09.160 season which is like April um then
+00:12:12.200 there's usually a consolidation because
+00:12:13.639 people have to sell tokens to pay taxes
+00:12:15.920 and then there's usually phase three of
+00:12:17.360 the banana zone is the rip into year end
+00:12:20.120 and that's all driven by the liquidity
+00:12:21.839 cycle so we can see these banan Zone
+00:12:24.760 periods as they start appearing Bitcoin
+00:12:27.279 just does this every time
+00:12:29.760 like Doge does so we've just broken that
+00:12:32.519 part of the cycle so this is the start
+00:12:34.720 of the banana Zone as we start
+00:12:36.600 accelerating higher going back to uh
+00:12:40.959 liquidity here's Global M2 you see
+00:12:43.279 global M2 does this a lot it also wedges
+00:12:45.839 I love a wed they're the best CH
+00:12:47.199 patterns in the world and what happens
+00:12:49.120 is it has a break higher than this
+00:12:51.560 consolidation it's happened every time
+00:12:53.600 we've got to the banana Zone period the
+00:12:56.120 kind of us election cycle stuff like
+00:12:58.120 that so we've done that we've re we've
+00:13:00.519 corrected the breakout now global M2 is
+00:13:02.600 actually driven by the strength of the
+00:13:04.720 dollar now the dollar has started to
+00:13:06.839 weaken we're expected to weaken going
+00:13:08.920 forwards um and that will then reignite
+00:13:11.639 the next phase of the banana Zone as we
+00:13:14.040 start bouncing higher you can see those
+00:13:16.120 Corrections in them too were short now
+00:13:18.800 the reason being is we've got to roll
+00:13:21.079 all of this Global liquidity we've got
+00:13:23.480 massive amounts of debt to roll over and
+00:13:26.880 you need liquidity to do it so that is
+00:13:29.639 the game the big game the everything
+00:13:31.639 code game that I've talked you about so
+00:13:33.839 the everything Cod code game is very
+00:13:35.600 much at play this is a phase the early
+00:13:38.079 phase of the breakout this year is the
+00:13:40.720 year of liquidity and that's why the
+00:13:43.760 year ahead and that's why the banana
+00:13:46.480 Zone plays out so beautifully so we
+00:13:50.199 talked about global M2 being driven by
+00:13:52.240 the dollar so let's look at the dollar
+00:13:54.920 and also rates is the other part of um
+00:13:57.440 Financial conditions and liquidity
+00:13:59.880 so what we're finding is that the dollar
+00:14:04.000 as you can see and rates had moved away
+00:14:07.079 from Trend that was the strength that we
+00:14:08.800 saw this is what creates the the um the
+00:14:14.199 down moving Global liquidity now what's
+00:14:16.839 interesting is the city economic
+00:14:19.120 surprises index which is a index of
+00:14:21.920 whether the economy is beating forecast
+00:14:24.959 or underperforming forecast says we
+00:14:27.480 should now have a period of under
+00:14:29.160 performing forecast because it was
+00:14:30.880 driven by the tighten of conditions from
+00:14:33.040 the dollar and rates now obviously we
+00:14:36.120 know if the economy starts
+00:14:37.880 underperforming forecast like we just
+00:14:39.920 saw the unemployment rate rise to
+00:14:42.519 4.2% once we start to see things like
+00:14:45.279 that happening what happens is people
+00:14:47.800 start thinking about we need to cut
+00:14:49.880 rates more so that's a very interesting
+00:14:52.399 thing so here in white is is rate Cuts
+00:14:56.120 priced in very few rate Cuts priced in
+00:14:59.680 so there's like uh I don't know what the
+00:15:01.800 scale is here but there's very little
+00:15:03.720 rate Cuts priced in but it's driven on a
+00:15:06.399 forward basis by the dollar and the long
+00:15:09.360 end so it's now saying as we weaken
+00:15:12.600 economic growth we should start to see
+00:15:14.720 rate cuts and then as you can see we're
+00:15:17.320 starting to see the pickup um again in
+00:15:19.959 financial conditions which is important
+00:15:21.920 and I'll come to that in a minute so
+00:15:23.839 when you put it all together they're all
+00:15:25.040 the same thing FEG rate cuts the dxy
+00:15:27.639 10-year bond yields they're all highly
+00:15:30.240 mirroring each other 10-year bond yelds
+00:15:32.720 seem to be suggesting faster and faster
+00:15:35.880 that the dollar should roll over and rat
+00:15:37.839 should roll over too that creates
+00:15:40.240 Financial conditions and now what we've
+00:15:42.000 got here is financial conditions index
+00:15:44.839 which is um rates the dollar and oil
+00:15:48.680 prices has been consolidating for a
+00:15:50.759 period of time and it is suggesting that
+00:15:54.120 the ism which is the business cycle The
+00:15:56.480 Institute of Supply manager survey
+00:15:58.560 should be much higher I.E we've got
+00:16:01.600 economic growth to come it leads by 9
+00:16:03.920 months so in 9 months time the economy
+00:16:06.560 will be a lot stronger than it is today
+00:16:09.360 and this is going to be important for
+00:16:10.720 you so all of the stuff we talked about
+00:16:12.720 rates the dollar um even oil prices all
+00:16:17.120 Drive Financial conditions which drives
+00:16:19.440 cryptocurrencies which drives markets in
+00:16:21.680 general which drives the business cycle
+00:16:24.319 when we look at the forward-looking
+00:16:25.480 basis on the business cycle we can see
+00:16:27.360 things like the Philly fed well then new
+00:16:29.680 orders index is exploding higher now
+00:16:32.319 whether this is just on the Trump
+00:16:34.880 Victory or whether it's on um orders
+00:16:38.720 they see in advance not sure yet Philly
+00:16:41.480 fed um expectations index exploding
+00:16:44.560 higher Empire manufacturing for that's
+00:16:46.880 for New York exploding higher all
+00:16:49.480 suggesting the ism is going to be super
+00:16:51.480 strong going forwards Pal's deep rooted
+00:16:53.519 conviction in cryptocurrencies and
+00:16:55.199 digital assets is a result of several
+00:16:57.639 interconnected macro economic
+00:16:59.920 technological and structural factors he
+00:17:03.120 emphasizes the role of liquidity in
+00:17:05.079 driving financial markets arguing that
+00:17:07.679 cryptocurrencies act as high beta plays
+00:17:09.880 on global liquidity during periods of
+00:17:12.760 increasing liquidity for example when
+00:17:15.280 central banks ease monetary policy or
+00:17:17.839 inject funds into the economy digital
+00:17:20.559 assets tend to outperform traditional
+00:17:22.599 asset classes Central bank's loose
+00:17:25.039 monetary policies and excessive money
+00:17:27.119 printing erode the value of
+00:17:29.440 currencies pal views Bitcoin and other
+00:17:31.960 digital assets as Hedges against this
+00:17:33.919 debasement offering protection and
+00:17:36.080 long-term value preservation he sums up
+00:17:39.080 this thesis in a recent tweet that reads
+00:17:41.640 eventually Maybe by 2030 everyone will
+00:17:44.679 finally realize the bubble isn't in
+00:17:46.720 asset prices but in liquidity used to
+00:17:49.440 service the global government debts
+00:17:52.039 Global liquidity lowers the denominator
+00:17:54.840 debasement crypto is the life raft
+00:17:57.200 because the asset class outperformed
+00:17:59.240 massively in addition digital assets are
+00:18:02.159 at the Forefront of technological change
+00:18:04.640 offering solutions for decentralized
+00:18:06.640 finance Defi tokenization and ownership
+00:18:10.240 in the digital economy Beyond currencies
+00:18:13.360 blockchain technology is enabling new
+00:18:15.559 sectors including tokenized real estate
+00:18:18.320 supply chain gaming gamey and
+00:18:21.320 non-fungible tokens
+00:18:23.480 nfts pal considers these Innovations
+00:18:26.280 transformative creating new
+00:18:27.960 opportunities for value capture lastly
+00:18:31.039 cryptocurrencies and blockchain networks
+00:18:33.120 follow meta's law where their value
+00:18:35.640 increases exponentially with more users
+00:18:38.720 pal believes that the adoption curve of
+00:18:40.600 crypto assets resembles that of the
+00:18:42.640 internet in its early stages suggesting
+00:18:45.159 a massive upside as adoption grows he
+00:18:48.320 predicts that the crypto Market could
+00:18:49.960 grow from its current valuation of 3.28
+00:18:52.840 trillion to a$ 100 trillion Market by
+00:18:56.360 2030 do you share Pal's optimis about
+00:18:59.280 the coming phase of the banana Zone what
+00:19:01.840 cryptocurrencies do you think will
+00:19:03.520 outperform brilliantly next year please
+00:19:06.320 drop your thoughts comments and
+00:19:08.320 observations in the comment section
+00:19:10.240 below also ensure you like this video
+00:19:13.679 subscribe to the channel and turn on
+00:19:15.679 post notifications for more videos like
+00:19:17.840 this thanks for
+00:19:27.720 watching for
