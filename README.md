@@ -1,4 +1,4 @@
-### AGENT TEMPLATE
+### AI AGENT BACKEND
 
 This is an AI Crypto agent application that does the following things:
 - Fetches onchain data
